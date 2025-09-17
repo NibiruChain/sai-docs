@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to Sai](README.md)
+* [Intro to Sai](/README.md)
 * [Learn | About Sai](learn/README.md)
   * [Trading on Sai](learn/trading/README.md)
     * [Executing Trades](learn/trading/executing-trades.md)
@@ -17,3 +17,5 @@
 
 * [Smart Contracts](sai-core/smart-contracts/README.md)
   * [Perp Contract](sai-core/smart-contracts/perp-contract.md)
+  * [Perp: Borrowing Module](sai-core/smart-contracts/perp-borrowing.md)
+  * [Perp: Price Impact Module](sai-core/smart-contracts/perp-price-impact.md)
