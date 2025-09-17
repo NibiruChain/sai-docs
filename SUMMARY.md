@@ -16,4 +16,5 @@
   * [Perp Contract](sai-core/perp-contract.md)
   * [Perp: Borrowing Module](sai-core/perp-borrowing.md)
   * [Perp: Price Impact Module](sai-core/perp-price-impact.md)
+  * [Perp: State Variables](sai-core/perp-state.md)
 
