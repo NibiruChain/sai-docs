@@ -1,4 +1,6 @@
 ---
+icon: fire
+cover: .gitbook/assets/sai-twitter-banner-1500x500.jpg
 description: >-
   Sai's perpetual exchange app is implemented in Rust, a powerful language for
   secure, sandboxed programming, that compiles into Wasm bytecode. 5 key
@@ -19,7 +21,7 @@ description: >-
   * Lets MetaMask/EVM users interact with the Wasm contracts.
   * Handles token conversion and cross-VM calls to `perp` and `vault`.
   * Mirrors the essential user flows (deposit, withdraw, open/close) for EVM wallets.
-* **`vault` (Liquidity provider pool)**: [Implements SLP Vaults](../../learn/slp.md).
+* **`vault` (Liquidity provider pool)**: [Implements SLP Vaults](../learn/slp.md).
   * Aggregates LP liquidity to underwrite trader PnL.
   * Issues and accounts for shares against total assets; supports deposits and epoch-based withdrawals.
   * Absorbs trader PnL: when traders win, the vault pays out; when traders lose, the vault accrues profits.
