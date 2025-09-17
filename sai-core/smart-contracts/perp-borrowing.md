@@ -2,7 +2,7 @@
 description: Borrowing fees and groups in the Sai Perp (perpetual futures) contract.
 ---
 
-# Perp: Borrowing Groups 
+# Perp: Borrowing Module 
 
 The **Borrowing Module** is a crucial part of the perpetual futures trading system. Its primary responsibilities include:
 

@@ -4,12 +4,10 @@ description: An in-depth look at the Sai Perp (perpetual futures) contract imple
 
 # Perp Contract
 
-> **Note**:
->
-> - **Events** are not covered in this guide.
-> - **Borrowing logic** is described thoroughly in [./borrowing/README.md](./src/borrowing/README.md).
-> - **Fees logic** is described thoroughly in [./fees/README.md](./src/fees/README.md).
-> - **Price impact** logic is described thoroughly in [./price_impact/README.md](./src/price_impact/README.md).
+- **Events** are not covered in this guide.
+- **Borrowing logic** is described thoroughly here in the [Perp: Borrowing Module](./perp-borrowing.md) specification.
+- **Fees logic** is described thoroughly in [./fees/README.md](./src/fees/README.md).
+- **Price impact** logic is described thoroughly in [Perp: Price Impact Module](./perp-price-impact.md).
 
 ---
 

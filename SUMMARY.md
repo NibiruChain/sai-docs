@@ -12,10 +12,8 @@
 * [Guides | Using Sai](guides/README.md)
   * [Getting started](guides/getting-started.md)
 * [Community](community.md)
-
-## Sai Core
-
-* [Smart Contracts](sai-core/smart-contracts/README.md)
+* [Sai Core (For Devs)](sai-core/README.md)
   * [Perp Contract](sai-core/smart-contracts/perp-contract.md)
   * [Perp: Borrowing Module](sai-core/smart-contracts/perp-borrowing.md)
   * [Perp: Price Impact Module](sai-core/smart-contracts/perp-price-impact.md)
+
