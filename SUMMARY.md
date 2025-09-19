@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to Sai](/README.md)
+* [Intro to Sai](README.md)
 * [Learn | About Sai](learn/README.md)
   * [Trading on Sai](learn/trading/README.md)
     * [Executing Trades](learn/trading/executing-trades.md)
@@ -17,4 +17,5 @@
   * [Perp: Borrowing Module](sai-core/perp-borrowing.md)
   * [Perp: Price Impact Module](sai-core/perp-price-impact.md)
   * [Perp: State Variables](sai-core/perp-state.md)
-
+* [Legal](legal/README.md)
+  * [Terms of Use](legal/terms-of-use.md)
