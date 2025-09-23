@@ -31,83 +31,83 @@ The User may access or use the Website, the Interface, and the Services only for
 1. In any way that violates any applicable federal, state, local, or international laws or regulations (including, without limitation, any applicable anti-money laundering, anti-proliferation and anti-terrorism financing laws or any laws regarding the export of data or software to and from certain countries pursuant to Applicable Laws).
 2. In any manner, directly or indirectly, designed to cause or to result in, or that has constituted, or which might reasonably be expected to constitute, the unlawful stabilization or manipulation of the price of any digital assets on any of blockchain networks or other blockchains or any other digital assets, including but not limited to fungible digital assets or non-fungible tokens.
 
-1.       For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information, or otherwise.
+1. For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information, or otherwise.
 
-1.       To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail," "chain letter," "spam," or any other similar solicitation.
+1. To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail," "chain letter," "spam," or any other similar solicitation.
 
-1.       To impersonate or attempt to impersonate Sai, anyone affiliated with Sai, another user, or any other person or entity (including, without limitation, by using email addresses, screen names, similarly named or commonly misspelled URLs, or associated blockchain identities).
+1. To impersonate or attempt to impersonate Sai, anyone affiliated with Sai, another user, or any other person or entity (including, without limitation, by using email addresses, screen names, similarly named or commonly misspelled URLs, or associated blockchain identities).
 
-1.       To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Website, the Interface, or the Services, or which, as determined by us, may harm Sai or Users, or expose them to liability.
+1. To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Website, the Interface, or the Services, or which, as determined by us, may harm Sai or Users, or expose them to liability.
 
-1.       If the User is a citizen of or otherwise accessing the Website, the Interface, the Wallet, or the Services from the nations of the United States of America, Canada, Cuba, Iran, North Korea, Syria, certain sanctioned areas of Ukraine (including without limitation, the regions of Crimea, Donetsk, and Luhansk), or other countries or geographic regions sanctioned by the United States Department of the Treasury (_collectively_, "Prohibited Jurisdictions"), or if the User is otherwise listed as a Specially Designated National by the United States Department of the Treasury's Office of Foreign Asset Control ("OFAC").
+1. If the User is a citizen of or otherwise accessing the Website, the Interface, the Wallet, or the Services from the nations of the United States of America, Canada, Cuba, Iran, North Korea, Syria, certain sanctioned areas of Ukraine (including without limitation, the regions of Crimea, Donetsk, and Luhansk), or other countries or geographic regions sanctioned by the United States Department of the Treasury (_collectively_, "Prohibited Jurisdictions"), or if the User is otherwise listed as a Specially Designated National by the United States Department of the Treasury's Office of Foreign Asset Control ("OFAC").
 
-1.       If doing so is illegal or impermissible according to any Applicable Laws, including without limitation those promulgated by the United Nations Security Council, the United Kingdom, the United States (including those prohibiting dealings with sanctioned persons identified by the OFAC as Specially Designated Nationals and Blocked Persons ("SDN"), or other U.S. non-SDN restricted or prohibited parties lists, and those prohibiting dealings with persons organized, resident, or located in comprehensively sanctioned jurisdictions), and/or any other applicable national, provincial, federal, state, municipal or local laws and regulations (each as amended from time to time).
+1. If doing so is illegal or impermissible according to any Applicable Laws, including without limitation those promulgated by the United Nations Security Council, the United Kingdom, the United States (including those prohibiting dealings with sanctioned persons identified by the OFAC as Specially Designated Nationals and Blocked Persons ("SDN"), or other U.S. non-SDN restricted or prohibited parties lists, and those prohibiting dealings with persons organized, resident, or located in comprehensively sanctioned jurisdictions), and/or any other applicable national, provincial, federal, state, municipal or local laws and regulations (each as amended from time to time).
 
-1.       To cause the Website, the Interface, and the Services, any of their underlying blockchain networks or technologies, or any other functionality with which they interact to work other than as intended.
+1. To cause the Website, the Interface, and the Services, any of their underlying blockchain networks or technologies, or any other functionality with which they interact to work other than as intended.
 
-1.       To damage the reputation of Sai or impair any of Sai's legal rights or interests.
+1. To damage the reputation of Sai or impair any of Sai's legal rights or interests.
 
-1.       To circumvent any filtering or geo-blocking, access control measures, security measures, or content filtering that Sai deploys on the Website, the Interface, or the Services, including, without limitation, by using a VPN.
+1. To circumvent any filtering or geo-blocking, access control measures, security measures, or content filtering that Sai deploys on the Website, the Interface, or the Services, including, without limitation, by using a VPN.
 
 Additionally, the User agrees not to:
 
-1.       Be likely to deceive or defraud, or attempt to deceive or defraud, any person, including (without limitation) providing any false, inaccurate, or misleading information (whether directly through the Website, the Interface, or the Services or through an external means that affects the  Website, the Interface, or the Services) with the intent to unlawfully obtain the property of another or to provide knowingly or recklessly false information, including in any way that causes inaccuracy among the content on the Website, the Interface, or the Services.
+1. Be likely to deceive or defraud, or attempt to deceive or defraud, any person, including (without limitation) providing any false, inaccurate, or misleading information (whether directly through the Website, the Interface, or the Services or through an external means that affects the  Website, the Interface, or the Services) with the intent to unlawfully obtain the property of another or to provide knowingly or recklessly false information, including in any way that causes inaccuracy among the content on the Website, the Interface, or the Services.
 
-1.       Use the Website, the Interface, or the Services to manipulate or defraud any exchange, oracle system, or blockchain network, or the users thereof.
+1. Use the Website, the Interface, or the Services to manipulate or defraud any exchange, oracle system, or blockchain network, or the users thereof.
 
-1.       Promote any illegal activity, or advocate, promote, or assist any unlawful act.
+1. Promote any illegal activity, or advocate, promote, or assist any unlawful act.
 
-1.       Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person.
+1. Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person.
 
-1.       Impersonate any person, misrepresent the User's identity, or misrepresent its affiliation with any person or organization.
+1. Impersonate any person, misrepresent the User's identity, or misrepresent its affiliation with any person or organization.
 
-1.       Misuse Sai's intellectual property, name, or logo, including any trade or service marks, without express consent from Sai or in any manner that otherwise harms Sai, including any action that implies an untrue endorsement by or affiliation with Sai;
+1. Misuse Sai's intellectual property, name, or logo, including any trade or service marks, without express consent from Sai or in any manner that otherwise harms Sai, including any action that implies an untrue endorsement by or affiliation with Sai;
 
-1.       Engage in any activity or behavior that violates any Applicable Laws concerning, or otherwise damages, the integrity of the Website, the Interface, or the Services, or any other service or software which relies on the Interface or the Services.
+1. Engage in any activity or behavior that violates any Applicable Laws concerning, or otherwise damages, the integrity of the Website, the Interface, or the Services, or any other service or software which relies on the Interface or the Services.
 
-1.       Give the impression that they emanate from or are endorsed by us or any other person or entity if this is not the case as it relates to the Website, the Interface, or the Services.
+1. Give the impression that they emanate from or are endorsed by us or any other person or entity if this is not the case as it relates to the Website, the Interface, or the Services.
 
-1.       Use the Website or the Interface in any manner that could disable, overburden, damage, impair, or interfere with any other party's use of the Website or the Interface, including the ability to engage in real time activities through the Website or the Interface or with the Services.
+1. Use the Website or the Interface in any manner that could disable, overburden, damage, impair, or interfere with any other party's use of the Website or the Interface, including the ability to engage in real time activities through the Website or the Interface or with the Services.
 
-1.       Use any robot, spider, or other automatic device, process, or means to access the Website, the Interface, or the Services for any purpose, including monitoring or copying any of the material on the Website or the Interface.
+1. Use any robot, spider, or other automatic device, process, or means to access the Website, the Interface, or the Services for any purpose, including monitoring or copying any of the material on the Website or the Interface.
 
-1.       Use any manual process to monitor or copy any of the material on the Website or the Interface, or for any other purpose not expressly authorized in these Terms of Use, without our prior written consent.
+1. Use any manual process to monitor or copy any of the material on the Website or the Interface, or for any other purpose not expressly authorized in these Terms of Use, without our prior written consent.
 
-1.       Use any device, software, or routine that interferes with the proper working of the Website, the Interface, or the Services.
+1. Use any device, software, or routine that interferes with the proper working of the Website, the Interface, or the Services.
 
-1.       Introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful to the Website, the Interface, the Services, the Users, any underlying blockchain, or any of the Services' related utilities or functionalities.
+1. Introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful to the Website, the Interface, the Services, the Users, any underlying blockchain, or any of the Services' related utilities or functionalities.
 
-1.       Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Website or the Interface, the server on which the either is stored, or any server, computer, or database connected to the Website or the Interface, including any underlying blockchain.
+1. Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Website or the Interface, the server on which the either is stored, or any server, computer, or database connected to the Website or the Interface, including any underlying blockchain.
 
-1.       Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our Privacy Policy.
+1. Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our Privacy Policy.
 
-1.       Engage in any activity that would infringe or violate any copyright, trademark, right of publicity or privacy or any other proprietary right under Applicable Law, including but not limited to sales, distribution, or access to licensed materials without the appropriate authorization from the rights holder.
+1. Engage in any activity that would infringe or violate any copyright, trademark, right of publicity or privacy or any other proprietary right under Applicable Law, including but not limited to sales, distribution, or access to licensed materials without the appropriate authorization from the rights holder.
 
-1.       Attack the Website, the Interface, the Services, or any of the Services' underlying blockchain networks or technologies, or any other functionality with which the Services interact via a denial-of-service attack or a distributed denial-of-service attack.
+1. Attack the Website, the Interface, the Services, or any of the Services' underlying blockchain networks or technologies, or any other functionality with which the Services interact via a denial-of-service attack or a distributed denial-of-service attack.
 
-1.       Use the Website, the Interface, or the Services in any way that is, in our sole discretion, libelous, defamatory, profane, obscene, pornographic, sexually explicit, indecent, lewd, vulgar, suggestive, harassing, stalking, hateful, threatening, offensive, discriminatory, bigoted, abusive, inflammatory, fraudulent, deceptive, or otherwise objectionable or likely or intended to incite, threaten, facilitate, promote, or encourage hate, racial intolerance, or violent acts against others.
+1. Use the Website, the Interface, or the Services in any way that is, in our sole discretion, libelous, defamatory, profane, obscene, pornographic, sexually explicit, indecent, lewd, vulgar, suggestive, harassing, stalking, hateful, threatening, offensive, discriminatory, bigoted, abusive, inflammatory, fraudulent, deceptive, or otherwise objectionable or likely or intended to incite, threaten, facilitate, promote, or encourage hate, racial intolerance, or violent acts against others.
 
-1.       Use the Website, the Interface, or the Services to harass, abuse, or harm another person or entity, including anyone on the Sai team or its service providers.
+1. Use the Website, the Interface, or the Services to harass, abuse, or harm another person or entity, including anyone on the Sai team or its service providers.
 
-1.       Encourage or induce any third party to engage in any of the activities prohibited under these Terms.
+1. Encourage or induce any third party to engage in any of the activities prohibited under these Terms.
 
-1.       Otherwise attempt to interfere with the proper working of the Website, the Interface, or the Services.
+1. Otherwise attempt to interfere with the proper working of the Website, the Interface, or the Services.
 
 ## 3. User Acknowledgements Required to Access the Website, the Interface, and the Services
 
 As a condition to accessing or using the Website, the Interface, or the Services, you acknowledge, understand, and agree to the following:
 
-1.       The information provided in the Website, the Interface, and for the Services is for general informational purpose only and Sai reserves the right to update, modify, or amend any contents therein, at its sole discretion and without prior notice.  Nothing herein should be used or considered as legal, financial, tax, or any other advice, nor as an instruction or invitation to act in any way by anyone;
+1. The information provided in the Website, the Interface, and for the Services is for general informational purpose only and Sai reserves the right to update, modify, or amend any contents therein, at its sole discretion and without prior notice.  Nothing herein should be used or considered as legal, financial, tax, or any other advice, nor as an instruction or invitation to act in any way by anyone;
 
-1.       Sai does not act as an agent for you or any other user of the Website, the Interface, or the Services;
+1. Sai does not act as an agent for you or any other user of the Website, the Interface, or the Services;
 
-1.       You are solely responsible for your use of and access to the Website, the Interface, and the Services, including, without limitation, all of your use of, transfers and receipts of, and all other transactions involving digital assets;
+1. You are solely responsible for your use of and access to the Website, the Interface, and the Services, including, without limitation, all of your use of, transfers and receipts of, and all other transactions involving digital assets;
 
-1.       to the fullest not prohibited by Applicable Laws, We owe no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, you hereby irrevocably disclaim, waive, and eliminate those duties and liabilities;
+1. to the fullest not prohibited by Applicable Laws, We owe no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, you hereby irrevocably disclaim, waive, and eliminate those duties and liabilities;
 
-1.       you are solely responsible for reporting and paying any taxes incurred in connection with your use of the Website, the Interface, and the Services; and
+1. you are solely responsible for reporting and paying any taxes incurred in connection with your use of the Website, the Interface, and the Services; and
 
-1.       we have no control over, or liability for, the delivery, quality, safety, legality, or any other aspect of any digital assets that you may transfer to or from a third party, and we are not responsible for ensuring that an entity with whom you transact completes the transaction or is authorized to do so (or repays any amounts it may be required to repay to you), and if you experience a problem with any transactions in digital assets using the Website, the Interface, or the Services, then you bear the entire risk.
+1. we have no control over, or liability for, the delivery, quality, safety, legality, or any other aspect of any digital assets that you may transfer to or from a third party, and we are not responsible for ensuring that an entity with whom you transact completes the transaction or is authorized to do so (or repays any amounts it may be required to repay to you), and if you experience a problem with any transactions in digital assets using the Website, the Interface, or the Services, then you bear the entire risk.
 
 ### 4. User Covenants
 
@@ -157,9 +157,9 @@ We reserve the right to withdraw or amend the Website or the Interface, and any 
 
 The User is responsible for both:
 
-1.       Making all arrangements necessary for the User to have access to the Website, the Interface, and the Services.
+1. Making all arrangements necessary for the User to have access to the Website, the Interface, and the Services.
 
-1.       Ensuring that all persons who access the Website, the Interface, or the Services through the User's internet connection are aware of these Terms of Use and comply with them.
+1. Ensuring that all persons who access the Website, the Interface, or the Services through the User's internet connection are aware of these Terms of Use and comply with them.
 
 To access certain Services or some of the resources offered on the Website or the Interface, the User may be asked to provide certain registration details or other information. Other Services or resources offered on the Website or Interface may require the User to utilize certain Web3 capabilities, such a digital asset wallet capable of interacting with the User's web browser or relevant blockchain nodes ("Web3 Utilities"). It is a condition of the User's use of the Website, the Interface, and the Services that the User only operate such Web3 Utilities with a private key(s) that the User created or has the direct, explicit permission of the party who created the relevant private key(s). The User agrees that all information it provides to interact with the Website, Interface, Services, or otherwise, including, but not limited to, through the use of any interactive features on the Website (such as registration information) is correct, current, and complete, and is governed by our Privacy Policy. The User consents to all actions we take with respect to the User's information as is consistent with our Privacy Policy.
 
@@ -171,23 +171,23 @@ We have the right to disable the User's access, including those associated with 
 
 Except any open-source software, or other material incorporated in the Website, the Interface, or the Services, the Website and the Interface and their entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by Sai, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. The User must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on the Website or the Interface, except as follows:
 
-1.       The User's computer may temporarily store copies of such materials in RAM incidental to the User's accessing and viewing those materials.
+1. The User's computer may temporarily store copies of such materials in RAM incidental to the User's accessing and viewing those materials.
 
-1.       The User may store files that are automatically cached by the User's web browser for display enhancement purposes.
+1. The User may store files that are automatically cached by the User's web browser for display enhancement purposes.
 
-1.       The User may print or download copies of a reasonable number of pages of the Website or the Interface for its own personal, non-commercial use and not for further reproduction, publication, or distribution.
+1. The User may print or download copies of a reasonable number of pages of the Website or the Interface for its own personal, non-commercial use and not for further reproduction, publication, or distribution.
 
-1.       If we provide desktop, mobile, or other applications for download, the User may download a single copy to its computer or mobile device, provided the User agrees to be bound by any applicable end user license agreement or other similar agreement for such applications.
+1. If we provide desktop, mobile, or other applications for download, the User may download a single copy to its computer or mobile device, provided the User agrees to be bound by any applicable end user license agreement or other similar agreement for such applications.
 
-1.       For any open-source materials provided on the Website, the Interface, or through the Services, the User may perform any activities only as is consistent with the open-source license applicable to such materials.
+1. For any open-source materials provided on the Website, the Interface, or through the Services, the User may perform any activities only as is consistent with the open-source license applicable to such materials.
 
 The User must not:
 
-1.       Modify copies of any materials from the Website or the Interface.
+1. Modify copies of any materials from the Website or the Interface.
 
-1.       Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.
+1. Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.
 
-1.       Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from the Website or the Interface.
+1. Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from the Website or the Interface.
 
 If the User wishes to make any use of material on the Website or the Interface other than that set out in this Section, it should address its request to: sai { at } nibiru.org.
 
@@ -257,7 +257,7 @@ These Terms of Use, and the provision of the Website, the Interface, and the Ser
 
 ## 19.     No Insurance
 
-Your digital asset wallet and digital asset balances contained therein are not checking or savings accounts, and we do not provide any kind of insurance to you against any type of loss, including (without limitation) losses due to decrease in value of assets, assets lost due to a cybersecurity failure, or from your or other individuals' errors or malfeasance. In most jurisdictions digital assets are not legal tender, and most digital assets are not backed by any government. Your digital asset balances are not covered by Federal Deposit Insurance Corporation ("FDIC") or Securities Investor Protection Corporation ("SIPC") protections.&#x20;
+Your digital asset wallet and digital asset balances contained therein are not checking or savings accounts, and we do not provide any kind of insurance to you against any type of loss, including (without limitation) losses due to decrease in value of assets, assets lost due to a cybersecurity failure, or from your or other individuals' errors or malfeasance. In most jurisdictions digital assets are not legal tender, and most digital assets are not backed by any government. Your digital asset balances are not covered by Federal Deposit Insurance Corporation ("FDIC") or Securities Investor Protection Corporation ("SIPC") protections.
 
 ## 20.  Links from the Website or the Interface. 
 
