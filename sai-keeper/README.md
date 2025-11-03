@@ -204,7 +204,7 @@ Variables:
 
 ## Architecture Overview
 
-```
+```text
 ┌─────────────────┐
 │   Your App      │
 │  (Frontend/     │

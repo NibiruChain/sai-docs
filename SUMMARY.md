@@ -20,7 +20,7 @@
   * [Perp: Price Impact Module](sai-core/perp-price-impact.md)
   * [Perp: State Variables](sai-core/perp-state.md)
   * [Contract Addresses Reference](sai-core/contracts.md)
-  * [WASM & EVM Integration](sai-core/contract-integeraiton.md)
+  * [WASM & EVM Integration](sai-core/contract-integration.md)
 * [Sai Keeper (For Devs)](sai-keeper/README.md)
   * [Core Concepts](sai-keeper/core-concepts.md)
   * [Perp API](sai-keeper/api-perp.md)
