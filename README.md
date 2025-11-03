@@ -47,6 +47,3 @@ X / Twitter:  [@SaiDotFun](https://x.com/saidotfun)
 {% content-ref url="community.md" %}
 [community.md](community.md)
 {% endcontent-ref %}
-
-
-

@@ -46,6 +46,7 @@ The borrowing module manages leveraged trading fees and risk exposure:
 The fees module implements dynamic tiered fee structures and referral programs:
 
 **Core Fee Management:**
+
 - **`FEE_TIERS`**: Defines fee levels based on trading activity to attract high-volume traders.
 - **`PENDING_GOV_FEES`**: Accumulates governance fees for transparent distribution.
 - **`VAULT_CLOSING_FEE_P`**: Sets the percentage of closing fees allocated to vault insurance/liquidity.
@@ -54,6 +55,7 @@ The fees module implements dynamic tiered fee structures and referral programs:
 
 **Referral System:**
 The referral system rewards users for platform growth through a comprehensive affiliate program:
+
 - **`REFERRER_CODES` and `REFERRER_CODES_REVERSE`**: Enable bidirectional mapping between referrer codes and addresses.
 - **`USER_REFERRERS`**: Maps users to their referring addresses.
 - **`REFERRER_FEES`**: Accumulates earnings for each referrer across token types.
@@ -79,7 +81,6 @@ This module defines the core trading infrastructure:
 - **`PAIR_CUSTOM_MAX_LEVERAGE`**: Provides pair-specific leverage limits that override group settings for volatile or illiquid markets.
 - **`ORACLE_ADDRESS`**: Points to the oracle contract for price feeds used in trade execution and liquidations.
 - **`VAULT_ADDRESSES`**: Maps vault contract addresses to group/token combinations for multi-vault asset management.
-
 
 ## Price Impact and Open Interest
 
@@ -113,11 +114,13 @@ This module manages market dynamics and prevents excessive price impact:
 The trading module forms the protocol's core functionality:
 
 **Trade Management:**
+
 - **`COLLATERALS`**: Defines accepted collateral types with name, active status, and denomination for multi-asset support.
 - **`USER_TRADE_INDEX`**: Tracks the next available trade index per user for unique identification and prevents index collisions.
 - **`TRADES` and `TRADE_INFOS`**: Store comprehensive trade data including position sizes, leverage, prices, and timestamps for fee calculations.
 
 **Optimization and Controls:**
+
 - **`TRADER_STORED` and `USER_LIVE_TRADE_COUNTS`**: Optimization mechanisms that reduce gas costs and enable efficient trade ID assignment.
 - **`MINIMUM_POSITION_SIZE_USD`**: Sets minimum position thresholds to ensure economic viability and prevent dust trades.
 - **`TRADING_ACTIVATED`**: Critical safety feature supporting multiple activation levels (fully active, close-only, paused) for emergency control.
