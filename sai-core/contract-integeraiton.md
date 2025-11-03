@@ -1,4 +1,4 @@
-# Sai Contracts – WASM & EVM Integration Guide
+# Sai Contracts – WASM & EVM Integration
 
 A practical, copy‑paste friendly reference for integrating with Sai’s perpetuals and SLP vaults from **Cosmos (WASM)** and **EVM** wallets. It documents all calls shown in the code you shared, with params, expected preconditions, and example snippets.
 
