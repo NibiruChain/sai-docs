@@ -272,7 +272,7 @@ await (await iface.executeVaultSimpleFunctions(bytes, "<vault>", toTxOverrides(g
 
 ## Error Patterns & Tips
 
-* Always ensure an **EVM signer** is present (provider alone can’t send txs).
+* Always ensure an **EVM signer** is present (provider alone can't send txs).
 * Use padded gas; fall back to `5,000,000` and `1 gwei` if estimation fails.
-* If a tx reverts on chain, inspect the revert reason via your archive RPC (`debug_traceTransaction`) and surface the deepest call error.
+* If a tx reverts on-chain, inspect the revert reason via your archive RPC (`debug_traceTransaction`) and surface the deepest call error.
 * When combining BANK + ERC‑20 amounts for totals, convert decimals correctly before summing.
