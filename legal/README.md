@@ -6,6 +6,10 @@ icon: scale-balanced
 
 # Legal
 
+This section contains important legal documents, terms of service, and regulatory information for Sai and Sai.fun. Please review these documents carefully before using our services.
+
+## Documents
+
 {% content-ref url="legal/terms-of-use.md" %}
-[legal](legal/terms-of-use.md)
+[Terms of Use](legal/terms-of-use.md)
 {% endcontent-ref %}
