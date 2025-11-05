@@ -686,6 +686,3 @@ APY is calculated from historical revenue:
 const apy = (revenueInfo.NetProfit / tvl) * (365 / epochDurationDays)
 ```
 
----
-
-**Next**: [Oracle API Reference](./api-oracle.md) | [Previous](./api-perp.md) | [Back to Introduction](./README.md)

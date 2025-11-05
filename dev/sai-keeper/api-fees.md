@@ -754,7 +754,3 @@ const getDailyStats = async (date) => {
   return stats
 }
 ```
-
----
-
-**Next**: [Query Examples](./examples-queries.md) | [Previous](./api-oracle.md) | [Back to Introduction](./README.md)

@@ -781,7 +781,3 @@ try {
   console.error('Failed:', error.message)
 }
 ```
-
----
-
-**Next**: [Subscription Examples](./examples-subscriptions.md) | [Previous](./api-fees.md) | [Back to Introduction](./README.md)

@@ -873,7 +873,3 @@ const subscription = client.subscribe({
   }
 })
 ```
-
----
-
-**Next**: [Client Setup Guide](./client-setup.md) | [Previous](./examples-queries.md) | [Back to Introduction](./README.md)

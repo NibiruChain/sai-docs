@@ -584,5 +584,3 @@ type PerpBorrowing {
 - `order_closed_user`
 
 ---
-
-**Next**: [LP API Reference](api-lp.md) | [Back to Introduction](./README.md)

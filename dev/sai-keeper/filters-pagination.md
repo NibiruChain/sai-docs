@@ -1008,7 +1008,3 @@ try {
   showError(error.message)
 }
 ```
-
----
-
-[Previous](client-setup.md) | [Back to Introduction](./README.md)

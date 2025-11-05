@@ -818,6 +818,3 @@ import "os"
 httpUrl := os.Getenv("SAI_KEEPER_HTTP_URL")
 ```
 
----
-
-**Next**: [Filters and Pagination](./filters-pagination.md) | [Previous](./examples-subscriptions.md) | [Back to Introduction](./README.md)

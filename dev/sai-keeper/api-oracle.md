@@ -528,6 +528,3 @@ const subscribeToPrices = (tokenIds) => {
 }
 ```
 
----
-
-**Next**: [Fee API Reference](./api-fees.md) | [Previous](./api-lp.md) | [Back to Introduction](./README.md)
