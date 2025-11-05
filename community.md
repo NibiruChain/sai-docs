@@ -1,5 +1,5 @@
 ---
-icon: fire
+icon: users
 cover: .gitbook/assets/sai-twitter-banner-1500x500.jpg
 coverY: 0
 ---
