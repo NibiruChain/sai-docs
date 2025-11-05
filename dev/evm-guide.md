@@ -1,3 +1,9 @@
+---
+icon: code
+cover: ../.gitbook/assets/sai-banner-guides-1500x500.png
+coverY: 0
+---
+
 # Sai – EVM Integration Guide
 
 How to drive Sai using an **EVM signer** through the EVM Interface contract. You pass a JSON‑encoded WASM message (`wasmMsgBytes`) along with token amounts/addresses.

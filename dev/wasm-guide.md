@@ -1,3 +1,9 @@
+---
+icon: code
+cover: ../.gitbook/assets/sai-banner-guides-1500x500.png
+coverY: 0
+---
+
 # Sai – WASM Integration Guide
 
 End-to-end instructions for interacting with **Sai** from the Cosmos (WASM) side using `NibiruTxClient`.
