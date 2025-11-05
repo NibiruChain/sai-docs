@@ -66,26 +66,26 @@ Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. W
 
 ## 📚 Explore by Interest
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 30px 0;">
-  <div style="background: #f0f4ff; padding: 25px; border-radius: 12px; border: 2px solid #667eea;">
+<div style="display: flex; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 220px; background: #f0f4ff; padding: 25px; border-radius: 12px; border: 2px solid #667eea;">
     <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">📈 Learn Trading</h3>
     <p>Master perpetual futures trading on Sai. From basics to advanced strategies.</p>
     <a href="learn/trading/" style="color: #667eea; text-decoration: underline; font-weight: bold;">Explore →</a>
   </div>
   
-  <div style="background: #fff0f8; padding: 25px; border-radius: 12px; border: 2px solid #f093fb;">
+  <div style="flex: 1; min-width: 220px; background: #fff0f8; padding: 25px; border-radius: 12px; border: 2px solid #f093fb;">
     <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">💰 Earn Yield</h3>
     <p>Provide liquidity and earn yield through Sai Liquidity Provision (SLP).</p>
     <a href="learn/slp.md" style="color: #f093fb; text-decoration: underline; font-weight: bold;">Learn More →</a>
   </div>
   
-  <div style="background: #f0fff0; padding: 25px; border-radius: 12px; border: 2px solid #4facfe;">
+  <div style="flex: 1; min-width: 220px; background: #f0fff0; padding: 25px; border-radius: 12px; border: 2px solid #4facfe;">
     <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">🛠️ Build & Integrate</h3>
     <p>Developers: integrate Sai into your app. Full API docs and guides available.</p>
     <a href="dev/" style="color: #4facfe; text-decoration: underline; font-weight: bold;">Developer Docs →</a>
   </div>
   
-  <div style="background: #fffaf0; padding: 25px; border-radius: 12px; border: 2px solid #fa709a;">
+  <div style="flex: 1; min-width: 220px; background: #fffaf0; padding: 25px; border-radius: 12px; border: 2px solid #fa709a;">
     <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">👥 Join Community</h3>
     <p>Connect with other traders and builders. Share strategies, ask questions, get updates.</p>
     <a href="community.md" style="color: #fa709a; text-decoration: underline; font-weight: bold;">Join Us →</a>
@@ -96,33 +96,33 @@ Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. W
 
 ## 🎓 Trading Topics at a Glance
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 30px 0;">
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #667eea;">
+<div style="display: flex; gap: 15px; margin: 30px 0; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 160px; background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #667eea;">
     <strong>💡 <a href="learn/trading/">Trading Basics</a></strong>
     <p style="margin: 8px 0 0 0; font-size: 13px;">Get up to speed with perpetual futures</p>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #f093fb;">
+  <div style="flex: 1; min-width: 160px; background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #f093fb;">
     <strong>📋 <a href="learn/trading/executing-trades.md">Executing Trades</a></strong>
     <p style="margin: 8px 0 0 0; font-size: 13px;">Step-by-step trade execution guide</p>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #4facfe;">
+  <div style="flex: 1; min-width: 160px; background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #4facfe;">
     <strong>⚠️ <a href="learn/trading/leverage-and-liquidations.md">Leverage & Liquidations</a></strong>
     <p style="margin: 8px 0 0 0; font-size: 13px;">Understand risk management</p>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #fa709a;">
+  <div style="flex: 1; min-width: 160px; background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #fa709a;">
     <strong>💳 <a href="learn/trading/fees.md">Fees</a></strong>
     <p style="margin: 8px 0 0 0; font-size: 13px;">Complete fee breakdown</p>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #fee140;">
+  <div style="flex: 1; min-width: 160px; background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #fee140;">
     <strong>📊 <a href="learn/trading/price-impact.md">Price Impact</a></strong>
     <p style="margin: 8px 0 0 0; font-size: 13px;">How trades move the market</p>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 3px solid #70c657;">
+  <div style="flex: 1; min-width: 160px; background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #70c657;">
     <strong>❓ <a href="learn/trading/faq.md">FAQ</a></strong>
     <p style="margin: 8px 0 0 0; font-size: 13px;">Common questions answered</p>
   </div>
@@ -144,13 +144,13 @@ Expected launch: **Early 2025**
 Follow us to stay updated!
 {% endhint %}
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; color: white; text-align: center;">
+<div style="display: flex; gap: 20px; margin: 30px 0;">
+  <div style="flex: 1; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; color: white; text-align: center; border: 2px solid rgba(255,255,255,0.2);">
     <h4 style="margin-top: 0;">🐦 Follow on X/Twitter</h4>
     <a href="https://x.com/saidotfun" style="color: white; text-decoration: underline; font-weight: bold;">@SaiDotFun</a>
   </div>
   
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 12px; color: white; text-align: center;">
+  <div style="flex: 1; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 12px; color: white; text-align: center; border: 2px solid rgba(255,255,255,0.2);">
     <h4 style="margin-top: 0;">💬 Join Community</h4>
     <a href="community.md" style="color: white; text-decoration: underline; font-weight: bold;">Connect Here</a>
   </div>

@@ -1,5 +1,6 @@
 ---
 description: Legal and regulatory documents for Sai and Sai.fun.
+cover: .gitbook/assets/sai-twitter-banner-1500x500.jpg
 icon: scale-balanced
 ---
 
