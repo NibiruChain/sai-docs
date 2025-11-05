@@ -32,6 +32,6 @@
   * [Examples: Subscriptions](dev/sai-keeper/examples-subscriptions.md)
   * [Client Setup](dev/sai-keeper/client-setup.md)
   * [Filters & Pagination](dev/sai-keeper/filters-pagination.md)
-* [Legal](blogs/README.md)
+* [Blog](blogs/README.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
