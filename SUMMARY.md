@@ -31,6 +31,8 @@
     * [Examples: Subscriptions](dev/sai-keeper/examples-subscriptions.md)
     * [Client Setup](dev/sai-keeper/client-setup.md)
     * [Filters & Pagination](dev/sai-keeper/filters-pagination.md)
+  * [Use Cases](dev/use-cases/README.md)
+    * [Telegram Bot Integration](dev/use-cases/tg-guide.md)
 * [Community](community.md)
 * [Blog](blogs/README.md)
 * [Legal](legal/README.md)
