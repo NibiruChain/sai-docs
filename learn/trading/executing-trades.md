@@ -26,7 +26,7 @@ icon: up-right-from-square
 2. **Select a side**
    * E.g., long/short
 3. **Select Leverage**
-   * Type your desired multiple (1x–150x, subject to max).
+   * Type your desired multiple (1x–100x, subject to max).
 4. **Enter Order Type**
    * Market or set a limit/stop price.
 5. **Confirm**
