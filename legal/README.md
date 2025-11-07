@@ -10,6 +10,6 @@ This section contains important legal documents, terms of service, and regulator
 
 ## Documents
 
-{% content-ref url="legal/terms-of-use.md" %}
-[terms-of-use.md](legal/terms-of-use.md)
+{% content-ref url="terms-of-use.md" %}
+[terms-of-use.md](terms-of-use.md)
 {% endcontent-ref %}

@@ -15,8 +15,8 @@ Explore real-world examples of how to build with Sai. These guides showcase prac
 
 Build a trading bot that brings Sai's power directly to your users through Telegram.
 
-{% content-ref url="use-cases/tg-guide.md" %}
-[Telegram Bot Integration](use-cases/tg-guide.md)
+{% content-ref url="tg-guide.md" %}
+[Telegram Bot Integration](tg-guide.md)
 {% endcontent-ref %}
 
 ---
