@@ -25,8 +25,8 @@ Build a trading bot that brings Sai's power directly to your users through Teleg
 
 New to Sai? Check out our main developer documentation to learn about the core tools and APIs:
 
-{% content-ref url="../dev/" %}
-[Back to Developer Docs](../dev/)
+{% content-ref url="../" %}
+[Back to Developer Docs](../)
 {% endcontent-ref %}
 
 ## Have a Use Case to Share?
