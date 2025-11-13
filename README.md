@@ -11,6 +11,10 @@ Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. W
 
 ## Learn About Sai
 
+{% content-ref url="learn/README.md" %}
+[About Sai](learn/README.md)
+{% endcontent-ref %}
+
 {% content-ref url="learn/trading/" %}
 [Trading on Sai](learn/trading/)
 {% endcontent-ref %}
