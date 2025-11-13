@@ -11,6 +11,10 @@ Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. W
 
 ## Learn About Sai
 
+{% content-ref url="learn/README.md" %}
+[About Sai](learn/README.md)
+{% endcontent-ref %}
+
 {% content-ref url="learn/trading/" %}
 [Trading on Sai](learn/trading/)
 {% endcontent-ref %}
@@ -54,6 +58,12 @@ Sai is in active development with an expected launch in early 2025. The team has
 In the mean time, please [follow Sai on X](https://x.com/saidotfun) to help support us.
 {% endhint %}
 
-## Community Groups
+---
 
-X / Twitter: [@SaiDotFun](https://x.com/saidotfun)
+## Sai Updates
+
+**Stay up to date on Sai’s socials:**
+
+* X: <https://x.com/saidotfun>
+* Telegram: <https://t.me/saidotfun>
+* [Sai Blog](https://docs.sai.fun/blogs)

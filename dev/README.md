@@ -1,6 +1,6 @@
 ---
 description: Build on Sai. Integration guides, smart contract documentation, and API references for developers.
-icon: code
+icon: flag-checkered
 cover: .gitbook/assets/sai-banner-guides-1500x500.png
 coverY: 0
 ---
