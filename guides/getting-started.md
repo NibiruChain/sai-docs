@@ -4,7 +4,7 @@ icon: flag-checkered
 
 # Getting started
 
-#### Connect Wallet
+## Connect Wallet
 
 * **Supported Wallets**: [Keplr](https://www.keplr.app/), [Leap](https://www.leapwallet.io/), [Cosmostation](https://www.cosmostation.io/) and others.
 * **Network Setup**: Ensure your wallet is configured for [Nibiru](https://nibiru.fi/docs/wallets/).
@@ -12,7 +12,7 @@ icon: flag-checkered
 
 If you need help connecting or bridging assets, see [Nibiru's bridging guide](https://nibiru.fi/docs/use/bridge.html).
 
-#### Choosing a Market
+## Choosing a Market
 
 You can trade on various markets (e.g., BTC/USD, ETH/USD, etc.).
 
@@ -20,7 +20,7 @@ You can trade on various markets (e.g., BTC/USD, ETH/USD, etc.).
 2. Select your **Market** from the dropdown (e.g., _BTC-PERP_).
 3. Check the displayed **Oracle Price** to see the current quote.
 
-#### Understanding Collateral & Leverage
+## Understanding Collateral & Leverage
 
 * **Collateral** is the margin (in tokens) you deposit to open a leveraged position.
 * **Leverage** multiplies your position size relative to your collateral.
