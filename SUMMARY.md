@@ -15,6 +15,8 @@
 ## For Devs
 
 * [Getting Started](dev/README.md)
+* [EVM Integration Guide](dev/evm-guide.md)
+* [WASM Integration Guide](dev/wasm-guide.md)
 * [Sai Core](dev/sai-core/README.md)
   * [Perp Contract](dev/sai-core/perp-contract.md)
   * [Perp: Borrowing Module](dev/sai-core/perp-borrowing.md)
@@ -32,8 +34,6 @@
   * [Examples: Subscriptions](dev/sai-keeper/examples-subscriptions.md)
   * [Client Setup](dev/sai-keeper/client-setup.md)
   * [Filters & Pagination](dev/sai-keeper/filters-pagination.md)
-* [EVM Integration Guide](dev/evm-guide.md)
-* [WASM Integration Guide](dev/wasm-guide.md)
 * [Use Cases](dev/use-cases/README.md)
   * [Telegram Bot Integration](dev/use-cases/tg-guide.md)
 
