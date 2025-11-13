@@ -11,7 +11,7 @@ For trading on Sai EVM, use:
 | WalletConnect | <https://walletguide.walletconnect.network/> |
 | Rabby | <https://rabby.io/> |
 
-## CosmosVM-Compatible Wallets
+## WasmVM-Compatible Wallets
 
 For trading on Nibiru's native chain, use:
 

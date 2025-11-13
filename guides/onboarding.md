@@ -17,7 +17,7 @@ Before you begin, make sure you have:
 ## Quick Start
 
 1. **Connect Your Wallet** → [Wallet Setup](wallet-setup.md)
-   - Set up your EVM or CosmosVM compatible wallet
+   - Set up your EVM or WasmVM compatible wallet
    - Configure your network for Nibiru
 
 2. **Get Collateral** → [Acquiring Collateral](acquiring-collateral.md)
