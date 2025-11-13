@@ -10,7 +10,10 @@
     * [FAQ](learn/trading/faq.md)
   * [Sai Liquidity Provision (SLP)](learn/slp.md)
 * [Guides | Using Sai](guides/README.md)
-  * [Getting started](guides/getting-started.md)
+  * [Onboarding](guides/onboarding.md)
+  * [Wallet Setup](guides/wallet-setup.md)
+  * [Acquiring Collateral](guides/acquiring-collateral.md)
+  * [Choosing a Market](guides/choosing-market.md)
 
 ## For Devs
 
