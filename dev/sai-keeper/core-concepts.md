@@ -27,7 +27,7 @@ Sai Protocol is a decentralized perpetual trading platform on Nibiru Chain. The 
 
 ### Hierarchy
 
-```
+```txt
 Query/Subscription
 ├── perp (Perpetuals)
 │   ├── trades
@@ -66,7 +66,7 @@ A perpetual contract (perp) is a derivative that lets you trade an asset with le
 
 **Leverage**: Multiply your position size
 
-```
+```txt
 Position Value = Collateral × Leverage
 ```
 
@@ -95,7 +95,7 @@ Position Value = Collateral × Leverage
 
 ### PnL Calculation
 
-```
+```txt
 Unrealized PnL = Position Value × (Current Price - Open Price) / Open Price
 
 For Long:  PnL = positive when price increases
@@ -112,7 +112,7 @@ For Short: PnL = positive when price decreases
 
 A position gets liquidated when losses approach the collateral amount:
 
-```
+```txt
 Liquidation Price (Long) = Entry Price × (1 - 1/Leverage + Maintenance Margin)
 Liquidation Price (Short) = Entry Price × (1 + 1/Leverage - Maintenance Margin)
 ```
@@ -143,13 +143,13 @@ Liquidity Providers (LPs) deposit assets into vaults. These vaults:
 
 **TVL (Total Value Locked)**: Total assets in the vault
 
-```
+```txt
 TVL = Available Assets + Assets in Open Positions
 ```
 
 **Share Price**: Value of one vault share
 
-```
+```txt
 Share Price = Total Vault Value / Total Shares Outstanding
 ```
 
@@ -159,7 +159,7 @@ Share Price = Total Vault Value / Total Shares Outstanding
 
 **APY (Annual Percentage Yield)**: Annualized return
 
-```
+```txt
 APY = (Net Profit / TVL) × (365 / Epoch Duration Days) × 100
 ```
 
@@ -171,7 +171,7 @@ APY = (Net Profit / TVL) × (365 / Epoch Duration Days) × 100
 
 1. **Deposit**: User deposits → receives shares
 
-   ```
+   ```txt
    Shares Received = Deposit Amount / Current Share Price
    ```
 
@@ -270,7 +270,7 @@ if (ageSeconds > 60) {
 
 Every fee transaction breaks down into:
 
-```
+```txt
 Total Fee = Vault Fee + Gov Fee + Trigger Fee
 ```
 
@@ -280,7 +280,7 @@ Total Fee = Vault Fee + Gov Fee + Trigger Fee
 
 **Example Fee Breakdown:**
 
-```
+```txt
 Position Size: $10,000
 Opening Fee: 0.1% = $10
 ├─ Vault Fee: $8 (80%)
@@ -292,7 +292,7 @@ Opening Fee: 0.1% = $10
 
 Dynamic multiplier based on market conditions:
 
-```
+```txt
 Actual Fee = Base Fee × Fee Multiplier
 ```
 
@@ -305,7 +305,7 @@ Actual Fee = Base Fee × Fee Multiplier
 
 When a position is liquidated but collateral is insufficient:
 
-```
+```txt
 Bad Debt = Total Loss - Collateral Available
 ```
 
@@ -335,7 +335,7 @@ type Block {
 
 The `Time` scalar represents timestamps in RFC3339 format:
 
-```
+```txt
 2024-11-03T10:30:00Z
 ```
 
@@ -405,7 +405,7 @@ Use `TimeFilter` for date ranges:
 Sai Protocol consists of 5 key Wasm contracts:
 
 1. **Perp Manager**: Handles perpetual trading operations
-2. **LP Vault**: Manages liquidity provision and withdrawals
+2. **LP Vault**: Manages positions and withdrawals
 3. **Oracle**: Provides price feeds
 4. **Fee Manager**: Processes and distributes fees
 5. **Governance**: Protocol parameter management

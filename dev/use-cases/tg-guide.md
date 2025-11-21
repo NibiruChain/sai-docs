@@ -8,11 +8,11 @@ A step-by-step walkthrough for creating a Telegram bot that queries real data fr
 
 By the end of this guide, you'll have a working Telegram bot that:
 
-- 📊 Shows perpetual trades for any wallet address
-- 💰 Displays oracle prices for all tokens
-- 🔍 Lets users search for specific token prices
-- 🔗 Filters trades by asset (BTC only, ETH only, etc.)
-- 📄 Displays results with pagination (Next buttons)
+- Shows perpetual trades for any wallet address
+- Displays oracle prices for all tokens
+- Lets users search for specific token prices
+- Filters trades by asset (BTC only, ETH only, etc.)
+- Displays results with pagination (Next buttons)
 
 **Best part:** No database needed! Everything pulls live data from SAI's GraphQL API.
 
@@ -22,7 +22,7 @@ By the end of this guide, you'll have a working Telegram bot that:
 
 Before starting, make sure you have:
 
-### ✅ Software You'll Need
+### Software You'll Need
 
 - **Python 3.10+** - [Download here](https://www.python.org/downloads/)
   - Check your version: Open terminal and type `python3 --version`
@@ -33,18 +33,18 @@ Before starting, make sure you have:
   - Even Notepad will work!
 - **Terminal/Command Line** - You'll need to type a few commands
 
-### ✅ Accounts You'll Need
+### Accounts You'll Need
 
 - **Telegram account** - To test your bot
 - **A Telegram bot token** - We'll get this from BotFather (the official Telegram bot creator tool)
 
-### ✅ Knowledge Requirements
+### Knowledge Requirements
 
 - Basic Python understanding (if-statements, functions, dictionaries)
 - How to use terminal/command line (navigating folders, running commands)
 - **No GraphQL knowledge needed** - We'll explain everything!
 
-> 💡 **Don't have Python installed?** This is normal! Follow the download link above and choose your operating system. Python installation is straightforward.
+> **Don't have Python installed?** This is normal! Follow the download link above and choose your operating system. Python installation is straightforward.
 
 ---
 
@@ -82,7 +82,7 @@ Here's your token:
 123456789:ABCdefGHIjklMNOpqrsTUVwxyz
 ```
 
-**⚠️ Important:** This token is like your bot's password. **Never share it publicly or commit it to GitHub!**
+**Important:** This token is like your bot's password. **Never share it publicly or commit it to GitHub!**
 
 ---
 
@@ -127,7 +127,7 @@ venv\Scripts\activate
 
 If you see `(venv)` ✅ - Perfect! You're in the virtual environment.
 
-> 💡 **What's a virtual environment?** Think of it like a separate Python installation just for this project. If you install packages here, they won't affect your other projects.
+> **What's a virtual environment?** Think of it like a separate Python installation just for this project. If you install packages here, they won't affect your other projects.
 
 ### Step 3: Create Your Project Structure
 
@@ -215,7 +215,7 @@ This file shows what secrets are needed (without actual values):
 TELEGRAM_BOT_TOKEN=your_bot_token_here
 
 # SAI GraphQL Endpoint (the server we get data from)
-SAI_GRAPHQL_ENDPOINT=https://sai-keeper.testnet-2.nibiru.fi/query
+SAI_GRAPHQL_ENDPOINT=https://sai-keeper.nibiru.fi/query
 ```
 
 ### Step 2: Create `.env`
@@ -230,10 +230,10 @@ Now open `.env` in your editor and replace `your_bot_token_here` with your actua
 
 ```ini
 TELEGRAM_BOT_TOKEN=123456789:ABCdefGHIjklMNOpqrsTUVwxyz
-SAI_GRAPHQL_ENDPOINT=https://sai-keeper.testnet-2.nibiru.fi/query
+SAI_GRAPHQL_ENDPOINT=https://sai-keeper.nibiru.fi/query
 ```
 
-**⚠️ Security note:** The `.env` file should NEVER be shared or committed to GitHub. If you use Git, add `.env` to your `.gitignore` file.
+**Security note:** The `.env` file should NEVER be shared or committed to GitHub. If you use Git, add `.env` to your `.gitignore` file.
 
 ---
 
@@ -245,8 +245,8 @@ The "GraphQL client" is code that talks to SAI's data API. Don't worry - we'll e
 
 GraphQL is a way to ask a server for specific data. Think of it like a restaurant menu:
 
-- ❌ **REST API (old way):** "Give me all the data about trades" (you get everything)
-- ✅ **GraphQL (new way):** "Give me only the trade ID, amount, and price" (you get exactly what you want)
+- **REST API (old way):** "Give me all the data about trades" (you get everything)
+- **GraphQL (new way):** "Give me only the trade ID, amount, and price" (you get exactly what you want)
 
 ### Create `bot/graphql.py`
 
@@ -260,7 +260,7 @@ import requests
 # Get the GraphQL endpoint from .env file, or use default
 SAI_GRAPHQL_ENDPOINT = os.environ.get(
     "SAI_GRAPHQL_ENDPOINT", 
-    "https://sai-keeper.testnet-2.nibiru.fi/query"
+    "https://sai-keeper.nibiru.fi/query"
 )
 
 
@@ -1035,7 +1035,7 @@ python -m bot.main
 2. Verify the endpoint is correct in `.env`:
 
    ```txt
-   SAI_GRAPHQL_ENDPOINT=https://sai-keeper.testnet-2.nibiru.fi/query
+   SAI_GRAPHQL_ENDPOINT=https://sai-keeper.nibiru.fi/query
    ```
 
 3. Test the endpoint manually in your browser (visit the URL)
@@ -1099,11 +1099,11 @@ Your bot is working! Now you can:
 
 You've built your first Telegram bot that:
 
-- ✅ Connects to the SAI protocol
-- ✅ Queries real live data
-- ✅ Displays prices and trades
-- ✅ Handles pagination
-- ✅ Filters by asset
+- Connects to the SAI protocol
+- Queries real live data
+- Displays prices and trades
+- Handles pagination
+- Filters by asset
 
 **You're now a bot developer!**
 

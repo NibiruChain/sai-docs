@@ -20,7 +20,7 @@ Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. W
 {% endcontent-ref %}
 
 {% content-ref url="learn/slp.md" %}
-[Sai Liquidity Provision (SLP)](learn/slp.md)
+[Sai Positions (SLP)](learn/slp.md)
 {% endcontent-ref %}
 
 ## User Guides

@@ -1,116 +1,142 @@
----
-description: Build on Sai. Integration guides, smart contract documentation, and API references for developers.
-icon: flag-checkered
-cover: .gitbook/assets/sai-banner-guides-1500x500.png
-coverY: 0
----
-
-# For Developers
-
-Welcome to the Sai developer documentation. Whether you're integrating Sai into your application, building on top of the protocol, or querying data from Sai, you'll find everything you need here.
-
-## Quick Start
+# Quick Start
 
 Choose your integration path:
 
 {% content-ref url="evm-guide.md" %}
-[EVM Integration Guide](evm-guide.md)
+[EVM Integration Guide](__evm-guide.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Start here if you're building on EVM chains. Covers environment setup, contract connections, and basic operations like opening positions and managing collateral.
+{% endhint %}
 
 {% content-ref url="wasm-guide.md" %}
-[WASM Integration Guide](wasm-guide.md)
+[WASM Integration Guide](__wasm-guide.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+For WASM-based chains and clients. Learn integration patterns with language-specific examples and deployment guidance.
+{% endhint %}
 
 ## Sai Core
 
 Comprehensive documentation of the Sai smart contracts, modules, and architecture.
 
-{% content-ref url="sai-core/" %}
-[Sai Core Documentation](sai-core/)
-{% endcontent-ref %}
-
 ### Core Modules
 
 {% content-ref url="sai-core/perp-contract.md" %}
-[Perp Contract](sai-core/perp-contract.md)
+[Perp Contract](__sai-core/____perp-contract.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Main perpetual futures contract handling position management, collateral, and settlement.
+{% endhint %}
 
 {% content-ref url="sai-core/perp-borrowing.md" %}
-[Borrowing Module](sai-core/perp-borrowing.md)
+[Borrowing Module](__sai-core/____perp-borrowing.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Borrowed funds management, interest rates, and liquidation mechanics.
+{% endhint %}
 
 {% content-ref url="sai-core/perp-price-impact.md" %}
-[Price Impact Module](sai-core/perp-price-impact.md)
+[Price Impact Module](__sai-core/____perp-price-impact.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+How large trades affect pricing, slippage calculation, and execution costs.
+{% endhint %}
 
 ### Reference
 
 {% content-ref url="sai-core/perp-state.md" %}
-[State Variables](sai-core/perp-state.md)
+[State Variables](__sai-core/____perp-state.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Complete reference of all smart contract state variables and their purposes.
+{% endhint %}
 
 {% content-ref url="sai-core/contracts.md" %}
-[Contract Addresses Reference](sai-core/contracts.md)
+[Contract Addresses Reference](__sai-core/____contracts.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Mainnet and testnet deployment addresses for all Sai contracts.
+{% endhint %}
 
 {% content-ref url="sai-core/contract-integration.md" %}
-[WASM & EVM Integration](sai-core/contract-integration.md)
+[WASM & EVM Integration](__sai-core/____contract-integration.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Platform-specific details for direct smart contract integration.
+{% endhint %}
 
 ## Sai Keeper
 
-Query and subscribe to real-time data from the Sai protocol with the Keeper API.
-
-{% content-ref url="sai-keeper/" %}
-[Sai Keeper Documentation](sai-keeper/)
-{% endcontent-ref %}
+Query and subscribe to real-time data from the Sai protocol. Perfect for dashboards, bots, and analytics tools.
 
 ### Getting Started
 
 {% content-ref url="sai-keeper/core-concepts.md" %}
-[Core Concepts](sai-keeper/core-concepts.md)
+[Core Concepts](__sai-keeper/____core-concepts.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Understand indexing, subscriptions, and how Keeper structures protocol data.
+{% endhint %}
 
 {% content-ref url="sai-keeper/client-setup.md" %}
-[Client Setup](sai-keeper/client-setup.md)
+[Client Setup](__sai-keeper/____client-setup.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Get your GraphQL client configured and authenticated in minutes.
+{% endhint %}
 
 ### API Reference
 
 {% content-ref url="sai-keeper/api-perp.md" %}
-[Perp API](sai-keeper/api-perp.md)
+[Perp API](__sai-keeper/____api-perp.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Query positions, orders, trades, and perpetual-specific data.
+{% endhint %}
 
 {% content-ref url="sai-keeper/api-lp.md" %}
-[Liquidity Provider (LP) API](sai-keeper/api-lp.md)
+[Liquidity Provider (LP) API](__sai-keeper/____api-lp.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Access liquidity pool data, provider positions, and performance metrics.
+{% endhint %}
 
 {% content-ref url="sai-keeper/api-oracle.md" %}
-[Oracle API](sai-keeper/api-oracle.md)
+[Oracle API](__sai-keeper/____api-oracle.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Get price feeds and oracle data used throughout the protocol.
+{% endhint %}
 
 {% content-ref url="sai-keeper/api-fees.md" %}
-[Fees API](sai-keeper/api-fees.md)
+[Fees API](__sai-keeper/____api-fees.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Query fee structures, accruals, and historical fee data.
+{% endhint %}
 
 ### Examples
 
 {% content-ref url="sai-keeper/examples-queries.md" %}
-[Examples: Queries](sai-keeper/examples-queries.md)
+[Examples: Queries](__sai-keeper/____examples-queries.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+Copy-paste ready GraphQL queries for common use cases.
+{% endhint %}
 
 {% content-ref url="sai-keeper/examples-subscriptions.md" %}
-[Examples: Subscriptions](sai-keeper/examples-subscriptions.md)
+[Examples: Subscriptions](__sai-keeper/____examples-subscriptions.md__)
 {% endcontent-ref %}
+{% hint style="info" %}
+See how to subscribe to real-time updates and build event-driven applications.
+{% endhint %}
 
 ### Advanced
 
 {% content-ref url="sai-keeper/filters-pagination.md" %}
-[Filters & Pagination](sai-keeper/filters-pagination.md)
+[Filters & Pagination](__sai-keeper/____filters-pagination.md__)
 {% endcontent-ref %}
-
-## Need Help?
-
-* **Questions?** Check our [FAQ](../learn/trading/faq.md) or ask in our [community](../community.md)
-* **Bug Report?** Open an issue on our GitHub repository
-* **Feature Request?** Let us know on [X/Twitter](https://x.com/saidotfun)
+{% hint style="info" %}
+Master filtering, sorting, and pagination for efficient large-scale data retrieval.
+{% endhint %}
