@@ -405,7 +405,7 @@ Use `TimeFilter` for date ranges:
 Sai Protocol consists of 5 key Wasm contracts:
 
 1. **Perp Manager**: Handles perpetual trading operations
-2. **LP Vault**: Manages liquidity provision and withdrawals
+2. **LP Vault**: Manages positions and withdrawals
 3. **Oracle**: Provides price feeds
 4. **Fee Manager**: Processes and distributes fees
 5. **Governance**: Protocol parameter management

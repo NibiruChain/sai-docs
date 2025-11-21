@@ -8,7 +8,7 @@
     * [Fees](learn/trading/fees.md)
     * [Price Impact](learn/trading/price-impact.md)
     * [FAQ](learn/trading/faq.md)
-  * [Sai Liquidity Provision (SLP)](learn/slp.md)
+  * [Sai Positions (SLP)](learn/slp.md)
 * [Guides | Using Sai](guides/README.md)
   * [Onboarding](guides/onboarding.md)
   * [Wallet Setup](guides/wallet-setup.md)
@@ -18,8 +18,8 @@
 ## For Devs
 
 * [Getting Started](dev/README.md)
-* [EVM Integration Guide](dev/evm-guide.md)
-* [WASM Integration Guide](dev/wasm-guide.md)
+  * [EVM Integration Guide](dev/evm-guide.md)
+  * [WASM Integration Guide](dev/wasm-guide.md)
 * [Sai Core](dev/sai-core/README.md)
   * [Perp Contract](dev/sai-core/perp-contract.md)
   * [Perp: Borrowing Module](dev/sai-core/perp-borrowing.md)

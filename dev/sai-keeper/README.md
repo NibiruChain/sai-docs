@@ -235,7 +235,7 @@ Sai Keeper indexes blockchain data and provides it through a fast, queryable Gra
 - **Portfolio Trackers**: Monitor positions, PnL, and performance
 - **Analytics Dashboards**: Visualize protocol metrics and user activity
 - **Automated Bots**: Build trading algorithms with real-time data
-- **LP Management Tools**: Optimize liquidity provision strategies
+- **LP Management Tools**: Optimize positions strategies
 - **Price Oracles**: Integrate reliable price feeds into your dApps
 
 ## Next Steps

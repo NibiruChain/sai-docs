@@ -54,7 +54,7 @@ Sai accepts USDC from any EVM-chain as well as stNIBI (Nibiru)
 {% endcontent-ref %}
 
 {% content-ref url="slp.md" %}
-[Sai Liquidity Provision (SLP)](slp.md)
+[Sai Positions (SLP)](slp.md)
 {% endcontent-ref %}
 
 ## User Guides
