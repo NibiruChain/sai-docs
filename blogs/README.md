@@ -5,3 +5,12 @@ icon: newspaper
 ---
 
 # Blogs
+
+This section contains all links to sai blogs.
+
+## Documents
+
+{% content-ref url="intro.md" %}
+[intro.md](intro.md)
+{% endcontent-ref %}
+
