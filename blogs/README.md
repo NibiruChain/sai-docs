@@ -13,4 +13,3 @@ This section contains all links to sai blogs.
 {% content-ref url="intro.md" %}
 [intro.md](intro.md)
 {% endcontent-ref %}
-

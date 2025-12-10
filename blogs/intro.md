@@ -1,3 +1,9 @@
+---
+description: "Introducing Sai: Nibiru’s Perpetuals DEX"
+cover: ../.gitbook/assets/sai-twitter-banner-1500x500.jpg
+icon: newspaper
+---
+
 # Introducing Sai: Nibiru’s Perpetuals DEX
 
 <figure>
@@ -9,7 +15,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src=".gitbook/assets/blog_1/sai-is-coming.png"
+      src="../.gitbook/assets/blog_1/sai-is-coming.png"
       alt="Sai is Coming"
     />
   </picture>
