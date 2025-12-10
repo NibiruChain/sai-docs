@@ -10,7 +10,7 @@ icon: newspaper
   <picture>
     <source
       srcset="
-        .gitbook/assets/blog_1/sai-is-coming.png
+        ../.gitbook/assets/blog_1/sai-is-coming.png
       "
       media="(prefers-color-scheme: dark)"
     />
@@ -32,12 +32,12 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        .gitbook/assets/blog_1/why-sai-slide.png
+        ../.gitbook/assets/blog_1/why-sai-slide.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src=".gitbook/assets/blog_1/why-sai-slide.png"
+      src="../.gitbook/assets/blog_1/why-sai-slide.png"
       alt="Sai is Coming"
     />
   </picture>
@@ -48,12 +48,12 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        .gitbook/assets/blog_1/sai-trading.png
+        ../.gitbook/assets/blog_1/sai-trading.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src=".gitbook/assets/blog_1/sai-trading.png"
+      src="../.gitbook/assets/blog_1/sai-trading.png"
       alt="Sai is Coming"
     />
   </picture>
@@ -66,12 +66,12 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        .gitbook/assets/blog_1/sai-fair-pricing-concept.png.png
+        ../.gitbook/assets/blog_1/sai-fair-pricing-concept.png.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src=".gitbook/assets/blog_1/sai-fair-pricing-concept.png.png"
+      src="../.gitbook/assets/blog_1/sai-fair-pricing-concept.png.png"
       alt="Sai is Coming"
     />
   </picture>
@@ -82,12 +82,12 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        .gitbook/assets/blog_1/sai-trading.png
+        ../.gitbook/assets/blog_1/sai-trading.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src=".gitbook/assets/blog_1/sai-trading.png"
+      src="../.gitbook/assets/blog_1/sai-trading.png"
       alt="Sai is Coming"
     />
   </picture>
