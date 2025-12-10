@@ -1,7 +1,7 @@
 ---
 description: Discover real-world examples of building with Sai. Learn how developers integrate Sai into their applications and services.
 icon: lightbulb
-cover: .gitbook/assets/sai-usecases-banner-1500x500.png
+cover: ../../.gitbook/assets/sai-usecases-banner-1500x500.png
 coverY: 0
 ---
 
