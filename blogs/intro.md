@@ -1,6 +1,6 @@
 ---
 description: "Introducing Sai: Nibiru’s Perpetuals DEX"
-cover: ../.gitbook/assets/blog_1/sai-is-coming.png
+cover: ../.gitbook/assets/blog_1/000_sai-is-coming.png
 icon: newspaper
 ---
 
@@ -16,13 +16,13 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/why-sai-slide.png
+        ../.gitbook/assets/blog_1/001_why-sai-slide.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/why-sai-slide.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/001_why-sai-slide.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>Trading made simple. Perps without limits.</figcaption>
@@ -32,13 +32,13 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-trading.png
+        ../.gitbook/assets/blog_1/002_sai-trading.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-trading.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/002_sai-trading.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>Sai’s Trading Interface</figcaption>
@@ -50,13 +50,13 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-fair-pricing-concept.png
+        ../.gitbook/assets/blog_1/003_sai-fair-pricing-concept.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-fair-pricing-concept.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/003_sai-fair-pricing-concept.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>Fair Pricing Concept</figcaption>
@@ -66,13 +66,13 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-funding.png
+        ../.gitbook/assets/blog_1/004_sai-funding.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-funding.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/004_sai-funding.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>Sai’s Funding</figcaption>
@@ -82,13 +82,13 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-collateral.png
+        ../.gitbook/assets/blog_1/005_sai-collateral.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-collateral.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/005_sai-collateral.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>Sai’s Collateral</figcaption>
@@ -99,13 +99,13 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-in-practice.png
+        ../.gitbook/assets/blog_1/006_sai-in-practice.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-in-practice.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/006_sai-in-practice.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>In Practice</figcaption>
@@ -126,16 +126,15 @@ Under the hood, Sai is built around a simple question: what would the best perpe
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-compare.png
+        ../.gitbook/assets/blog_1/007_sai-compare.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-compare.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/007_sai-compare.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>In Practice</figcaption>
 </figure>
 
 Sai tries to answer a simple question: what would a best perpetual DEX look like if it stayed fully onchain and focused on a small set of strong ideas.
@@ -150,16 +149,15 @@ Under the hood, Sai is meant to be simple.
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-features.png
+        ../.gitbook/assets/blog_1/008_sai-features.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-features.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/008_sai-features.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>In Practice</figcaption>
 </figure>
 
 ## How Does Sai Handle Liquidations?
@@ -186,16 +184,15 @@ With oracle based pricing and pooled SLP liquidity, Sai can list any asset that 
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-new-markets.png
+        ../.gitbook/assets/blog_1/009_sai-new-markets.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-new-markets.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/009_sai-new-markets.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>In Practice</figcaption>
 </figure>
 
 What this unlocks for traders:
@@ -204,16 +201,15 @@ What this unlocks for traders:
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-unlocks-for-traders.png
+        ../.gitbook/assets/blog_1/010_sai-unlocks-for-traders.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-unlocks-for-traders.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/010_sai-unlocks-for-traders.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>In Practice</figcaption>
 </figure>
 
 For many users, this is what a modern decentralized derivatives exchange should look like: one adaptable venue always ready for the next phase of decentralized finance.
@@ -222,16 +218,15 @@ For many users, this is what a modern decentralized derivatives exchange should 
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-unlocks-for-lp.png
+        ../.gitbook/assets/blog_1/011_sai-unlocks-for-lp.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-unlocks-for-lp.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/011_sai-unlocks-for-lp.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>In Practice</figcaption>
 </figure>
 
 Sai contributors and the community will surface high-potential assets to list. Users can propose and vote on new markets, keeping listings aligned with real demand. When interest is strong, the protocol can seed initial liquidity so trading can start immediately without relying on external market makers.
@@ -244,13 +239,13 @@ SLPs earn trading fees by providing liquidity through single asset vaults. Vault
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-lp-vaults.png
+        ../.gitbook/assets/blog_1/012_sai-lp-vaults.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-lp-vaults.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/012_sai-lp-vaults.png"
+      alt="Sai"
     />
   </picture>
   <figcaption>Risk note: SLPs are the counterparty to traders. When traders profit, vaults can take losses. When traders lose, LPs earn fees.</figcaption>
@@ -262,16 +257,15 @@ Each vault will support a curated basket of markets, ranging from bluechips to v
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-vault-concept.png
+        ../.gitbook/assets/blog_1/013_sai-vault-concept.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-vault-concept.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/013_sai-vault-concept.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>Risk note: SLPs are the counterparty to traders. When traders profit, vaults can take losses. When traders lose, LPs earn fees.</figcaption>
 </figure>
 
 [Provide liquidity for Sai - app.sai.fun.](https://app.sai.fun/buy-SLP/) 
@@ -284,16 +278,15 @@ Sai will continue shipping in three main verticals: more markets, better tools, 
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_1/sai-roadmap.png
+        ../.gitbook/assets/blog_1/014_sai-roadmap.png
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_1/sai-roadmap.png"
-      alt="Sai is Coming"
+      src="../.gitbook/assets/blog_1/014_sai-roadmap.png"
+      alt="Sai"
     />
   </picture>
-  <figcaption>Risk note: SLPs are the counterparty to traders. When traders profit, vaults can take losses. When traders lose, LPs earn fees.</figcaption>
 </figure>
 
 ### Near term focus
