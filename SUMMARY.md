@@ -44,6 +44,6 @@
 
 * [Community](community.md)
 * [Blog](blogs/README.md)
-  * [Intro to Sai](blogs/intro.md)
+  * [Intro to Sai](blogs/intro-to-sai.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
