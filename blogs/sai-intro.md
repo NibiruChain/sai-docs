@@ -28,6 +28,12 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
   <figcaption>Trading made simple. Perps without limits.</figcaption>
 </figure>
 
+Sai combines:
+
+- Oracle settled pricing that tracks the global market
+- Flexible collateral so capital can be reused across positions
+- Single asset vaults that let anyone earn fees from real trading
+
 <figure>
   <picture>
     <source
@@ -46,54 +52,23 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
 
 ## What Traders Get with Sai
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/003_sai-fair-pricing-concept.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/003_sai-fair-pricing-concept.png"
-      alt="Sai"
-    />
-  </picture>
-  <figcaption>Fair Pricing Concept</figcaption>
-</figure>
+### Fair Pricing
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/004_sai-funding.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/004_sai-funding.png"
-      alt="Sai"
-    />
-  </picture>
-  <figcaption>Sai’s Funding</figcaption>
-</figure>
+Trades settle at oracle based prices that reflect global markets. Your fills and liquidations follow a reliable price feed. This reduces scam wicks, increases confidence when sizing larger positions, and makes Sai feel like a low slippage DEX even when liquidity appears light.
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/005_sai-collateral.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/005_sai-collateral.png"
-      alt="Sai"
-    />
-  </picture>
-  <figcaption>Sai’s Collateral</figcaption>
-</figure>
+### Funding that is easy to understand
 
+Many perps platforms use funding payments in fixed windows. This can turn funding into a timing game. Sai uses a continuous borrow fee that updates every block based on open interest. You pay a clear borrow cost instead of needing to remember when the next funding window hits.
+
+Others have payments in fixed windows
+
+Sai has continuous block by block payments
+
+Clear borrow costs instead of timing the windows
+
+### Collateral that works cross-chain
+
+Sai will soon support multiple collateral types, such as USDC and yield-bearing assets like stNIBI. You can deposit USDC from chains like Ethereum or Base, and the protocol treats it the same once it arrives.
 
 <figure>
   <picture>
@@ -105,10 +80,12 @@ Sai is a decentralized perpetuals platform built to deliver CEX-level performanc
     />
     <img
       src="../.gitbook/assets/blog_1/006_sai-in-practice.png"
-      alt="Sai"
+      alt="- Deposit USDC from major chains such as Ethereum or Base
+- Use yield-bearing assets as collateral so capital can keep earning while you trade
+- Open and manage all positions from a single margin balance instead of splitting funds across pairs or platforms
+- Deposit funds into Sai using a checking, debit, or credit card through integrated on-ramp partners, so you can start trading without using a separate exchange"
     />
   </picture>
-  <figcaption>In Practice</figcaption>
 </figure>
 
 ### How Sai compares to other platforms
@@ -145,20 +122,17 @@ Sai tries to answer a simple question: what would a best perpetual DEX look like
 
 Under the hood, Sai is meant to be simple.
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/008_sai-features.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/008_sai-features.png"
-      alt="Sai"
-    />
-  </picture>
-</figure>
+# Sai Features
+
+| Sai Features | What it Means |
+|---|---|
+| Oracle Settled Execution | Custody risk, opaque liquidation logic, possible withdrawal limits |
+| Continuous Borrow Fee | Funding adjusts per block with OI skew |
+| Passive LP via SLP Vaults | Sai V2 allows collateral deposits of USDC or stNIBI. Users can earn a share of fees without managing pairs |
+| Real Fee Perks | Volume-tier discounts and perks for ecosystem users |
+| Aligned Economics | Revenue flows back to buybacks and ecosystem growth |
+| Multi VM Performance | Built on Nibiru's EVM + Wasm stack for smooth integrations |
+| Fast Market Onboarding | New markets can list quickly once an oracle feed and liquidity are ready |
 
 ## How Does Sai Handle Liquidations?
 
@@ -175,7 +149,6 @@ Liquidation is meant to be a last resort. Sai uses a deep buffer, with liquidati
 - Stop loss checks so orders cannot be set in a way that only triggers after liquidation
 - Onchain enforcement with permissionless triggering, so execution stays fast and transparent when markets move quickly
 
-
 ## Sai as an All-Market Platform
 
 With oracle based pricing and pooled SLP liquidity, Sai can list any asset that has a reliable price feed and strong market demand.
@@ -190,44 +163,27 @@ With oracle based pricing and pooled SLP liquidity, Sai can list any asset that 
     />
     <img
       src="../.gitbook/assets/blog_1/009_sai-new-markets.png"
-      alt="Sai"
+      alt="How new markets get created
+- **Fee routing:** A portion of trading fees from liquid pairs like BTC and ETH can be directed to seed vaults for less liquid markets
+- **Revenue recycling:** As platform revenue grows, funds can be allocated into SLPs,  deepening liquidity
+- **Auto-seeding:** When demand crosses a threshold (open interest, votes, or community signals), Sai can seed initial liquidity and spin up that market"
     />
   </picture>
 </figure>
 
-What this unlocks for traders:
+**What this unlocks for traders:**
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/010_sai-unlocks-for-traders.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/010_sai-unlocks-for-traders.png"
-      alt="Sai"
-    />
-  </picture>
-</figure>
+- Tokenized stocks and IPOs that trade around the clock
+- Commodities such as gold or oil through onchain futures
+- Synthetic indexes, such as sector or theme based baskets
 
 For many users, this is what a modern decentralized derivatives exchange should look like: one adaptable venue always ready for the next phase of decentralized finance.
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/011_sai-unlocks-for-lp.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/011_sai-unlocks-for-lp.png"
-      alt="Sai"
-    />
-  </picture>
-</figure>
+**What this unlocks for LPs:**
+
+- Core vaults gain more fee sources as new markets appear
+- Different vaults can target different levels of risk and return
+- In future versions, SLP holders will be able to vote on listings and earn extra rewards for backing new markets early
 
 Sai contributors and the community will surface high-potential assets to list. Users can propose and vote on new markets, keeping listings aligned with real demand. When interest is strong, the protocol can seed initial liquidity so trading can start immediately without relying on external market makers.
 
@@ -263,7 +219,10 @@ Each vault will support a curated basket of markets, ranging from bluechips to v
     />
     <img
       src="../.gitbook/assets/blog_1/013_sai-vault-concept.png"
-      alt="Sai"
+      alt="**For example:**
+- Vault 1: Solana, Bitcoin, Ethereum, and other bluechips
+- Vault 2: WIF, Pepe, TRUMP, Aster, Hype
+- Vault 3: S&P 500, Gold Index, Japanese Yen"
     />
   </picture>
 </figure>
