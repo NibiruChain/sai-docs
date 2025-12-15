@@ -58,13 +58,11 @@ Trades settle at oracle based prices that reflect global markets. Your fills and
 
 ### Funding that is easy to understand
 
-Many perps platforms use funding payments in fixed windows. This can turn funding into a timing game. Sai uses a continuous borrow fee that updates every block based on open interest. You pay a clear borrow cost instead of needing to remember when the next funding window hits.
+Many perps platforms use funding payments in fixed windows. This can turn funding into a timing game. Sai uses a continuous borrow fee that updates every block based on open interest. You pay a clear borrow cost instead of needing to remember when the next funding window hits:
 
-Others have payments in fixed windows
-
-Sai has continuous block by block payments
-
-Clear borrow costs instead of timing the windows
+- Others have payments in fixed windows
+- Sai has continuous block by block payments
+-Clear borrow costs instead of timing the windows
 
 ### Collateral that works cross-chain
 
@@ -92,14 +90,14 @@ Sai will soon support multiple collateral types, such as USDC and yield-bearing 
 
 Under the hood, Sai is built around a simple question: what would the best perpetual platform look like if it was designed from scratch?
 
-## Sai: Oracle-native Perps Model
+#### Oracle-native Perps Model
 
 | Aspect | Details |
 |--------|---------|
 | **Why it works** | Oracle settled pricing, continuous borrow fee, single asset vaults, flexible collateral |
 | **Impact on Traders** | Fairer fills, more, predictable costs, clear roles for traders and LPs |
 
-## Sai vs Legacy Models - Table Format
+#### Sai vs Legacy Models
 
 | Platform Type | Common Issues | Impact on Traders |
 |---|---|---|
@@ -115,8 +113,6 @@ Sai tries to answer a simple question: what would a best perpetual DEX look like
 ## Sai’s Key Design Choices
 
 Under the hood, Sai is meant to be simple.
-
-### Sai Features
 
 | Sai Features | What it Means |
 |---|---|
@@ -203,23 +199,11 @@ SLPs earn trading fees by providing liquidity through single asset vaults. Vault
 
 Each vault will support a curated basket of markets, ranging from bluechips to volatile assets to RWAs.
 
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/013_sai-vault-concept.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/013_sai-vault-concept.png"
-      alt="**For example:**
+**For example:**
+
 - Vault 1: Solana, Bitcoin, Ethereum, and other bluechips
 - Vault 2: WIF, Pepe, TRUMP, Aster, Hype
-- Vault 3: S&P 500, Gold Index, Japanese Yen"
-    />
-  </picture>
-</figure>
+- Vault 3: S&P 500, Gold Index, Japanese Yen
 
 [Provide liquidity for Sai - app.sai.fun.](https://app.sai.fun/buy-SLP/) 
 
@@ -278,24 +262,12 @@ Don't miss what's coming next. Follow us for real-time updates on:
 {% tab title="X / Twitter" %}
 Stay updated on announcements, market insights, and community highlights.
 
-[Follow @SaiProtocol](https://twitter.com/saiprotocol)
-{% endtab %}
-
-{% tab title="Discord" %}
-Join our community for real-time discussion, support, and beta testing coordination.
-
-[Join our Discord](https://discord.gg/saiprotocol)
-{% endtab %}
-
-{% tab title="GitHub" %}
-Track development progress, smart contract updates, and open-source contributions.
-
-[Star us on GitHub](https://github.com/saiprotocol)
+[Follow @SaiDotFun](https://x.com/SaiDotFun)
 {% endtab %}
 
 {% tab title="Telegram" %}
 Quick updates and community coordination.
 
-[Join Telegram](https://t.me/saiprotocol)
+[Join Telegram](https://t.me/saidotfun)
 {% endtab %}
 {% endtabs %}
