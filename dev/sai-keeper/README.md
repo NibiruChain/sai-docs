@@ -1,6 +1,6 @@
 ---
 icon: fire
-cover: .gitbook/assets/sai-twitter-banner-1500x500.jpg
+cover: ../../.gitbook/assets/sai-twitter-banner-1500x500.jpg
 description: >-
   Sai Keeper is a GraphQL API that indexes Sai Protocol's on-chain data,
   enabling developers to query trades, liquidity pools, prices, and fees
