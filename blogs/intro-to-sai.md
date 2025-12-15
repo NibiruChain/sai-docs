@@ -92,27 +92,21 @@ Sai will soon support multiple collateral types, such as USDC and yield-bearing 
 
 Under the hood, Sai is built around a simple question: what would the best perpetual platform look like if it was designed from scratch?
 
+## Sai: Oracle-native Perps Model
+
+| Aspect | Details |
+|--------|---------|
+| **Why it works** | Oracle settled pricing, continuous borrow fee, single asset vaults, flexible collateral |
+| **Impact on Traders** | Fairer fills, more, predictable costs, clear roles for traders and LPs |
+
+## Sai vs Legacy Models - Table Format
+
 | Platform Type | Common Issues | Impact on Traders |
 |---|---|---|
 | Centralized Perp Exchanges | Custody risk, opaque liquidation logic, possible withdrawal limits | Funds are not fully under user control |
 | AMM Style Perp DEXs | Funding games, skewed vaults, limited markets | Unclear costs, LPs take uneven risk |
 | Hybrid Off-Chain Engines | Extra trust in sequencers or keepers, downtime risk | Users rely on a middle layer instead of the chain itself |
 | Sai | Oracle settled pricing, continuous borrow fee, single asset vaults, flexible collateral | Fairer fills, more predictable costs, clear roles for traders and LPs |
-
-<figure>
-  <picture>
-    <source
-      srcset="
-        ../.gitbook/assets/blog_1/007_sai-compare.png
-      "
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="../.gitbook/assets/blog_1/007_sai-compare.png"
-      alt="Sai"
-    />
-  </picture>
-</figure>
 
 Sai tries to answer a simple question: what would a best perpetual DEX look like if it stayed fully onchain and focused on a small set of strong ideas.
 
@@ -122,7 +116,7 @@ Sai tries to answer a simple question: what would a best perpetual DEX look like
 
 Under the hood, Sai is meant to be simple.
 
-# Sai Features
+### Sai Features
 
 | Sai Features | What it Means |
 |---|---|
@@ -171,7 +165,7 @@ With oracle based pricing and pooled SLP liquidity, Sai can list any asset that 
   </picture>
 </figure>
 
-**What this unlocks for traders:**
+### What this unlocks for traders:
 
 - Tokenized stocks and IPOs that trade around the clock
 - Commodities such as gold or oil through onchain futures
@@ -179,7 +173,7 @@ With oracle based pricing and pooled SLP liquidity, Sai can list any asset that 
 
 For many users, this is what a modern decentralized derivatives exchange should look like: one adaptable venue always ready for the next phase of decentralized finance.
 
-**What this unlocks for LPs:**
+### What this unlocks for LPs:
 
 - Core vaults gain more fee sources as new markets appear
 - Different vaults can target different levels of risk and return
@@ -269,4 +263,39 @@ Sai will continue shipping in three main verticals: more markets, better tools, 
 
 Sai’s vision is simple: a platform that matches CEX scale while staying transparent and onchain, and expands into whatever markets traders demand.
 
-If you haven’t already, follow Sai on socials to stay tuned for the latest updates, including beta testing, launch date, and more.
+## Stay Updated with Sai
+
+Don't miss what's coming next. Follow us for real-time updates on:
+
+- **Beta Launch**: Early access opportunities and testing phases
+- **Feature Releases**: New trading pairs, vault strategies, and platform upgrades
+- **Developer News**: API changes, smart contract updates, and integration guides
+- **Community Events**: Trading competitions, AMAs, and governance discussions
+
+### Follow Sai
+
+{% tabs %}
+{% tab title="X / Twitter" %}
+Stay updated on announcements, market insights, and community highlights.
+
+[Follow @SaiProtocol](https://twitter.com/saiprotocol)
+{% endtab %}
+
+{% tab title="Discord" %}
+Join our community for real-time discussion, support, and beta testing coordination.
+
+[Join our Discord](https://discord.gg/saiprotocol)
+{% endtab %}
+
+{% tab title="GitHub" %}
+Track development progress, smart contract updates, and open-source contributions.
+
+[Star us on GitHub](https://github.com/saiprotocol)
+{% endtab %}
+
+{% tab title="Telegram" %}
+Quick updates and community coordination.
+
+[Join Telegram](https://t.me/saiprotocol)
+{% endtab %}
+{% endtabs %}
