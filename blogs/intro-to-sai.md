@@ -62,7 +62,7 @@ Many perps platforms use funding payments in fixed windows. This can turn fundin
 
 - Others have payments in fixed windows
 - Sai has continuous block by block payments
--Clear borrow costs instead of timing the windows
+- Clear borrow costs instead of timing the windows
 
 ### Collateral that works cross-chain
 
