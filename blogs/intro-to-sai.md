@@ -2,6 +2,9 @@
 description: "Introducing Sai: Nibiru’s Perpetuals DEX"
 cover: ../.gitbook/assets/blog_1/0000_sai_header.png
 icon: newspaper
+date: 2025-12-16
+authors:
+  - name: Brandon
 ---
 
 # Introducing Sai: Nibiru’s Perpetuals DEX
