@@ -1,6 +1,6 @@
 ---
 description: "Introducing Sai: Nibiru’s Perpetuals DEX"
-cover: ../.gitbook/assets/blog_1/000_sai-is-coming.png
+cover: ../.gitbook/assets/blog_1/0000_sai-header.png
 icon: newspaper
 ---
 
