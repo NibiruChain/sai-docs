@@ -8,6 +8,6 @@ icon: newspaper
 
 This section contains all links to sai blogs.
 
-{% content-ref url="intro.md" %}
+{% content-ref url="intro-to-sai.md" %}
 [intro-to-sai.md](intro-to-sai.md)
 {% endcontent-ref %}
