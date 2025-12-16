@@ -5,8 +5,6 @@ icon: newspaper
 published: 2025-12-16
 ---
 
-_Published: December 16, 2025_
-
 # Introducing Sai: Nibiru’s Perpetuals DEX
 
 Over the last few years, crypto trading has moved from spot markets to derivatives. Perpetual futures, or perps, now drive most activity, and a new wave of perpetual DEX apps has proven that crypto perpetual futures are the product many traders care about most.
@@ -274,3 +272,5 @@ Quick updates and community coordination.
 [Join Telegram](https://t.me/saidotfun)
 {% endtab %}
 {% endtabs %}
+
+_Published: December 16, 2025_
