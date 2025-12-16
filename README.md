@@ -1,7 +1,7 @@
 ---
 description: Trade, earn, burn.
 icon: fire
-cover: https://pbs.twimg.com/profile_banners/1840783256666685440/1728518713/1500x500
+cover: .gitbook/assets/sai-twitter-banner-1500x500.jpg
 coverY: 0
 ---
 
@@ -11,37 +11,37 @@ Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. W
 
 ## Learn About Sai
 
-{% content-ref url="learn/README.md" %}
-[About Sai](learn/README.md)
+{% content-ref url="learn/" %}
+[learn](learn/)
 {% endcontent-ref %}
 
 {% content-ref url="learn/trading/" %}
-[Trading on Sai](learn/trading/)
+[trading](learn/trading/)
 {% endcontent-ref %}
 
 {% content-ref url="learn/slp.md" %}
-[Sai Positions (SLP)](learn/slp.md)
+[slp.md](learn/slp.md)
 {% endcontent-ref %}
 
 ## User Guides
 
 {% content-ref url="guides/" %}
-[Using Sai](guides/)
+[guides](guides/)
 {% endcontent-ref %}
 
 ## For Developers
 
 {% content-ref url="dev/" %}
-[Developer Documentation](dev/)
+[dev](dev/)
 {% endcontent-ref %}
 
 ## Community
 
 {% content-ref url="community.md" %}
-[Join Our Community](community.md)
+[community.md](community.md)
 {% endcontent-ref %}
 
----
+***
 
 ## Why Sai?
 
@@ -58,12 +58,12 @@ Sai is in active development with an expected launch in early 2025. The team has
 In the mean time, please [follow Sai on X](https://x.com/saidotfun) to help support us.
 {% endhint %}
 
----
+***
 
 ## Sai Updates
 
 **Stay up to date on Sai’s socials:**
 
-* X: <https://x.com/saidotfun>
-* Telegram: <https://t.me/saidotfun>
+* X: [https://x.com/saidotfun](https://x.com/saidotfun)
+* Telegram: [https://t.me/saidotfun](https://t.me/saidotfun)
 * [Sai Blog](https://docs.sai.fun/blogs)
