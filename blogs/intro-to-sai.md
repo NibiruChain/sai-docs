@@ -2,8 +2,10 @@
 description: "Introducing Sai: Nibiru’s Perpetuals DEX"
 cover: ../.gitbook/assets/blog_1/0000_sai_header.png
 icon: newspaper
-date: 2025-12-16
+published: 2025-12-16
 ---
+
+_Published: December 16, 2025_
 
 # Introducing Sai: Nibiru’s Perpetuals DEX
 
@@ -162,7 +164,7 @@ With oracle based pricing and pooled SLP liquidity, Sai can list any asset that 
   </picture>
 </figure>
 
-### What this unlocks for traders:
+### What this unlocks for traders
 
 - Tokenized stocks and IPOs that trade around the clock
 - Commodities such as gold or oil through onchain futures
@@ -170,7 +172,7 @@ With oracle based pricing and pooled SLP liquidity, Sai can list any asset that 
 
 For many users, this is what a modern decentralized derivatives exchange should look like: one adaptable venue always ready for the next phase of decentralized finance.
 
-### What this unlocks for LPs:
+### What this unlocks for LPs
 
 - Core vaults gain more fee sources as new markets appear
 - Different vaults can target different levels of risk and return
@@ -206,7 +208,7 @@ Each vault will support a curated basket of markets, ranging from bluechips to v
 - Vault 2: WIF, Pepe, TRUMP, Aster, Hype
 - Vault 3: S&P 500, Gold Index, Japanese Yen
 
-[Provide liquidity for Sai - app.sai.fun.](https://app.sai.fun/buy-SLP/) 
+[Provide liquidity for Sai - app.sai.fun.](https://app.sai.fun/buy-SLP/)
 
 ## Sai Roadmap (2026)
 
