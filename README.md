@@ -1,7 +1,7 @@
 ---
 description: Trade, earn, burn.
 icon: fire
-cover: .gitbook/assets/sai-twitter-banner-1500x500.jpg
+cover: .gitbook/assets/sai-docs-banner.png
 coverY: 0
 ---
 

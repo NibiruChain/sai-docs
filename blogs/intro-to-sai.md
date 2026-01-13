@@ -3,6 +3,11 @@ description: "Introducing Sai: Nibiru’s Perpetuals DEX"
 cover: ../.gitbook/assets/blog_1/0000_sai_header.png
 icon: newspaper
 published: 2025-12-16
+images:
+  - file: ../.gitbook/assets/blog_1/0000_sai_header.png
+    alt: Intro to Sai
+    caption: Intro to Sai
+    width: 800
 ---
 
 # Introducing Sai: Nibiru’s Perpetuals DEX
