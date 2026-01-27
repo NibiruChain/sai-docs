@@ -24,15 +24,18 @@ NIBI is required for all transactions on Sai. You can acquire it through:
 
 ### Decentralized Exchanges (DEX)
 
-| DEX        | Network | Link                                          |
-| ---------- | ------- | --------------------------------------------- |
-| Osmosis    | WasmVM  | [Trade on Osmosis](https://app.osmosis.zone)  |
-| Astrovault | WasmVM  | [Trade on Astrovault](https://astrovault.io/) |
-| Ichi       | EVM     | [Trade on Ichi](https://app.ichi.org)         |
+| DEX        | Network | Link                                                                                                                                                              |
+| ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oku        | EVM     | [Trade on Oku](https://oku.trade/swap?inputChain=nibiru\&inToken=0x0829F361A05D993d5CEb035cA6DF3446b060970b\&outToken=0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97) |
+| Osmosis    | WasmVM  | [Trade on Osmosis](https://app.osmosis.zone)                                                                                                                      |
+| Astrovault | WasmVM  | [Trade on Astrovault](https://astrovault.io/)                                                                                                                     |
 
 ### Bridging
 
-Limited bridge options available at [app.nibiru.fi/bridge](https://app.nibiru.fi/bridge)
+| Bridge   | Link                                                                                                                                                                             |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nibiru   | [Bridge](https://app.nibiru.fi/bridge)                                                                                                                                           |
+| Stargate | [Bridge](https://stargate.finance/?srcChain=ethereum\&srcToken=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48\&dstChain=nibiru\&dstToken=0x0829F361A05D993d5CEb035cA6DF3446b060970b) |
 
 ***
 
@@ -57,19 +60,19 @@ If you need to move stNIBI between EVM and WasmVM networks:
 1. Go to [app.nibiru.fi/portfolio](https://app.nibiru.fi/portfolio)
 2. Select the stNIBI asset from your table
 3. Use the **FunToken** conversion to:
-   * Convert stNIBI ERC20 (EVM) → stNIBI bank coin (WasmVM)
-   * Convert stNIBI bank coin (WasmVM) → stNIBI ERC20 (EVM)
+   * Convert stNIBI ERC20 (EVM) → stNIBI Bank Coin (WasmVM)
+   * Convert stNIBI Bank Coin (WasmVM) → stNIBI ERC20 (EVM)
 
 ### Alternative: Trade stNIBI on DEX
 
 Acquire stNIBI directly from decentralized exchanges:
 
-| DEX        | Network | Link                                     |
-| ---------- | ------- | ---------------------------------------- |
-| Astrovault | WasmVM  | [Trade stNIBI](https://astrovault.io/)   |
-| Skip Swap  | WasmVM  | [Trade stNIBI](https://app.skip.money)   |
-| Ichi       | EVM     | [Trade stNIBI](https://app.ichi.org)     |
-| Stargate   | EVM     | [Trade stNIBI](https://stargate.finance) |
+| DEX        | Network | Link                                                                                                                                                              |
+| ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oku        | EVM     | [Trade stNIBI](https://oku.trade/swap?inputChain=nibiru\&inToken=0x0829F361A05D993d5CEb035cA6DF3446b060970b\&outToken=0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b) |
+| Stargate   | EVM     | [Trade stNIBI](https://stargate.finance)                                                                                                                          |
+| Astrovault | WasmVM  | [Trade stNIBI](https://astrovault.io/)                                                                                                                            |
+| Skip Swap  | WasmVM  | [Trade stNIBI](https://app.skip.money)                                                                                                                            |
 
 ***
 
