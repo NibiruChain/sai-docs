@@ -47,3 +47,4 @@
   * [Intro to Sai](blogs/intro-to-sai.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
+  * [Sai Disclosures](legal/disclosures.md)

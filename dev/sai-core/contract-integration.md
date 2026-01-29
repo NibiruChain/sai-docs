@@ -379,5 +379,3 @@ await wasm.execute(
 * **`receiptToExecuteResult`** normalizes EVM receipts to a CosmJS‑like shape.
 * **`MsgConvertEvmToCoin`** (WASM path) can optionally be appended if BANK funds are insufficient.
 * **Smart Allocation** (optional): split requested amount across BANK / ERC‑20 based on balances and user preference; then scale per‑side and stitch back together.
-
----
