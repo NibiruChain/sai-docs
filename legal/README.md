@@ -1,7 +1,8 @@
 ---
 description: Legal and regulatory documents for Sai and Sai.fun.
-cover: ../.gitbook/assets/sai-twitter-banner-1500x500.jpg
 icon: scale-balanced
+cover: ../.gitbook/assets/sai-twitter-banner-1500x500.jpg
+coverY: 0
 ---
 
 # Legal
@@ -14,7 +15,6 @@ This section contains important legal documents, terms of service, and regulator
 [terms-of-use.md](terms-of-use.md)
 {% endcontent-ref %}
 
-{% content-ref url="legal/disclosures.md" %}
+{% content-ref url="disclosures.md" %}
 [disclosures.md](disclosures.md)
 {% endcontent-ref %}
-
