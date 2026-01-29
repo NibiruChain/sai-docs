@@ -1,5 +1,5 @@
 ---
-description: This article outlines the Terms of Use governing your access to Sai.fun..
+description: This article outlines the Terms of Use governing your access to Sai.fun.
 ---
 
 # Terms of Use

@@ -13,3 +13,8 @@ This section contains important legal documents, terms of service, and regulator
 {% content-ref url="terms-of-use.md" %}
 [terms-of-use.md](terms-of-use.md)
 {% endcontent-ref %}
+
+{% content-ref url="disclosures.md" %}
+[disclosures.md](disclosures.md)
+{% endcontent-ref %}
+
