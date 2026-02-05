@@ -63,5 +63,37 @@ Trading fee discounts do not stack. Traders receive whichever discount is higher
 ## Get Started
 
 1. Create a referral code and share it with your audience
+
+<figure>
+  <picture>
+    <source
+      srcset="
+        ../.gitbook/assets/guides/000_create_code.png
+      "
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="../.gitbook/assets/guides/000_create_code.png"
+      alt="Sai"
+    />
+  </picture>
+</figure>
+
 2. Redeem a referral code to start saving on trading fees
+
+<figure>
+  <picture>
+    <source
+      srcset="
+        ../.gitbook/assets/guides/001_redeem_code.png
+      "
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="../.gitbook/assets/guides/001_redeem_code.png"
+      alt="Sai"
+    />
+  </picture>
+</figure>
+
 3. Trade, track your activity on the leaderboard, and climb tiers over time
