@@ -12,6 +12,7 @@
 * [Guides | Using Sai](guides/README.md)
   * [Onboarding](guides/onboarding.md)
   * [Wallet Setup](guides/wallet-setup.md)
+  * [Sai Referral](/guides/referral.md)
   * [Acquiring Collateral](guides/acquiring-collateral.md)
   * [Choosing a Market](guides/choosing-market.md)
 
