@@ -14,7 +14,7 @@
   * [Wallet Setup](guides/wallet-setup.md)
   * [Acquiring Collateral](guides/acquiring-collateral.md)
   * [Choosing a Market](guides/choosing-market.md)
-  * [Sai Referral](/guides/referral.md)
+  * [Sai Referral Program](/guides/referral.md)
 
 ## For Devs
 
