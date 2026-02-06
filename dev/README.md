@@ -1,20 +1,39 @@
-# Quick Start
+---
+description: Build on Sai with comprehensive technical documentation, API references, and integration guides.
+icon: code
+---
 
-Choose your integration path:
+# Getting Started
 
-{% content-ref url="evm-guide.md" %}
-[EVM Integration Guide](__evm-guide.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Start here if you're building on EVM chains. Covers environment setup, contract connections, and basic operations like opening positions and managing collateral.
-{% endhint %}
+Build powerful applications on top of Sai's perpetual futures protocol. Whether you're creating trading bots, analytics dashboards, or custom integrations, this documentation will guide you through the process.
 
-{% content-ref url="wasm-guide.md" %}
-[WASM Integration Guide](__wasm-guide.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-For WASM-based chains and clients. Learn integration patterns with language-specific examples and deployment guidance.
-{% endhint %}
+## Quick Start
+
+Choose your integration path based on your development environment:
+
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>EVM Integration Guide</strong></td>
+      <td>Start here if you're building on EVM chains. Covers environment setup, contract connections, and basic operations like opening positions and managing collateral</td>
+      <td><a href="evm-guide.md">evm-guide.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>WASM Integration Guide</strong></td>
+      <td>For WASM-based chains and clients. Learn integration patterns with language-specific examples and deployment guidance</td>
+      <td><a href="wasm-guide.md">wasm-guide.md</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## Sai Core
 
@@ -22,49 +41,63 @@ Comprehensive documentation of the Sai smart contracts, modules, and architectur
 
 ### Core Modules
 
-{% content-ref url="sai-core/perp-contract.md" %}
-[Perp Contract](__sai-core/____perp-contract.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Main perpetual futures contract handling position management, collateral, and settlement.
-{% endhint %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Perp Contract</strong></td>
+      <td>Main perpetual futures contract handling position management, collateral, and settlement</td>
+      <td><a href="sai-core/perp-contract.md">perp-contract.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Borrowing Module</strong></td>
+      <td>Borrowed funds management, interest rates, and liquidation mechanics</td>
+      <td><a href="sai-core/perp-borrowing.md">perp-borrowing.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Price Impact Module</strong></td>
+      <td>How large trades affect pricing, slippage calculation, and execution costs</td>
+      <td><a href="sai-core/perp-price-impact.md">perp-price-impact.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
-{% content-ref url="sai-core/perp-borrowing.md" %}
-[Borrowing Module](__sai-core/____perp-borrowing.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Borrowed funds management, interest rates, and liquidation mechanics.
-{% endhint %}
+### Reference Documentation
 
-{% content-ref url="sai-core/perp-price-impact.md" %}
-[Price Impact Module](__sai-core/____perp-price-impact.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-How large trades affect pricing, slippage calculation, and execution costs.
-{% endhint %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>State Variables</strong></td>
+      <td>Complete reference of all smart contract state variables and their purposes</td>
+      <td><a href="sai-core/perp-state.md">perp-state.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Contract Addresses Reference</strong></td>
+      <td>Mainnet and testnet deployment addresses for all Sai contracts</td>
+      <td><a href="sai-core/contracts.md">contracts.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>WASM & EVM Integration</strong></td>
+      <td>Platform-specific details for direct smart contract integration</td>
+      <td><a href="sai-core/contract-integration.md">contract-integration.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Reference
-
-{% content-ref url="sai-core/perp-state.md" %}
-[State Variables](__sai-core/____perp-state.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Complete reference of all smart contract state variables and their purposes.
-{% endhint %}
-
-{% content-ref url="sai-core/contracts.md" %}
-[Contract Addresses Reference](__sai-core/____contracts.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Mainnet and testnet deployment addresses for all Sai contracts.
-{% endhint %}
-
-{% content-ref url="sai-core/contract-integration.md" %}
-[WASM & EVM Integration](__sai-core/____contract-integration.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Platform-specific details for direct smart contract integration.
-{% endhint %}
+---
 
 ## Sai Keeper
 
@@ -72,71 +105,130 @@ Query and subscribe to real-time data from the Sai protocol. Perfect for dashboa
 
 ### Getting Started
 
-{% content-ref url="sai-keeper/core-concepts.md" %}
-[Core Concepts](__sai-keeper/____core-concepts.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Understand indexing, subscriptions, and how Keeper structures protocol data.
-{% endhint %}
-
-{% content-ref url="sai-keeper/client-setup.md" %}
-[Client Setup](__sai-keeper/____client-setup.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Get your GraphQL client configured and authenticated in minutes.
-{% endhint %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Core Concepts</strong></td>
+      <td>Understand indexing, subscriptions, and how Keeper structures protocol data</td>
+      <td><a href="sai-keeper/core-concepts.md">core-concepts.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Client Setup</strong></td>
+      <td>Get your GraphQL client configured and authenticated in minutes</td>
+      <td><a href="sai-keeper/client-setup.md">client-setup.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### API Reference
 
-{% content-ref url="sai-keeper/api-perp.md" %}
-[Perp API](__sai-keeper/____api-perp.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Query positions, orders, trades, and perpetual-specific data.
-{% endhint %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Perp API</strong></td>
+      <td>Query positions, orders, trades, and perpetual-specific data</td>
+      <td><a href="sai-keeper/api-perp.md">api-perp.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Liquidity Provider (LP) API</strong></td>
+      <td>Access liquidity pool data, provider positions, and performance metrics</td>
+      <td><a href="sai-keeper/api-lp.md">api-lp.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Oracle API</strong></td>
+      <td>Get price feeds and oracle data used throughout the protocol</td>
+      <td><a href="sai-keeper/api-oracle.md">api-oracle.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Fees API</strong></td>
+      <td>Query fee structures, accruals, and historical fee data</td>
+      <td><a href="sai-keeper/api-fees.md">api-fees.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
-{% content-ref url="sai-keeper/api-lp.md" %}
-[Liquidity Provider (LP) API](__sai-keeper/____api-lp.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Access liquidity pool data, provider positions, and performance metrics.
-{% endhint %}
+### Examples & Advanced Usage
 
-{% content-ref url="sai-keeper/api-oracle.md" %}
-[Oracle API](__sai-keeper/____api-oracle.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Get price feeds and oracle data used throughout the protocol.
-{% endhint %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Examples: Queries</strong></td>
+      <td>Copy-paste ready GraphQL queries for common use cases</td>
+      <td><a href="sai-keeper/examples-queries.md">examples-queries.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Examples: Subscriptions</strong></td>
+      <td>See how to subscribe to real-time updates and build event-driven applications</td>
+      <td><a href="sai-keeper/examples-subscriptions.md">examples-subscriptions.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Filters & Pagination</strong></td>
+      <td>Master filtering, sorting, and pagination for efficient large-scale data retrieval</td>
+      <td><a href="sai-keeper/filters-pagination.md">filters-pagination.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
-{% content-ref url="sai-keeper/api-fees.md" %}
-[Fees API](__sai-keeper/____api-fees.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Query fee structures, accruals, and historical fee data.
-{% endhint %}
+---
 
-### Examples
+## Use Cases
 
-{% content-ref url="sai-keeper/examples-queries.md" %}
-[Examples: Queries](__sai-keeper/____examples-queries.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Copy-paste ready GraphQL queries for common use cases.
-{% endhint %}
+Practical integration examples and real-world applications built on Sai.
 
-{% content-ref url="sai-keeper/examples-subscriptions.md" %}
-[Examples: Subscriptions](__sai-keeper/____examples-subscriptions.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-See how to subscribe to real-time updates and build event-driven applications.
-{% endhint %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Telegram Bot Integration</strong></td>
+      <td>Build a Telegram trading bot with position monitoring, alerts, and order execution</td>
+      <td><a href="use-cases/tg-guide.md">tg-guide.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Advanced
+---
 
-{% content-ref url="sai-keeper/filters-pagination.md" %}
-[Filters & Pagination](__sai-keeper/____filters-pagination.md__)
-{% endcontent-ref %}
-{% hint style="info" %}
-Master filtering, sorting, and pagination for efficient large-scale data retrieval.
+## Developer Resources
+
+**Need help or want to connect with other builders?**
+
+- 🐦 [X / Twitter](https://x.com/SaiDotFun) - @SaiDotFun
+- 📢 [Telegram News Channel](https://t.me/saidotfun) - t.me/saidotfun
+
+**Additional Resources:**
+
+- [Contract Addresses](sai-core/contracts.md) - Quick reference for all deployed contracts
+- [GraphQL Playground](https://sai-keeper.nibiru.fi/) - Test queries interactively
+
+---
+
+{% hint style="success" %}
+**Ready to build?** Start with the [EVM Integration Guide](evm-guide.md) or [WASM Integration Guide](wasm-guide.md) based on your development stack.
 {% endhint %}
