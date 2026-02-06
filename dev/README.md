@@ -1,5 +1,6 @@
 ---
 description: Build on Sai with comprehensive technical documentation, API references, and integration guides.
+cover: ../../.gitbook/assets/sai-twitter-banner-1500x500.jpg
 icon: code
 ---
 
