@@ -10,7 +10,7 @@ coverY: 0
 Welcome to **Sai.fun**—a perpetual futures trading platform built on Nibiru. With Sai, you can open leveraged positions (long or short) with low fees and low impact trades, set limit orders, stop-losses and take-profits, or earn yield in a fully onchain trading experience.
 
 {% hint style="info" %}
-Sai is in active development with an expected launch in early 2025. The team has finalized a smart contract audit on the core protocol logic, and the web application is under active development.
+Sai is in active development with an expected launch in early 2026. The team has finalized a smart contract audit on the core protocol logic, and the web application is under active development.
 
 In the meantime, please [follow Sai on X](https://x.com/saidotfun) to help support us.
 {% endhint %}
@@ -209,7 +209,7 @@ Build on Sai with comprehensive technical documentation, API references, and int
 
 ---
 
-Why Sai?
+## Why Sai?
 
 - **Oracle settlement**: Simple and easy price behavior so there's no internal surprises. We rely on a combination of Nibiru's Oracle, which aggregates prices from leading exchanges like Binance, Bybit, and OKX through Nibiru's decentralized validator network, and custom feeds for certain markets.
 
