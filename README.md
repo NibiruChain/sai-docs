@@ -209,19 +209,15 @@ Build on Sai with comprehensive technical documentation, API references, and int
 
 ---
 
-## Why Sai?
+Why Sai?
 
-**Oracle Settlement**  
-Simple and easy price behavior so there's no internal surprises. We rely on a combination of [Nibiru's Oracle](https://nibiru.fi/docs/ecosystem/oracle/), which aggregates prices from leading exchanges like Binance, Bybit, and OKX through Nibiru's decentralized validator network, and custom feeds for certain markets.
+- Oracle settlement: Simple and easy price behavior so there's no internal surprises. We rely on a combination of Nibiru's Oracle, which aggregates prices from leading exchanges like Binance, Bybit, and OKX through Nibiru's decentralized validator network, and custom feeds for certain markets.
 
-**Leverage**  
-Amplify your exposure with up to 100x leverage (exact max set by each market and pairs).
+- Leverage: Amplify your exposure with up to 100x leverage (exact max set by each market and pairs).
 
-**Simple On-Chain Experience**  
-Manage everything in one intuitive UI, leveraging one click trading, automated order triggering, and more.
+- Simple On-Chain Experience: Manage everything in one intuitive UI, leveraging one click trading, automated order triggering, etc.
 
-**Custom Orders**  
-Market, limit, stop, and advanced triggers for Take Profits and Stop Losses.
+- Custom Orders: Market, limit, stop, and advanced triggers for Take Profits and Stop Losses.
 
 Use the sidebar navigation to jump to any topic or type a keyword (e.g. "leverage," "limit order") in the search bar.
 
