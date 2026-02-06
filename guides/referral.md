@@ -139,8 +139,4 @@ If you have questions about the referral program or need assistance getting star
 
 ---
 
-{% hint style="info" %}
-**Stay Updated:** Referral program terms and commission rates are subject to change. Check this page regularly for the latest information.
-{% endhint %}
-
 *Last updated: February 2026*
