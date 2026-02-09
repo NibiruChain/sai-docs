@@ -46,6 +46,7 @@
 * [Community](community.md)
 * [Blog](blogs/README.md)
   * [Intro to Sai](blogs/intro-to-sai.md)
+  * [Trading Competition](blogs/sai-trading-competition-blog.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Sai Disclosures](legal/disclosures.md)
