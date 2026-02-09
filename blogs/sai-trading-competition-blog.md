@@ -176,27 +176,63 @@ You're automatically entered once you make your first trade — no separate regi
 
 ## FAQ
 
-**Q: Can I participate from the United States?**  
-A: No. US residents and those in sanctioned regions are not eligible to participate.
+{% tabs %}
+{% tab title="Eligibility & Geography" %}
+**Can I participate from the United States?**
 
-**Q: Do I need to be profitable to earn rewards in Phase 2?**  
-A: No. Phase 2 rewards are based solely on trading volume ($10K minimum), regardless of whether those trades were profitable.
+No. US residents and those in sanctioned regions are not eligible to participate. Check our eligibility section above for a full list of restrictions.
 
-**Q: Can I use a trading bot?**  
-A: Yes, fair-use algorithmic trading is permitted. However, bots engaged in wash trading, sybil attacks, or other prohibited tactics will be disqualified.
+**Can I participate with multiple accounts?**
 
-**Q: What if I don't reach the top 50 in Phase 1?**  
-A: Phase 2 offers a second chance. Accumulate $10,000 in volume during Phase 2 and you'll earn $100, regardless of your Phase 1 performance.
+Absolutely not. One account per person. Multiple accounts by the same individual result in immediate disqualification and removal from all prize considerations.
+{% endtab %}
 
-**Q: When will I receive my prizes?**  
-A: Winners will be announced after March 9, and payouts will be distributed within one week following the competition end.
+{% tab title="Trading & Participation" %}
+**Do I need to be profitable to earn rewards in Phase 2?**
 
-**Q: Can I participate with multiple accounts?**  
-A: Absolutely not. One account per person. Multiple accounts by the same individual result in immediate disqualification.
+No. Phase 2 rewards are based solely on trading volume ($10K minimum), regardless of whether those trades were profitable. You can lose money on trades and still qualify for the $100 reward — it's purely volume-based.
+
+**Can I use a trading bot?**
+
+Yes, fair-use algorithmic trading is permitted. Bots are welcome as long as they don't engage in wash trading, sybil attacks, or other prohibited tactics. If your bot follows the rules, go ahead and automate your strategy.
+
+**Do all markets count toward my volume and PNL?**
+
+Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging assets — it all counts toward your standing.
+{% endtab %}
+
+{% tab title="Prizes & Payouts" %}
+**What if I don't reach the top 50 in Phase 1?**
+
+Phase 2 offers a second chance. Accumulate $10,000 in volume during Phase 2 and you'll earn $100, regardless of your Phase 1 performance. Think of it as a safety net for traders who want to compete for prizes.
+
+**When will I receive my prizes?**
+
+Winners will be announced after March 9, 2026. Payouts will be distributed within one week following the competition end. Prize distribution instructions will be provided after the competition concludes.
+
+**What if not all 50 prize slots in a phase are filled?**
+
+Sai reserves the right to distribute remaining prizes to the next most qualified participants, or may choose not to distribute unused portions of the prize pool.
+{% endtab %}
+
+{% tab title="Getting Started" %}
+**How do I enter the competition?**
+
+Just start trading! Visit [app.sai.fun](https://app.sai.fun), connect your wallet, deposit collateral, and make your first trade. You're automatically entered — no separate registration needed.
+
+**What collateral can I use?**
+
+You can deposit USDC, stNIBI, or other platform-supported assets. Check the Sai app for the full list of supported collateral.
+
+**How do I track my progress?**
+
+Both PNL and volume leaderboards update regularly on the platform. Check the **Leaderboard** tab in the Sai app to monitor your standing in real-time throughout the competition.
+{% endtab %}
+{% endtabs %}
 
 ## Questions?
 
-For more details on Sai's trading mechanics, collateral options, and market listings, visit the [Sai documentation](https://docs.sai.fun/).
+For more details on Sai's trading mechanics, collateral options, and market listings, explore the [Sai documentation](../README.md).
 
 Follow us for competition updates and real-time announcements:
 
