@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/blog_2/sai_trading_competition_header.png
 icon: newspaper
 published: 2026-02-12
 images:
-  - file: ../.gitbook/assets/blog_2/sai_trading_competition_header.png
+  - file: ../.gitbook/assets/blog_2/lets-go-saicho.png
     alt: Sai Trading Competition
     caption: $25K Prize Pool - Let's Go Saicho!
     width: 800
@@ -242,3 +242,4 @@ Follow us for competition updates and real-time announcements:
 ---
 
 **Ready to trade?** Head to [app.sai.fun](https://app.sai.fun)
+
