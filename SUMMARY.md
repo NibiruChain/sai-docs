@@ -46,7 +46,7 @@
 * [Community](community.md)
 * [Blog](blogs/README.md)
   * [Intro to Sai](blogs/intro-to-sai.md)
-  * [Let's Go Saicho](/blogs/lets-go-saicho.md)
+  <!-- * [Let's Go Saicho](/blogs/lets-go-saicho.md) -->
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Sai Disclosures](legal/disclosures.md)
