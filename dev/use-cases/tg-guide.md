@@ -411,7 +411,7 @@ class SaiGQLClient:
         query = """
         query Prices($limit: Int!) {
           oracle {
-            tokenPricesUsd(limit: $limit, order_by: token_id) {
+            tokenPricesUsd(limit: $limit, order_by: oracle_token_id) {
               priceUsd
               token { id name symbol }
               lastUpdatedBlock { block block_ts }
