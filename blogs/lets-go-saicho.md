@@ -1,5 +1,5 @@
 ---
-published: 2026-02-12T00:00:00.000Z
+published: 2026-02-17T00:00:00.000Z
 images:
   - file: ../.gitbook/assets/blog_2/lets-go-saicho.png
     alt: Sai Trading Competition
@@ -221,10 +221,6 @@ Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging a
 {% endtab %}
 
 {% tab title="Prizes & Payouts" %}
-**What if I don't reach the top 50 in Phase 1?**
-
-Phase 2 offers a second chance. Accumulate $10,000 in volume during Phase 2 and you'll earn $100, regardless of your Phase 1 performance. Think of it as a safety net for traders who want to compete for prizes.
-
 **When will I receive my prizes?**
 
 Winners will be announced after March 19, 2026. Payouts will be distributed within one week following the competition end. Prize distribution instructions will be provided after the competition concludes.
