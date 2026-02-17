@@ -14,7 +14,7 @@ coverY: 0
 
 # Let's Go Saicho
 
-We're excited to announce **Sai's Trading Competition** — a one-month onchain trading competition, running from February 18 to March 18, 2026 designed to reward active traders on Sai. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
+We're excited to announce **Sai's Trading Competition** — a one-month onchain trading competition, running from February 18 to March 19, 2026 designed to reward active traders on Sai. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
 
 **Competition Dates:** February 18 - March 19, 2026\
 **Total Prize Pool:** $25,000\
@@ -227,7 +227,7 @@ Phase 2 offers a second chance. Accumulate $10,000 in volume during Phase 2 and 
 
 **When will I receive my prizes?**
 
-Winners will be announced after March 18, 2026. Payouts will be distributed within one week following the competition end. Prize distribution instructions will be provided after the competition concludes.
+Winners will be announced after March 19, 2026. Payouts will be distributed within one week following the competition end. Prize distribution instructions will be provided after the competition concludes.
 
 **What if not all 50 prize slots in a phase are filled?**
 
