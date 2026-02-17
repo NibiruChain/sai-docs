@@ -122,6 +122,9 @@ For the volume phase (Phase 2), a minimum position holding time (e.g. at least 1
 
 **Competition Duration**: The competition will start on 00:00 UTC and ends at 23:59 UTC on the dates prescribed.
 
+* Phase 1: February 18th to March 4th 2026
+* Phase 2: March 5th to March 19th 2026
+
 By entering the competition, you confirm that:
 
 * You are of legal age to participate
