@@ -11,10 +11,10 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 
 ***
 
-<!-- > 📰 [**Introducing Sai: Nibiru's Perpetuals DEX**](intro-to-sai.md)\
+> 📰 [**Introducing Sai: Nibiru's Perpetuals DEX**](intro-to-sai.md)\
 > Learn about oracle-settled pricing, flexible collateral, and our 2026 roadmap.
 
-*** -->
+***
 
 ## Subscribe to Updates
 
