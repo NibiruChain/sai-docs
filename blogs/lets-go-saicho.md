@@ -16,7 +16,7 @@ coverY: 0
 
 We're excited to announce **Sai's Trading Competition** — a one-month onchain trading event designed to reward both skilled traders and active participants. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
 
-**Competition Dates:** February 12 - March 12, 2026\
+**Competition Dates:** February 18 - March 20, 2026\
 **Total Prize Pool:** $25,000\
 **Entry:** Automatic — just start trading on Sai!
 
@@ -24,7 +24,7 @@ We're excited to announce **Sai's Trading Competition** — a one-month onchain 
 
 Sai's competition features a dual-phase design that rewards two different trader profiles: those with exceptional trading skill, and those committed to building volume on the platform.
 
-### Phase 1: PNL Competition (Feb 12 - Feb 26)
+### Phase 1: PNL Competition (Feb 18 - Mar 4)
 
 **Reward Pool:** $20,000 | **Winners:** Top 50 Traders by Profit
 
@@ -54,7 +54,7 @@ To qualify for Phase 1 rewards:
 
 **Why percentage PNL?** This metric rewards trading skill and strategy over capital size. It encourages thoughtful risk management and disciplined decision-making — exactly what sustainable trading is built on.
 
-### Phase 2: Be Early Competition (Feb 26 - Mar 12)
+### Phase 2: Be Early Competition (Mar 4th - Mar 20)
 
 **Reward Pool:** $5,000 | **Winners:** First 50 Traders to Reach Volume Goal\
 **Prize Per Winner:** $100 (split evenly among all 50 qualifiers)
@@ -64,7 +64,7 @@ Phase 2 takes a different approach: **first come, first serve**. The focus shift
 #### Phase 2 Eligibility Requirements
 
 * **Minimum trading volume:** $10,000
-* **Timeline:** February 26 - March 12, 2026
+* **Timeline:** February 18 - March 20, 2026
 * **Allocation:** First 50 qualifiers split $5,000 evenly ($100 each)
 
 **Why this phase?** We want to encourage all trader types — from conservative volume builders to high-frequency traders — to engage with Sai. Low barriers to entry mean more participants can earn rewards.
@@ -159,12 +159,12 @@ All decisions made by Sai are final.
 
 ## Competition Timeline
 
-| Date                       | Event                                               |
-| -------------------------- | --------------------------------------------------- |
-| February 12, 2026          | Phase 1 Begins (PNL Competition)                    |
-| February 26, 2026          | Phase 1 Ends; Phase 2 Begins (Be Early Competition) |
-| March 9, 2026              | Phase 2 Ends; Winners Announced                     |
-| Within one week of March 9 | Prize Payouts Distributed                           |
+| Date                        | Event                                               |
+| --------------------------- | --------------------------------------------------- |
+| February 18, 2026           | Phase 1 Begins (PNL Competition)                    |
+| March 4, 2026               | Phase 1 Ends; Phase 2 Begins (Be Early Competition) |
+| March 20, 2026              | Phase 2 Ends; Winners Announced                     |
+| Within one week of March 20 | Prize Payouts Distributed                           |
 
 ## How to Get Started
 
