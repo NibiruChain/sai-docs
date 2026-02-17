@@ -15,7 +15,7 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 > Learn about oracle-settled pricing, flexible collateral, and our 2026 roadmap.
 
 > 🏆 **[Let's Go Saicho: $25,000 Prize Pool](./lets-go-saicho.md)**  
-> Two-phase competition (Feb 12 - Mar 12, 2026) rewarding both skill and participation.
+> Two-phase competition (Feb 18 - Mar 19, 2026) rewarding both skill and participation.
 
 ***
 

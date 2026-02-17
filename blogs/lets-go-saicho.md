@@ -16,7 +16,7 @@ coverY: 0
 
 We're excited to announce **Sai's Trading Competition** — a one-month onchain trading competition, running from February 18 to March 18, 2026 designed to reward active traders on Sai. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
 
-**Competition Dates:** February 18 - March 18, 2026\
+**Competition Dates:** February 18 - March 19, 2026\
 **Total Prize Pool:** $25,000\
 **Entry:** Automatic — just start trading on Sai!
 
@@ -176,12 +176,12 @@ All decisions made by Sai are final.
 
 ## Competition Timeline
 
-| Date                        | Event                                               |
-| --------------------------- | --------------------------------------------------- |
-| February 18, 2026           | Phase 1 Begins (PNL Competition)                    |
-| March 4, 2026               | Phase 1 Ends; Phase 2 Begins (Be Early Competition) |
-| March 18, 2026              | Phase 2 Ends; Winners Announced                     |
-| Within one week of March 18 | Prize Payouts Distributed                           |
+| Date                          | Event                                               |
+| ----------------------------- | --------------------------------------------------- |
+| February 18th, 2026           | Phase 1 Begins (PNL Competition)                    |
+| March 4th, 2026               | Phase 1 Ends                                        |
+| March 5th, 2026               | Phase 2 Begins (Be Early Competition)               |
+| March 19th, 2026              | Phase 2 Ends                                        |
 
 ## How to Get Started
 
