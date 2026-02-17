@@ -209,7 +209,7 @@ Absolutely not. One account per person. Multiple accounts by the same individual
 {% tab title="Trading & Participation" %}
 **Do I need to be profitable to earn rewards in Phase 2?**
 
-No. Phase 2 rewards are based solely on trading volume ($10K minimum), regardless of whether those trades were profitable. You can lose money on trades and still qualify for the $100 reward — it's purely volume-based.
+No. Phase 2 rewards are based solely on trading volume ($10K minimum), regardless of whether those trades were profitable. You can lose money on trades and still qualify for the $100 reward — it's purely volume-based. However, it's **first come, first serve**: only the first 50 traders to hit the $10,000 volume threshold will qualify for rewards. Additionally, the volume must be from genuine trading activity — wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
 
 **Can I use a trading bot?**
 
