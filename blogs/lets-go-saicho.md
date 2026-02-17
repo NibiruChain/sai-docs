@@ -199,7 +199,7 @@ You're automatically entered once you make your first trade — no separate regi
 {% tab title="Eligibility & Geography" %}
 **Can I participate from the United States?**
 
-No. US residents and those in sanctioned regions are not eligible to participate. Check our eligibility section above for a full list of restrictions.
+No. US residents and those in sanctioned regions are not eligible to participate. Check our [eligibility section](./lets-go-saicho.md#eligibility-and-legal-requirements) above for a full list of restrictions.
 
 **Can I participate with multiple accounts?**
 
