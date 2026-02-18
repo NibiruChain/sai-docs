@@ -6,7 +6,6 @@ images:
     caption: $25K Prize Pool - Let's Go Saicho!
     width: 800
 description: 'Sai Trading Competition: $25,000 Prize Pool with Two Exciting Phases'
-hidden: true
 icon: newspaper
 cover: ../.gitbook/assets/blog_2/sai_trading_competition_header.png
 coverY: 0
