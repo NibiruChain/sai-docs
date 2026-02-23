@@ -153,7 +153,7 @@ tokenPricesUsd(
 - `where`: Filter object (optional)
   - `tokenId`: Filter by specific token ID
 - `limit`: Max results
-- `order_by`: Sort by `token_id`
+- `order_by`: Sort by `oracle_token_id`
 - `order_desc`: Sort descending
 
 **Returns:** Array of `TokenPricesUsd` objects
@@ -527,4 +527,3 @@ const subscribeToPrices = (tokenIds) => {
   })
 }
 ```
-
