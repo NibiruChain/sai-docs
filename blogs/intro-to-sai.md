@@ -183,7 +183,7 @@ For many users, this is what a modern decentralized derivatives exchange should 
 
 Sai contributors and the community will surface high-potential assets to list. Users can propose and vote on new markets, keeping listings aligned with real demand. When interest is strong, the protocol can seed initial liquidity so trading can start immediately without relying on external market makers.
 
-## Earning with Sai Liquidity Provision (SLP)
+## Earning with Sai Liquidity Positions (SLP)
 
 SLPs earn trading fees by providing liquidity through single asset vaults. Vaults can be segmented by volatility profile, giving LPs more control over exposure. At launch, deposits in USDC and stNIBI are supported.
 

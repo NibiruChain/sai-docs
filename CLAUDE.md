@@ -14,7 +14,7 @@ This is the documentation repository for **Sai.fun**, a perpetual futures tradin
 - **`SUMMARY.md`**: GitBook table of contents defining navigation structure
 - **`learn/`**: Educational content about platform mechanics
   - `trading/`: Trading features, fees, leverage, liquidations
-  - `slp.md`: Sai Liquidity Provision (vault) mechanics
+  - `slp.md`: Sai Liquidity Positions (vault) mechanics
 - **`guides/`**: User-facing guides for getting started
 - **`sai-core/smart-contracts/`**: Technical documentation for the 5-contract system
 - **`community.md`**: Community links and resources
@@ -53,7 +53,7 @@ The platform consists of 5 interconnected smart contracts:
 
 ### Key Concepts to Understand
 
-- **SLP (Sai Liquidity Provision)**: Single-collateral vault model where LPs provide counterparty liquidity
+- **SLP (Sai Liquidity Positions)**: Single-collateral vault model where LPs provide counterparty liquidity
 - **Multi-VM Architecture**: Platform supports both Cosmos (Wasm) and EVM interactions
 - **Perpetual Futures**: Leveraged trading up to 150x with oracle settlement
 - **Price Impact**: Dynamic execution pricing based on market depth and open interest

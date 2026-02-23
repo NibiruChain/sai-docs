@@ -41,8 +41,8 @@ Master the fundamentals of trading on Sai and understand how the platform works.
       <td><a href="learn/trading/">trading</a></td>
     </tr>
     <tr>
-      <td><strong>Sai Positions (SLP)</strong></td>
-      <td>Understand Sai Liquidity Provider positions and how to earn yield by providing liquidity to the platform</td>
+      <td><strong>Sai Liquidity Positions (SLP)</strong></td>
+      <td>Understand Sai Liquidity Positions and how to earn yield by providing liquidity to the platform</td>
       <td><a href="learn/slp.md">slp.md</a></td>
     </tr>
   </tbody>

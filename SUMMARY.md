@@ -8,7 +8,7 @@
     * [Fees](learn/trading/fees.md)
     * [Price Impact](learn/trading/price-impact.md)
     * [FAQ](learn/trading/faq.md)
-  * [Sai Positions (SLP)](learn/slp.md)
+  * [Sai Liquidity Positions (SLP)](learn/slp.md)
 * [Guides | Using Sai](guides/README.md)
   * [Onboarding](guides/onboarding.md)
   * [Wallet Setup](guides/wallet-setup.md)
