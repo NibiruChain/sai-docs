@@ -109,7 +109,7 @@ For the volume phase (Phase 2), a minimum position holding time (e.g. at least 1
 * **Payout Timeline:** Prize payouts (from the $25k pool per phase) will be distributed **promptly after the competition** (for instance, within one week of March 20 for the second phase, and similarly after March 4 for the first phase).
 * **Distribution Method:** Prize instructions will be provided after competition concludes
 
-**Important Note:** If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
+Important Note: If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. For example, if only a small number of participants qualify, the full prize pool will not be distributed — prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
 
 ## Eligibility & Legal Requirements
 
