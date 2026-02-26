@@ -45,11 +45,11 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 
 To qualify for Phase 1 rewards:
 
-* **Minimum cumulative trading volume:** $50,000 (or $1M+ for top 5 consideration)
+* **Minimum cumulative trading volume:** $50,000 (or $1,000,000+ for top 3 consideration)
 * **Minimum percentage PNL:** +4%
 * **Minimum absolute PNL:** $100 total profit
 * **Additional minimums by rank:**
-  * Ranks 1-3: Minimum $100 PNL
+  * Ranks 1-3: Minimum $1,000,000 volume and $250 PNL (min 4%)
   * Ranks 4-10: Minimum $50 PNL
   * Ranks 11-50: Minimum $25 PNL
 
