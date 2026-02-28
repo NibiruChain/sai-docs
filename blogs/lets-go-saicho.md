@@ -46,14 +46,13 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 To qualify for Phase 1 rewards:
 
 * **Minimum cumulative trading volume:** $50,000 (or $1M+ for top 5 consideration)
-* **Minimum percentage PNL:** +4%
 * **Minimum absolute PNL:** $100 total profit
 * **Additional minimums by rank:**
   * Ranks 1-3: Minimum $100 PNL
   * Ranks 4-10: Minimum $50 PNL
   * Ranks 11-50: Minimum $25 PNL
 
-**Why percentage PNL?** This metric rewards trading skill and strategy over capital size. It encourages thoughtful risk management and disciplined decision-making — exactly what sustainable trading is built on. The use of percentage PNL means that the focus is on trading skill and strategy rather than sheer size of capital - a 50% gain on a small account (provided the small account achieves a minimum ROI of at least $100) ranks higher than a 5% gain on a large account. This phase encourages strategic trading, risk management, and profitable decision-making.
+**Why evalute percentage profit (a.k.a. ROI) for the competition?** This metric rewards trading skill and strategy over capital size. It encourages thoughtful risk management and disciplined decision-making — exactly what sustainable trading is built on. The use of percentage PNL means that the focus is on trading skill and strategy rather than sheer size of capital - a 50% gain on a small account (provided the small account achieves a minimum ROI of at least $100) ranks higher than a 5% gain on a large account. This phase encourages strategic trading, risk management, and profitable decision-making.
 
 ### Phase 2: Be Early Competition (March 5 - March 19)
 
