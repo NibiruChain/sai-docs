@@ -57,10 +57,10 @@ A **liquidation** automatically closes your position when your collateral can’
 
 ### Liquidation Threshold
 
-SAI uses a _maintenance margin_ requirement, typically a small portion of your initial margin (e.g., 10%).
+Sai uses a *maintenance margin* requirement, typically a small portion of your initial margin (e.g., 10%).
 
 * If your total equity (`PnL + Collateral`) falls below this maintenance margin, your position becomes eligible for liquidation.
-* The SAI interface normally displays a **liquidation price** to show where you’d be at risk of forced closure.
+* The Sai interface normally displays a **liquidation price** to show where you’d be at risk of forced closure.
 
 **Example**:
 
@@ -92,7 +92,7 @@ SAI uses a _maintenance margin_ requirement, typically a small portion of your i
 
 ### 5. FAQ
 
-**Q: What is the maximum leverage I can use in SAI?**\
+**Q: What is the maximum leverage I can use in Sai?**\
 A: Each market (e.g., BTC-PERP, ETH-PERP) has its own max leverage, displayed in the UI. Values like 10x, 20x, or 50x depend on that market’s risk parameters.
 
 **Q: How do I know if I’m near liquidation?**\
@@ -103,7 +103,7 @@ A: Check your margin ratio and the displayed liquidation price in the position d
 ### 6. Next Steps
 
 1. **Try a Test Market**: Practice opening a small leveraged trade to observe how price changes affect your margin and PnL.
-2. **Read About Order Types**: Learn about limit orders, stop-losses, or advanced order types if SAI supports them, to manage risk.
-3. **Join the Community**: Have more questions? Need live support? Join our Discord to connect with other traders and the SAI team.
+2. **Read About Order Types**: Learn about limit orders, stop-losses, or advanced order types if Sai supports them, to manage risk.
+3. **Join the Community**: Have more questions? Need live support? Join our Discord to connect with other traders and the Sai team.
 
 > **Trade responsibly, and best of luck with Sai!**

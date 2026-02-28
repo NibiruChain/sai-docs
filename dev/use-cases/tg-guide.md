@@ -1,6 +1,6 @@
-# Build Your First SAI Telegram Bot - Beginner's Guide
+# Build Your First Sai Telegram Bot - Beginner's Guide
 
-A step-by-step walkthrough for creating a Telegram bot that queries real data from the SAI protocol. **No prior bot experience needed!**
+A step-by-step walkthrough for creating a Telegram bot that queries real data from the Sai protocol. **No prior bot experience needed!**
 
 ---
 
@@ -14,7 +14,7 @@ By the end of this guide, you'll have a working Telegram bot that:
 - Filters trades by asset (BTC only, ETH only, etc.)
 - Displays results with pagination (Next buttons)
 
-**Best part:** No database needed! Everything pulls live data from SAI's GraphQL API.
+**Best part:** No database needed! Everything pulls live data from Sai's GraphQL API.
 
 ---
 
@@ -64,7 +64,7 @@ You should see BotFather respond with a welcome message and commands.
 
 1. Send this command: `/newbot`
 2. BotFather will ask: **"Alright! New bot. How are we going to call it? Please choose a name for your bot."**
-   - Type something like: `My SAI Trading Bot` (this is what appears in Telegram)
+   - Type something like: `My Sai Trading Bot` (this is what appears in Telegram)
 3. BotFather will ask: **"Good. Now let's choose a username for your bot. It must end in bot."**
    - Type something like: `my_sai_trading_bot` (must end with `bot`)
    - Example: `sai_price_bot`, `trading_bot_sai`, etc.
@@ -151,7 +151,7 @@ sai-telegram-bot/
 ├── bot/
 │   ├── __init__.py       # Makes 'bot' a Python package
 │   ├── main.py           # Your bot's main code
-│   └── graphql.py        # Code to talk to SAI's API
+│   └── graphql.py        # Code to talk to Sai's API
 ├── requirements.txt      # List of packages to install
 ├── .env                  # Your secret config (token goes here)
 └── env.example          # Template for .env
@@ -214,7 +214,7 @@ This file shows what secrets are needed (without actual values):
 # Get your bot token from @BotFather on Telegram
 TELEGRAM_BOT_TOKEN=your_bot_token_here
 
-# SAI GraphQL Endpoint (the server we get data from)
+# Sai GraphQL Endpoint (the server we get data from)
 SAI_GRAPHQL_ENDPOINT=https://sai-keeper.nibiru.fi/query
 ```
 
@@ -239,7 +239,7 @@ SAI_GRAPHQL_ENDPOINT=https://sai-keeper.nibiru.fi/query
 
 ## Part 5: Build the GraphQL Client (Intermediate)
 
-The "GraphQL client" is code that talks to SAI's data API. Don't worry - we'll explain everything!
+The "GraphQL client" is code that talks to Sai's data API. Don't worry - we'll explain everything!
 
 ### What is GraphQL?
 
@@ -250,7 +250,7 @@ GraphQL is a way to ask a server for specific data. Think of it like a restauran
 
 ### Create `bot/graphql.py`
 
-This file handles all communication with SAI's API. Here's the code:
+This file handles all communication with Sai's API. Here's the code:
 
 ```python
 import os
@@ -266,8 +266,8 @@ SAI_GRAPHQL_ENDPOINT = os.environ.get(
 
 class SaiGQLClient:
     """
-    This class talks to the SAI GraphQL API.
-    It's like a translator between your bot and SAI's data server.
+    This class talks to the Sai GraphQL API.
+    It's like a translator between your bot and Sai's data server.
     """
     
     def __init__(self, endpoint: Optional[str] = None) -> None:
@@ -693,7 +693,7 @@ Add this to `bot/main.py`:
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Handle /start command - shows welcome message."""
     text = (
-        "👋 Welcome to SAI Bot!\n\n"
+        "👋 Welcome to Sai Bot!\n\n"
         "Available commands:\n"
         "/trades <address> - View trades for a wallet\n"
         "/prices - Show all token prices\n"
@@ -759,7 +759,7 @@ async def trades_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
             symbol = arg.strip().upper()
     
     try:
-        # Get trades from SAI
+        # Get trades from Sai
         gql = SaiGQLClient()
         trades = gql.fetch_trades(
             trader=address, 
@@ -1053,7 +1053,7 @@ Here's the flow when someone uses your bot:
    ↓
 3. prices_cmd() function is called
    ↓
-4. SaiGQLClient queries the SAI GraphQL API
+4. SaiGQLClient queries the Sai GraphQL API
    ↓
 5. API returns price data
    ↓
@@ -1091,7 +1091,7 @@ Your bot is working! Now you can:
 
 - [python-telegram-bot docs](https://python-telegram-bot.org/)
 - [GraphQL basics](https://graphql.org/learn/)
-- [SAI Protocol docs](https://docs.sai.fi)
+- [Sai Docs](https://docs.sai.fi)
 
 ---
 
@@ -1099,7 +1099,7 @@ Your bot is working! Now you can:
 
 You've built your first Telegram bot that:
 
-- Connects to the SAI protocol
+- Connects to the Sai protocol
 - Queries real live data
 - Displays prices and trades
 - Handles pagination

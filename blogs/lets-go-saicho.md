@@ -123,7 +123,7 @@ Important Note: If there are less qualified participants than prizes available, 
 
 ### Who Can Participate?
 
-**How to Enter**: Any user of the SAI platform is automatically entered into the competition.
+**How to Enter**: Any user of the Sai platform is automatically entered into the competition.
 
 **Participant Eligibility:** The competition is open to all traders who are at least **18 years of age** and not residents of restricted jurisdictions. **US residents and those in sanctioned regions are NOT eligible** to participate. By entering, participants confirm they are abiding by all local laws and the platform's terms of use.
 
@@ -140,7 +140,7 @@ By entering the competition, you confirm that:
 
 ### Risk Acknowledgment
 
-**Participation is at User's Own Risk**: Trading, especially perps trading, is inherently risky. Your participation in this competition is at your own risk. You disclaim and release any claims from any legal action taken by or upon you through your use of the SAI platform. SAI is not responsible in any way for loss of assets or value. If you are not experienced with similar trading platforms, you should not participate. Even experienced users may lose all of their cryptocurrency assets or value.
+**Participation is at User's Own Risk**: Trading, especially perps trading, is inherently risky. Your participation in this competition is at your own risk. You disclaim and release any claims from any legal action taken by or upon you through your use of the Sai platform. Sai is not responsible in any way for loss of assets or value. If you are not experienced with similar trading platforms, you should not participate. Even experienced users may lose all of their cryptocurrency assets or value.
 
 You acknowledge that:
 
@@ -161,17 +161,17 @@ You are solely responsible for:
 
 ### Terms of Use and Privacy Policy
 
-**SAI's Terms of Use and Privacy Policy Apply**: If you do not agree to SAI's Terms of Use and Privacy Policy, then you must not participate in the competition. Sections 21 to 25 of SAI's Terms of Use (INDEMNIFICATION, GOVERNING LAW & JURISDICTION, ARBITRATION; CLASS ARBITRATION WAIVER, LIMITATION ON TIME TO FILE CLAIMS, AND WAIVER & SEVERABILITY) specifically are incorporated by reference herein and apply to this competition.
+**Sai's Terms of Use and Privacy Policy Apply**: If you do not agree to Sai's Terms of Use and Privacy Policy, then you must not participate in the competition. Sections 21 to 25 of Sai's Terms of Use (INDEMNIFICATION, GOVERNING LAW & JURISDICTION, ARBITRATION; CLASS ARBITRATION WAIVER, LIMITATION ON TIME TO FILE CLAIMS, AND WAIVER & SEVERABILITY) specifically are incorporated by reference herein and apply to this competition.
 
 Sai's Terms of Use apply fully to this competition, including sections 21-25 (Indemnification, Governing Law & Jurisdiction, Arbitration, Class Arbitration Waiver, Limitation on Time to File Claims, and Waiver & Severability).
 
 ### Agreement Supersession
 
-**These Terms Supersede Promotional Statements:** These terms, along with the SAI Terms of Use and Privacy Policy, are the only agreement between us and you. Promotional statements by any party do not constitute an agreement.
+**These Terms Supersede Promotional Statements:** These terms, along with the Sai Terms of Use and Privacy Policy, are the only agreement between us and you. Promotional statements by any party do not constitute an agreement.
 
 ## Sai's Authority
 
-**SAI is Sole Decision Maker**: SAI reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. SAI reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of SAI and any other conduct that SAI consideres inappropriate or unacceptable. All decisions of SAI shall be final.
+**Sai is Sole Decision Maker**: Sai reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. Sai reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of Sai and any other conduct that Sai consideres inappropriate or unacceptable. All decisions of Sai shall be final.
 
 **Integrity and Auditing**: Sai's team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness. This policy is essential to maintain a level playing field and uphold the integrity of the competition.
 
