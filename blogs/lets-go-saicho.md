@@ -33,13 +33,13 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 
 #### Prize Distribution (Phase 1)
 
-| Rank       | Prize     | Volume Requirement |
-| ---------- | --------- | ------------------ |
-| Rank 1     | $6,250    | $1M+               |
-| Rank 2     | $3,125    | $1M+               |
-| Rank 3     | $1,250    | $1M+               |
-| Rank 4-10  | $625 each | $50K+              |
-| Rank 11-50 | $250 each | $50K+              |
+| Rank       | Prize     | 
+| ---------- | --------- |
+| Rank 1     | $6,250    |
+| Rank 2     | $3,125    |
+| Rank 3     | $1,250    |
+| Rank 4-10  | $625 each |
+| Rank 11-50 | $250 each |
 
 #### Phase 1 Eligibility Requirements
 
