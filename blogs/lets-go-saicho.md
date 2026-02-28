@@ -45,14 +45,24 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 
 To qualify for Phase 1 rewards:
 
-* **Minimum cumulative trading volume:** $50,000 (or $1M+ for top 5 consideration)
-* **Minimum absolute PNL:** $100 total profit
-* **Additional minimums by rank:**
-  * Ranks 1-3: Minimum $100 PNL
-  * Ranks 4-10: Minimum $50 PNL
-  * Ranks 11-50: Minimum $25 PNL
+| Rank       | Volume    | Profit (PNL) |
+| ---------- | --------- | ------------ |
+| Rank 1-3   | $1M+      | $250         |
+| Rank 4-10  | $50K+     | $50          |
+| Rank 11-50 | $50K+     | $25          |
 
-**Why evalute percentage profit (a.k.a. ROI) for the competition?** This metric rewards trading skill and strategy over capital size. It encourages thoughtful risk management and disciplined decision-making — exactly what sustainable trading is built on. The use of percentage PNL means that the focus is on trading skill and strategy rather than sheer size of capital - a 50% gain on a small account (provided the small account achieves a minimum ROI of at least $100) ranks higher than a 5% gain on a large account. This phase encourages strategic trading, risk management, and profitable decision-making.
+- Values in the table represent **minimum thresholds**.
+- Volume requirement = **cumulative trading volume** throughout the competition.
+- **Minimum absolute PNL:** $100 total profit
+
+**Why evalute percentage profit (a.k.a. ROI) for the competition?** This metric
+rewards trading skill and strategy over capital size. It encourages thoughtful
+risk management and disciplined decision-making — exactly what sustainable
+trading is built on. The use of percentage PNL means that the focus is on trading
+skill and strategy rather than sheer size of capital - a 50% gain on a small
+account (provided the small account achieves a minimum ROI of at least $100)
+ranks higher than a 5% gain on a large account. This phase encourages strategic
+trading, risk management, and profitable decision-making.
 
 ### Phase 2: Be Early Competition (March 5 - March 19)
 
@@ -108,7 +118,7 @@ For the volume phase (Phase 2), a minimum position holding time (e.g. at least 1
 * **Payout Timeline:** Prize payouts (from the $25k pool per phase) will be distributed **promptly after the competition** (for instance, within one week of March 20 for the second phase, and similarly after March 4 for the first phase).
 * **Distribution Method:** Prize instructions will be provided after competition concludes
 
-**Important Note:** If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
+Important Note: If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. For example, if only a small number of participants qualify, the full prize pool will not be distributed — prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
 
 ## Eligibility & Legal Requirements
 
