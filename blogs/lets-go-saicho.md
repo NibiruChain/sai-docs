@@ -53,7 +53,6 @@ To qualify for Phase 1 rewards:
 
 - Values in the table represent **minimum thresholds**.
 - Volume requirement = **cumulative trading volume** throughout the competition.
-- **Minimum absolute PNL:** $100 total profit
 
 **Why evalute percentage profit (a.k.a. ROI) for the competition?** This metric
 rewards trading skill and strategy over capital size. It encourages thoughtful
