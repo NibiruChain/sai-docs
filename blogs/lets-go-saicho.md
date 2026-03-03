@@ -16,7 +16,7 @@ coverY: 0
 We're excited to announce **Sai's Trading Competition** — a one-month onchain trading competition, running from February 18 to March 19, 2026 designed to reward active traders on Sai. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
 
 **Competition Dates:** February 18 - March 19, 2026\
-**Total Prize Pool:** $25,000\
+**Total Prize Pool:** \$25,000
 **Entry:** Automatic — just start trading on Sai!
 
 A prize pool of $25,000 will be split into two categories over the duration of the campaign. The competition is divided into two phases (two weeks each), alternating focus: one phase will reward traders with the highest PNL, and the other will reward early participants of the platform. The dual structure ensures both skilled profitable trading and high engagement are rewarded. Both new and experienced traders are encouraged to participate and showcase their trading prowess, as every trade (win or lose) can contribute towards rewards in the volume category, while net profitable trading is recognized in the PNL category.
@@ -27,7 +27,7 @@ Sai's competition features a dual-phase design that rewards two different trader
 
 ### Phase 1: PNL Competition (Feb 18 - March 4)
 
-**Reward Pool:** $20,000 | **Winners:** Top 50 Traders by Profit
+**Reward Pool:** $20,000 | **Winners:** Top 25 Traders by Profit
 
 Phase 1 rewards traders who demonstrate strong trading skill and strategy. Participants are ranked by **percentage profit-and-loss (ROI)** — measuring performance relative to starting capital, not absolute size. This means a 50% gain on a $500 account can outrank a 5% gain on a $50,000 account. Only closed positions count toward PNL (unrealized gains don't count until the trade is closed).
 
@@ -39,7 +39,7 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 | Rank 2     | $3,125    |
 | Rank 3     | $1,250    |
 | Rank 4-10  | $625 each |
-| Rank 11-50 | $250 each |
+| Rank 11-25 | $250 each |
 
 #### Phase 1 Eligibility Requirements
 
@@ -49,7 +49,7 @@ To qualify for Phase 1 rewards:
 | ---------- | --------- | ------------ |
 | Rank 1-3   | $1M+      | $250         |
 | Rank 4-10  | $50K+     | $50          |
-| Rank 11-50 | $50K+     | $25          |
+| Rank 11-25 | $50K+     | None (removed)          |
 
 - Values in the table represent **minimum thresholds**.
 - Volume requirement = **cumulative trading volume** throughout the competition.
@@ -65,16 +65,16 @@ trading, risk management, and profitable decision-making.
 
 ### Phase 2: Be Early Competition (March 5 - March 19)
 
-**Reward Pool:** $5,000 | **Winners:** First 50 Traders to Reach Volume Goal\
-**Prize Per Winner:** $100 (split evenly among all 50 qualifiers)
+**Reward Pool:** $5,000 | **Winners:** First 25 Traders to Reach Volume Goal\
+**Prize Per Winner:** $100 (split evenly among all 25 qualifiers)
 
-Phase 2 takes a different approach: **first come, first serve**. The focus shifts from profitability to participation. The first 50 traders to accumulate $10,000 in trading volume during this two-week window earn an equal share of the prize pool. Traders will be eligible once they've reached a minimum of $10,000 in total trading volume over the period (March 5 - March 19). This will be done on a (FCFS) First Come, First Serve basis.
+Phase 2 takes a different approach: **first come, first serve**. The focus shifts from profitability to participation. The first 25 traders to accumulate $10,000 in trading volume during this two-week window earn an equal share of the prize pool. Traders will be eligible once they've reached a minimum of $10,000 in total trading volume over the period (March 5 - March 19). This will be done on a (FCFS) First Come, First Serve basis.
 
 #### Phase 2 Eligibility Requirements
 
 * **Minimum trading volume:** $10,000
 * **Timeline:** March 5 - March 19, 2026
-* **Allocation:** First 50 qualifiers split $5,000 evenly ($100 each)
+* **Allocation:** First 25 qualifiers split $5,000 evenly ($100 each)
 
 **Why this phase?** We want to encourage all trader types — from conservative volume builders to high-frequency traders — to engage with Sai. Low barriers to entry mean more participants can earn rewards. The goal here is to introduce a low-barrier entry for all trader types.
 
@@ -219,7 +219,7 @@ Absolutely not. One account per person. Multiple accounts by the same individual
 {% tab title="Trading & Participation" %}
 **Do I need to be profitable to earn rewards in Phase 2?**
 
-No. Phase 2 rewards are based solely on trading volume ($10K minimum), regardless of whether those trades were profitable. You can lose money on trades and still qualify for the $100 reward — it's purely volume-based. However, it's **first come, first serve**: only the first 50 traders to hit the $10,000 volume threshold will qualify for rewards. Additionally, the volume must be from genuine trading activity — wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
+No. Phase 2 rewards are based solely on trading volume ($10K minimum), regardless of whether those trades were profitable. You can lose money on trades and still qualify for the $100 reward — it's purely volume-based. However, it's **first come, first serve**: only the first 25 traders to hit the $10,000 volume threshold will qualify for rewards. Additionally, the volume must be from genuine trading activity — wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
 
 **Can I use a trading bot?**
 
@@ -235,7 +235,7 @@ Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging a
 
 Payouts will be distributed sometime after the competition ends. Instructions on how eligibile winners can claim prizes will be provided after the trading competition concludes.
 
-**What if not all 50 prize slots in a phase are filled?**
+**What if not all 25 prize slots in a phase are filled?**
 
 Sai reserves the right to distribute remaining prizes to the next most qualified participants, or may choose not to distribute unused portions of the prize pool.
 {% endtab %}
