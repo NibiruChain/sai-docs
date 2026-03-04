@@ -275,6 +275,14 @@ Use the sidebar navigation to jump to any topic or type a keyword (e.g. "leverag
       <td><a href="https://t.me/saidotfun">t.me/saidotfun</a></td>
     </tr>
     <tr>
+      <td>Instagram</td>
+      <td><a href="https://instagram.com/saidotfun">instagram.com/saidotfun</a></td>
+    </tr>
+    <tr>
+      <td>TikTok</td>
+      <td><a href="https://www.tiktok.com/@saidotfun">@saidotfun</a></td>
+    </tr>
+    <tr>
       <td>Blog</td>
       <td><a href="https://docs.sai.fun/blogs">Sai Blog</a></td>
     </tr>
