@@ -69,8 +69,6 @@ trading, risk management, and profitable decision-making.
 
 Phase 2 takes a different approach from Phase 1, rewarding participation and volume rather than profitability. It is split into three reward structures:
 
----
-
 #### First Come, First Serve (FCFS)
 
 **Reward Pool:** $1,000 | **Prize Per Winner:** $20 | **Winners:** First 50 Traders to Reach Volume Goal
@@ -81,8 +79,6 @@ The first 50 traders to accumulate **$10,000 in trading volume** during Phase 2 
 
 - Minimum trading volume of $10,000 during Phase 2
 - First 50 qualifiers only
-
----
 
 #### Proportional Volume Split
 
@@ -101,15 +97,11 @@ Note: Total volume used in this calculation includes Phase 1 volume for all part
 - $50,000+ in cumulative volume (Phase 1 + Phase 2 combined)
 - Open to both new and returning Phase 1 traders
 
----
-
 #### Top Volume Bonus
 
 **Reward:** $500 | **Winner:** Single trader with the highest total volume
 
 A one-time $500 bonus goes to the single trader with the **highest total volume** across both phases. This stacks on top of any other Phase 2 rewards earned.
-
----
 
 #### Phase 2 Summary
 
