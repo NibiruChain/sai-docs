@@ -65,13 +65,13 @@ trading, risk management, and profitable decision-making.
 
 ### Phase 2: Be Early Competition (March 5 - March 19)
 
-**Reward Pool:** $5,500 | **Three reward tiers**
+**Reward Pool:** $5,500 | **Three reward structures**
 
 Phase 2 takes a different approach from Phase 1, rewarding participation and volume rather than profitability. It is split into three reward structures:
 
 ---
 
-#### Tier 1 — First Come, First Serve (FCFS)
+#### First Come, First Serve (FCFS)
 
 **Reward Pool:** $1,000 | **Prize Per Winner:** $20 | **Winners:** First 50 Traders to Reach Volume Goal
 
@@ -84,7 +84,7 @@ The first 50 traders to accumulate **$10,000 in trading volume** during Phase 2 
 
 ---
 
-#### Tier 2 — Proportional Volume Split
+#### Proportional Volume Split
 
 **Reward Pool:** $4,000 | **Winners:** All traders crossing $50,000 in volume
 
@@ -103,23 +103,23 @@ Note: Total volume used in this calculation includes Phase 1 volume for all part
 
 ---
 
-#### Tier 3 — Top Volume Bonus
+#### Top Volume Bonus
 
 **Reward:** $500 | **Winner:** Single trader with the highest total volume
 
-A one-time $500 bonus goes to the single trader with the **highest total volume** across both phases. This stacks on top of any Tier 1 or Tier 2 rewards earned.
+A one-time $500 bonus goes to the single trader with the **highest total volume** across both phases. This stacks on top of any other Phase 2 rewards earned.
 
 ---
 
 #### Phase 2 Summary
 
-| Tier               | Pool   | Criteria                        | Prize      |
-| ------------------ | ------ | ------------------------------- | ---------- |
-| FCFS               | $1,000 | First 50 to hit $10K volume     | $20 each   |
-| Proportional Volume| $4,000 | $50K+ volume; split by share    | Varies     |
-| Top Volume Bonus   | $500   | #1 in total volume              | $500 flat  |
+| Reward Structure    | Pool   | Criteria                        | Prize      |
+| ------------------- | ------ | ------------------------------- | ---------- |
+| FCFS                | $1,000 | First 50 to hit $10K volume     | $20 each   |
+| Proportional Volume | $4,000 | $50K+ volume; split by share    | Varies     |
+| Top Volume Bonus    | $500   | #1 in total volume              | $500 flat  |
 
-**Why this structure?** We want to encourage all trader types — from newcomers building early volume to high-frequency power traders. Low barriers to entry (FCFS tier) mean more participants can earn, while the proportional and bonus tiers reward those who go deepest on the platform.
+**Why this structure?** We want to encourage all trader types — from newcomers building early volume to high-frequency power traders. Low barriers to entry (FCFS) mean more participants can earn, while the proportional and bonus structures reward those who go deepest on the platform.
 
 ## What You Can Trade
 
