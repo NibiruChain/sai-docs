@@ -18,7 +18,7 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 > Two-phase competition (Feb 18 - Mar 19, 2026) rewarding both skill and participation.
 
 > 🤝 [**The SaiClone Ambassador Program**](saiclone-ambassador.md)\
-> A structured progression system rewarding active participation, content creation, and community engagement through three tiers: Saicho, Saiborg, and Sage.
+> Earn rewards for participation and content creation across three tiers: Saicho, Saiborg, and Sage.
 
 ***
 
