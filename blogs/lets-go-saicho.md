@@ -3,9 +3,9 @@ published: 2026-02-17T00:00:00.000Z
 images:
   - file: ../.gitbook/assets/blog_2/lets-go-saicho.png
     alt: Sai Trading Competition
-    caption: $25K Prize Pool - Let's Go Saicho!
+    caption: $25.5K Prize Pool - Let's Go Saicho!
     width: 800
-description: 'Sai Trading Competition: $25,000 Prize Pool with Two Exciting Phases'
+description: 'Sai Trading Competition: $25,500 Prize Pool with Two Exciting Phases'
 icon: newspaper
 cover: ../.gitbook/assets/blog_2/sai_trading_competition_header.png
 coverY: 0
@@ -19,11 +19,40 @@ We're excited to announce **Sai's Trading Competition** — a one-month onchain 
 **Total Prize Pool:** \$25,500
 **Entry:** Automatic — just start trading on Sai!
 
-A prize pool of $25,500 will be split into two categories over the duration of the campaign. The competition is divided into two phases (two weeks each), alternating focus: one phase will reward traders with the highest PNL, and the other will reward early participants and high-volume traders. The dual structure ensures both skilled profitable trading and high engagement are rewarded. Both new and experienced traders are encouraged to participate and showcase their trading prowess, as every trade (win or lose) can contribute towards rewards in the volume category, while net profitable trading is recognized in the PNL category.
+A prize pool of $25,500 will be split across two phases over the duration of the campaign. The competition is divided into two two-week segments: one phase rewards traders with the highest PNL, and the other rewards traders for building volume on the platform. This dual structure recognizes both skilled profitable trading and sustained participation. Both new and experienced traders are encouraged to compete, since every trade can contribute toward the volume phase while net profitable trading is recognized in the PNL phase.
 
 ## The Competition Structure
 
 Sai's competition features a dual-phase design that rewards two different trader profiles: those with exceptional trading skill, and those committed to building volume on the platform.
+
+### Phase 2: Volume-Based (March 5 - March 19) \[Live Now!]
+
+**Reward Pool:** $5,500 | **Focus:** Volume-based rewards across three tracks
+
+| Prize | How to Win  |
+| --- | --- |
+|  \$4,000 | Shared among all traders who cross \$50k in Phase 2 volume. The more volume you trade, the larger your share of this pool. |
+|  \$1,000 | Split evenly among the first 50 traders to reach \$10k in Phase 2 volume. |
+|  \$500   | Awarded to the trader with the highest total volume in Phase 2. |
+
+Phase 2 is designed to reward participation and sustained trading activity.
+Unlike Phase 1, this phase is based on trading volume rather than profitability.
+Most of the rewards go to traders who build meaningful volume throughout the
+period, while a smaller portion rewards early momentum through the first-to-$10k
+pool.
+
+#### Phase 2 Eligibility Requirements
+
+* **Timeline:** March 5 - March 19, 2026
+* **\$10k milestone:** Reaching \$10k in Phase 2 volume makes you eligible for the first-50 pool.
+* **\$50k milestone:** Reaching \$50k in Phase 2 volume makes you eligible for the \$4,000 shared pool.
+* **Top-volume bonus:** The single highest-volume trader in Phase 2 earns the additional \$500 prize.
+* **Profitability:** You do not need to be profitable to qualify for Phase 2 rewards.
+
+**Why this phase?** We want to encourage all trader types, from steady volume
+builders to high-frequency traders, to engage with Sai. The structure rewards
+meaningful participation over the full two weeks while still giving earlier
+active traders an extra way to earn.
 
 ### Phase 1: PNL Competition (Feb 18 - March 4)
 
@@ -62,56 +91,6 @@ skill and strategy rather than sheer size of capital - a 50% gain on a small
 account (provided the small account achieves a minimum ROI of at least $100)
 ranks higher than a 5% gain on a large account. This phase encourages strategic
 trading, risk management, and profitable decision-making.
-
-### Phase 2: Be Early Competition (March 5 - March 19)
-
-**Reward Pool:** $5,500 | **Three reward structures**
-
-Phase 2 takes a different approach from Phase 1, rewarding participation and volume rather than profitability. It is split into three reward structures:
-
-#### First Come, First Serve (FCFS)
-
-**Reward Pool:** $1,000 | **Prize Per Winner:** $20 | **Winners:** First 50 Traders to Reach Volume Goal
-
-The first 50 traders to accumulate **$10,000 in trading volume** during Phase 2 (March 5–19) each earn a flat $20 reward. This is purely first come, first serve — speed matters here.
-
-**Eligibility:**
-
-- Minimum trading volume of $10,000 during Phase 2
-- First 50 qualifiers only
-
-#### Proportional Volume Split
-
-**Reward Pool:** $4,000 | **Winners:** All traders crossing $50,000 in volume
-
-Traders who accumulate **$50,000 or more in total volume** are eligible to share in a $4,000 prize pool, distributed proportionally based on each qualifying trader's share of the total volume. Importantly, **Phase 1 volume rolls over** — existing traders from Phase 1 can count their prior volume toward this threshold.
-
-**Prize formula:**
-
-> Your Share = (Your Total Volume ÷ Total Volume of All Qualifying Participants) × $4,000
-
-Note: Total volume used in this calculation includes Phase 1 volume for all participants.
-
-**Eligibility:**
-
-- $50,000+ in cumulative volume (Phase 1 + Phase 2 combined)
-- Open to both new and returning Phase 1 traders
-
-#### Top Volume Bonus
-
-**Reward:** $500 | **Winner:** Single trader with the highest total volume
-
-A one-time $500 bonus goes to the single trader with the **highest total volume** across both phases. This stacks on top of any other Phase 2 rewards earned.
-
-#### Phase 2 Summary
-
-| Reward Structure    | Pool   | Criteria                        | Prize      |
-| ------------------- | ------ | ------------------------------- | ---------- |
-| FCFS                | $1,000 | First 50 to hit $10K volume     | $20 each   |
-| Proportional Volume | $4,000 | $50K+ volume; split by share    | Varies     |
-| Top Volume Bonus    | $500   | #1 in total volume              | $500 flat  |
-
-**Why this structure?** We want to encourage all trader types — from newcomers building early volume to high-frequency power traders. Low barriers to entry (FCFS) mean more participants can earn, while the proportional and bonus structures reward those who go deepest on the platform.
 
 ## What You Can Trade
 
@@ -221,12 +200,12 @@ All decisions made by Sai are final.
 
 ## Competition Timeline
 
-| Date                | Event                                |
-| ------------------- | ------------------------------------ |
-| February 18th, 2026 | Phase 1 Begins (PNL Competition)     |
-| March 4th, 2026     | Phase 1 Ends                         |
-| March 5th, 2026     | Phase 2 Begins (Be Early Competition)|
-| March 19th, 2026    | Phase 2 Ends                         |
+| Date                          | Event                                               |
+| ----------------------------- | --------------------------------------------------- |
+| February 18th, 2026           | Phase 1 Begins (PNL Competition)                    |
+| March 4th, 2026               | Phase 1 Ends                                        |
+| March 5th, 2026               | Phase 2 Begins (Volume-Based Rewards)               |
+| March 19th, 2026              | Phase 2 Ends                                        |
 
 ## How to Get Started
 
@@ -254,7 +233,7 @@ Absolutely not. One account per person. Multiple accounts by the same individual
 {% tab title="Trading & Participation" %}
 **Do I need to be profitable to earn rewards in Phase 2?**
 
-No. Phase 2 rewards are based on trading volume, not profitability. For the FCFS tier, you need $10,000 in volume during Phase 2. For the proportional volume tier, you need $50,000 in cumulative volume (Phase 1 + Phase 2). You can lose money on trades and still qualify — it's purely volume-based. However, all volume must come from genuine trading activity — wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
+No. Phase 2 rewards are based on trading volume, not profitability. You can lose money on trades and still qualify for rewards if you meet the volume thresholds. Phase 2 has three reward tracks: a $4,000 shared pool for traders who cross $50k in volume, a $1,000 pool split among the first 50 traders to reach $10k in volume, and a $500 bonus for the single highest-volume trader. Only the $10k pool is first come, first serve; most of Phase 2 rewards are based on total volume. Additionally, the volume must be from genuine trading activity — wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
 
 **Can I use a trading bot?**
 
@@ -264,9 +243,6 @@ Yes, fair-use algorithmic trading is permitted. Bots are welcome as long as they
 
 Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging assets — it all counts toward your standing.
 
-**Does my Phase 1 volume count toward Phase 2?**
-
-Yes, for the proportional volume tier (Tier 2) in Phase 2, your Phase 1 volume rolls over and counts toward the $50,000 cumulative threshold and your proportional share of the $4,000 pool.
 {% endtab %}
 
 {% tab title="Prizes & Payouts" %}
@@ -274,13 +250,13 @@ Yes, for the proportional volume tier (Tier 2) in Phase 2, your Phase 1 volume r
 
 Payouts will be distributed sometime after the competition ends. Instructions on how eligible winners can claim prizes will be provided after the trading competition concludes.
 
-**What if not all 50 FCFS slots in Phase 2 are filled?**
+**What if not all 50 early-volume slots in Phase 2 are filled?**
 
 Sai reserves the right to distribute remaining prizes to the next most qualified participants, or may choose not to distribute unused portions of the prize pool.
 
 **Can I earn from multiple Phase 2 tiers at once?**
 
-Yes. If you qualify for the FCFS tier and also cross the $50,000 volume threshold for the proportional split, you earn from both. The top volume bonus also stacks on top of any other Phase 2 rewards.
+Yes. If you qualify for the early-volume pool and also cross the $50,000 volume threshold for the $4,000 shared pool, you earn from both. The top volume bonus also stacks on top of any other Phase 2 rewards.
 {% endtab %}
 
 {% tab title="Getting Started" %}
