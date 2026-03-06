@@ -63,10 +63,16 @@ account (provided the small account achieves a minimum ROI of at least $100)
 ranks higher than a 5% gain on a large account. This phase encourages strategic
 trading, risk management, and profitable decision-making.
 
-### Phase 2: Be Early Competition (March 5 - March 19)
+### Phase 2: Volume-Based (March 5 - March 19)
 
 **Reward Pool:** $5,000 | **Winners:** First 25 Traders to Reach Volume Goal\
 **Prize Per Winner:** $100 (split evenly among all 25 qualifiers)
+
+| Prize | How to Win  |
+| --- | --- | 
+|  \$4,000 | Shared by all traders crossing \$50k in volume. Trading more get you a higher portion of the prize amount. | 
+|  \$1,000 | Split evenly between the first 50 traders with \$10k volume in Phase 2|
+|  \$500   | To the trader with the highest volume    |
 
 Phase 2 takes a different approach: **first come, first serve**. The focus shifts from profitability to participation. The first 25 traders to accumulate $10,000 in trading volume during this two-week window earn an equal share of the prize pool. Traders will be eligible once they've reached a minimum of $10,000 in total trading volume over the period (March 5 - March 19). This will be done on a (FCFS) First Come, First Serve basis.
 
