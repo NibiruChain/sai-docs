@@ -222,6 +222,8 @@ Practical integration examples and real-world applications built on Sai.
 
 - 🐦 [X / Twitter](https://x.com/SaiDotFun) - @SaiDotFun
 - 📢 [Telegram News Channel](https://t.me/saidotfun) - t.me/saidotfun
+- 📸 [Instagram](https://instagram.com/saidotfun) - instagram.com/saidotfun
+- 🎵 [TikTok](https://www.tiktok.com/@saidotfun) - @saidotfun
 
 **Additional Resources:**
 

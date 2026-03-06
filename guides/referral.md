@@ -8,6 +8,7 @@ coverY: 0
 # How Referrals Work on Sai
 
 <!--toc:start-->
+
 - [How Referrals Work on Sai](#how-referrals-work-on-sai)
   - [Overview](#overview)
   - [Earn by Inviting Traders](#earn-by-inviting-traders)
@@ -19,7 +20,7 @@ coverY: 0
   - [Trading Fee Discounts](#trading-fee-discounts)
   - [Get Started](#get-started)
   - [Need Help?](#need-help)
-<!--toc:end-->
+  <!--toc:end-->
 
 ## Overview
 
@@ -62,12 +63,12 @@ Sai offers a competitive commission structure designed to incentivize platform g
 
 Referrers can earn an increasing share of referred traders' fees based on their tier level:
 
-| Tier | Commission Rate | Eligibility |
-|------|----------------|-------------|
-| Tier 1 | 5% | Entry level |
-| Tier 2 | 10% | Active referrers |
-| Tier 3 | 15% | High-volume referrers |
-| VIP | Up to 50% | Exclusive partners |
+| Tier   | Commission Rate | Eligibility           |
+| ------ | --------------- | --------------------- |
+| Tier 1 | 5%              | Entry level           |
+| Tier 2 | 10%             | Active referrers      |
+| Tier 3 | 15%             | High-volume referrers |
+| VIP    | Up to 50%       | Exclusive partners    |
 
 {% hint style="warning" %}
 **VIP Partnership:** To qualify for VIP tier commissions (up to 50%), please contact the Sai team to discuss partnership opportunities.
@@ -136,7 +137,9 @@ If you have questions about the referral program or need assistance getting star
 
 - 🐦 [X / Twitter](https://x.com/SaiDotFun) - @SaiDotFun
 - 📢 [Telegram News Channel](https://t.me/saidotfun) - t.me/saidotfun
+- 📸 [Instagram](https://instagram.com/saidotfun) - instagram.com/saidotfun
+- 🎵 [TikTok](https://www.tiktok.com/@saidotfun) - @saidotfun
 
 ---
 
-*Last updated: February 2026*
+_Last updated: February 2026_

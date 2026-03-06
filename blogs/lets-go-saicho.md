@@ -25,6 +25,35 @@ A prize pool of $25,500 will be split across two phases over the duration of the
 
 Sai's competition features a dual-phase design that rewards two different trader profiles: those with exceptional trading skill, and those committed to building volume on the platform.
 
+### Phase 2: Volume-Based (March 5 - March 19) \[Live Now!]
+
+**Reward Pool:** $5,500 | **Focus:** Volume-based rewards across three tracks
+
+| Prize | How to Win  |
+| --- | --- |
+|  \$4,000 | Shared among all traders who cross \$50k in Phase 2 volume. The more volume you trade, the larger your share of this pool. |
+|  \$1,000 | Split evenly among the first 50 traders to reach \$10k in Phase 2 volume. |
+|  \$500   | Awarded to the trader with the highest total volume in Phase 2. |
+
+Phase 2 is designed to reward participation and sustained trading activity.
+Unlike Phase 1, this phase is based on trading volume rather than profitability.
+Most of the rewards go to traders who build meaningful volume throughout the
+period, while a smaller portion rewards early momentum through the first-to-$10k
+pool.
+
+#### Phase 2 Eligibility Requirements
+
+* **Timeline:** March 5 - March 19, 2026
+* **\$10k milestone:** Reaching \$10k in Phase 2 volume makes you eligible for the first-50 pool.
+* **\$50k milestone:** Reaching \$50k in Phase 2 volume makes you eligible for the \$4,000 shared pool.
+* **Top-volume bonus:** The single highest-volume trader in Phase 2 earns the additional \$500 prize.
+* **Profitability:** You do not need to be profitable to qualify for Phase 2 rewards.
+
+**Why this phase?** We want to encourage all trader types, from steady volume
+builders to high-frequency traders, to engage with Sai. The structure rewards
+meaningful participation over the full two weeks while still giving earlier
+active traders an extra way to earn.
+
 ### Phase 1: PNL Competition (Feb 18 - March 4)
 
 **Reward Pool:** $20,000 | **Winners:** Top 25 Traders by Profit
@@ -33,7 +62,7 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 
 #### Prize Distribution (Phase 1)
 
-| Rank       | Prize     | 
+| Rank       | Prize     |
 | ---------- | --------- |
 | Rank 1     | $6,250    |
 | Rank 2     | $3,125    |
@@ -45,16 +74,16 @@ Phase 1 rewards traders who demonstrate strong trading skill and strategy. Parti
 
 To qualify for Phase 1 rewards:
 
-| Rank       | Volume    | Profit (PNL) |
-| ---------- | --------- | ------------ |
-| Rank 1-3   | $1M+      | $250         |
-| Rank 4-10  | $50K+     | $50          |
-| Rank 11-25 | $50K+     | None (removed)          |
+| Rank       | Volume | Profit (PNL) |
+| ---------- | ------ | ------------ |
+| Rank 1-3   | $1M+   | $250         |
+| Rank 4-10  | $50K+  | $50          |
+| Rank 11-25 | $50K+  | None         |
 
 - Values in the table represent **minimum thresholds**.
 - Volume requirement = **cumulative trading volume** throughout the competition.
 
-**Why evalute percentage profit (a.k.a. ROI) for the competition?** This metric
+**Why evaluate percentage profit (a.k.a. ROI) for the competition?** This metric
 rewards trading skill and strategy over capital size. It encourages thoughtful
 risk management and disciplined decision-making — exactly what sustainable
 trading is built on. The use of percentage PNL means that the focus is on trading
@@ -63,35 +92,13 @@ account (provided the small account achieves a minimum ROI of at least $100)
 ranks higher than a 5% gain on a large account. This phase encourages strategic
 trading, risk management, and profitable decision-making.
 
-### Phase 2: Volume-Based (March 5 - March 19)
-
-**Reward Pool:** $5,500 | **Focus:** Volume-based rewards across three tracks
-
-| Prize | How to Win  |
-| --- | --- | 
-|  \$4,000 | Shared among all traders who cross \$50k in Phase 2 volume. The more volume you trade, the larger your share of this pool. | 
-|  \$1,000 | Split evenly among the first 50 traders to reach \$10k in Phase 2 volume. |
-|  \$500   | Awarded to the trader with the highest total volume in Phase 2. |
-
-Phase 2 is designed to reward participation and sustained trading activity. Unlike Phase 1, this phase is based on trading volume rather than profitability. Most of the rewards go to traders who build meaningful volume throughout the period, while a smaller portion rewards early momentum through the first-to-$10k pool.
-
-#### Phase 2 Eligibility Requirements
-
-* **Timeline:** March 5 - March 19, 2026
-* **\$10k milestone:** Reaching \$10k in Phase 2 volume makes you eligible for the first-50 pool.
-* **\$50k milestone:** Reaching \$50k in Phase 2 volume makes you eligible for the \$4,000 shared pool.
-* **Top-volume bonus:** The single highest-volume trader in Phase 2 earns the additional \$500 prize.
-* **Profitability:** You do not need to be profitable to qualify for Phase 2 rewards.
-
-**Why this phase?** We want to encourage all trader types — from steady volume builders to high-frequency traders — to engage with Sai. The structure rewards meaningful participation over the full two weeks while still giving earlier active traders an extra way to earn.
-
 ## What You Can Trade
 
 **Eligible Markets & Collateral:** All markets on Sai are eligible for both phases. Trade any direction you believe in:
 
-* **Go long or short** on any listed trading pair
-* **Use any supported collateral:** USDC, stNIBI, or other platform-supported assets
-* **All markets count:** Whether you're trading major pairs like BTC/USD and ETH/USD, or emerging assets, all volume and PNL contribute to competition standings
+- **Go long or short** on any listed trading pair
+- **Use any supported collateral:** USDC, stNIBI, or other platform-supported assets
+- **All markets count:** Whether you're trading major pairs like BTC/USD and ETH/USD, or emerging assets, all volume and PNL contribute to competition standings
 
 ## How Leaderboards Work
 
@@ -103,16 +110,16 @@ Sai's (Let's Go Saicho) competition will enforce rules against abusive practices
 
 ### What's Prohibited
 
-* **Sybil attacks:** One account per person. Multiple accounts by the same individual are strictly forbidden. Any form of sybil attack (using multiple accounts by the same person) is strictly prohibited. Only genuine, unique user accounts will be eligible for prizes.
-* **Wash trading:** Self-dealing and coordinated trades between accounts to inflate volume or PNL will result in immediate disqualification. No wash trading or fake volume generation is forbidden. Trades must reflect authentic market activity. Self-trades or coordinated trades between colluding accounts to inflate volume or PNL will result in immediate disqualification.
-* **Fake volume:** Trades must reflect authentic market activity. Coordinated volume inflation is prohibited.
-* **Malicious bots:** While algorithmic trading is permitted, bots that engage in prohibited tactics will have their trades voided. While algorithmic trading isn't outright banned, any malicious bot-driven manipulation of the competition is prohibited. Fair-use trading bots are allowed, but if they are detected to engage in the above forbidden tactics, those trades will be void.
-* **Rapid round-trip trades:** Extremely fast open-close cycles solely to game volume metrics are not allowed.
+- **Sybil attacks:** One account per person. Multiple accounts by the same individual are strictly forbidden. Any form of sybil attack (using multiple accounts by the same person) is strictly prohibited. Only genuine, unique user accounts will be eligible for prizes.
+- **Wash trading:** Self-dealing and coordinated trades between accounts to inflate volume or PNL will result in immediate disqualification. No wash trading or fake volume generation is forbidden. Trades must reflect authentic market activity. Self-trades or coordinated trades between colluding accounts to inflate volume or PNL will result in immediate disqualification.
+- **Fake volume:** Trades must reflect authentic market activity. Coordinated volume inflation is prohibited.
+- **Malicious bots:** While algorithmic trading is permitted, bots that engage in prohibited tactics will have their trades voided. While algorithmic trading isn't outright banned, any malicious bot-driven manipulation of the competition is prohibited. Fair-use trading bots are allowed, but if they are detected to engage in the above forbidden tactics, those trades will be void.
+- **Rapid round-trip trades:** Extremely fast open-close cycles solely to game volume metrics are not allowed.
 
 ### What's Allowed
 
-* **Fair-use trading bots:** Algorithmic strategies are welcome — as long as they follow the spirit and letter of the rules.
-* **Genuine volume:** All authentic, non-collusive trading counts toward your standings.
+- **Fair-use trading bots:** Algorithmic strategies are welcome — as long as they follow the spirit and letter of the rules.
+- **Genuine volume:** All authentic, non-collusive trading counts toward your standings.
 
 ### Minimum Position Holding Time
 
@@ -120,9 +127,9 @@ For the volume phase (Phase 2), a minimum position holding time (e.g. at least 1
 
 ## Reward Distribution & Payouts
 
-* **Announcement:** Winners will be announced after the trading competition (sometime after March 20th). At that time, instructions will be provided on how to receive rewards.
-* **Payout Timeline:** Prize payouts will be distributed **promptly after the competition** (for instance, within one week of March 20 for the second phase, and similarly after March 4 for the first phase).
-* **Distribution Method:** Prize instructions will be provided after competition concludes
+- **Announcement:** Winners will be announced after the trading competition (sometime after March 20th). At that time, instructions will be provided on how to receive rewards.
+- **Payout Timeline:** Prize payouts will be distributed **promptly after the competition** (for instance, within one week of March 20 for the second phase, and similarly after March 4 for the first phase).
+- **Distribution Method:** Prize instructions will be provided after competition concludes
 
 Important Note: If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. For example, if only a small number of participants qualify, the full prize pool will not be distributed — prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
 
@@ -136,14 +143,14 @@ Important Note: If there are less qualified participants than prizes available, 
 
 **Competition Duration**: The competition will start on 00:00 UTC and ends at 23:59 UTC on the dates prescribed.
 
-* Phase 1: February 18th to March 4th 2026
-* Phase 2: March 5th to March 19th 2026
+- Phase 1: February 18th to March 4th 2026
+- Phase 2: March 5th to March 19th 2026
 
 By entering the competition, you confirm that:
 
-* You are of legal age to participate
-* No jurisdiction with authority over you prohibits your participation
-* You understand and accept Sai's Terms of Use and Privacy Policy
+- You are of legal age to participate
+- No jurisdiction with authority over you prohibits your participation
+- You understand and accept Sai's Terms of Use and Privacy Policy
 
 ### Risk Acknowledgment
 
@@ -151,10 +158,10 @@ By entering the competition, you confirm that:
 
 You acknowledge that:
 
-* Sai is not responsible for loss of assets or value
-* You may lose your entire cryptocurrency holdings
-* If you're inexperienced with perpetuals trading, you should not participate
-* Even experienced traders can lose all assets
+- Sai is not responsible for loss of assets or value
+- You may lose your entire cryptocurrency holdings
+- If you're inexperienced with perpetuals trading, you should not participate
+- Even experienced traders can lose all assets
 
 ### Tax & Legal Responsibility
 
@@ -162,9 +169,9 @@ You acknowledge that:
 
 You are solely responsible for:
 
-* Any tax implications resulting from competition participation and prizes
-* Compliance with local regulations in your jurisdiction
-* Understanding the legal implications of receiving competition prizes
+- Any tax implications resulting from competition participation and prizes
+- Compliance with local regulations in your jurisdiction
+- Understanding the legal implications of receiving competition prizes
 
 ### Terms of Use and Privacy Policy
 
@@ -178,16 +185,16 @@ Sai's Terms of Use apply fully to this competition, including sections 21-25 (In
 
 ## Sai's Authority
 
-**Sai is Sole Decision Maker**: Sai reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. Sai reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of Sai and any other conduct that Sai consideres inappropriate or unacceptable. All decisions of Sai shall be final.
+**Sai is Sole Decision Maker**: Sai reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. Sai reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of Sai and any other conduct that Sai considers inappropriate or unacceptable. All decisions of Sai shall be final.
 
 **Integrity and Auditing**: Sai's team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness. This policy is essential to maintain a level playing field and uphold the integrity of the competition.
 
 Sai reserves the absolute right to:
 
-* Disqualify any participant for violating these rules or the spirit of fair competition
-* Audit trading activity and remove suspicious entries
-* Disqualify participants for any reason deemed appropriate at Sai's sole discretion
-* Adjust or void suspicious trades to maintain integrity
+- Disqualify any participant for violating these rules or the spirit of fair competition
+- Audit trading activity and remove suspicious entries
+- Disqualify participants for any reason deemed appropriate at Sai's sole discretion
+- Adjust or void suspicious trades to maintain integrity
 
 All decisions made by Sai are final.
 
@@ -235,16 +242,21 @@ Yes, fair-use algorithmic trading is permitted. Bots are welcome as long as they
 **Do all markets count toward my volume and PNL?**
 
 Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging assets — it all counts toward your standing.
+
 {% endtab %}
 
 {% tab title="Prizes & Payouts" %}
 **When will I receive my prizes?**
 
-Payouts will be distributed sometime after the competition ends. Instructions on how eligibile winners can claim prizes will be provided after the trading competition concludes.
+Payouts will be distributed sometime after the competition ends. Instructions on how eligible winners can claim prizes will be provided after the trading competition concludes.
 
-**What if not all 25 prize slots in a phase are filled?**
+**What if not all 50 early-volume slots in Phase 2 are filled?**
 
 Sai reserves the right to distribute remaining prizes to the next most qualified participants, or may choose not to distribute unused portions of the prize pool.
+
+**Can I earn from multiple Phase 2 tiers at once?**
+
+Yes. If you qualify for the early-volume pool and also cross the $50,000 volume threshold for the $4,000 shared pool, you earn from both. The top volume bonus also stacks on top of any other Phase 2 rewards.
 {% endtab %}
 
 {% tab title="Getting Started" %}
@@ -268,9 +280,11 @@ For more details on Sai's trading mechanics, collateral options, and market list
 
 Follow us for competition updates and real-time announcements:
 
-* **X / Twitter:** [@SaiDotFun](https://x.com/SaiDotFun)
-* **Telegram:** [Join our community](https://t.me/saidotfun)
+- **X / Twitter:** [@SaiDotFun](https://x.com/SaiDotFun)
+- **Telegram:** [Join our community](https://t.me/saidotfun)
+- **TikTok:** [@SaiDotFun](https://www.tiktok.com/@saidotfun)
+- **Instagram:** [@SaiDotFun](https://instagram.com/saidotfun)
 
-***
+---
 
 **Ready to trade?** Head to [app.sai.fun](https://app.sai.fun)
