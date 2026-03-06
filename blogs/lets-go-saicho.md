@@ -31,7 +31,7 @@ Sai's competition features a dual-phase design that rewards two different trader
 
 | Prize | How to Win  |
 | --- | --- |
-|  \$4,000 | Shared among all traders who cross \$50k in Phase 2 volume. The more volume you trade, the larger your share of this pool. |
+|  \$4,000 | Shared among all traders who cross \$50k in Phase 2 volume. The more volume you trade, the larger your share of this pool. All activity from Phase 1 counts toward Phase 2. |
 |  \$1,000 | Split evenly among the first 50 traders to reach \$10k in Phase 2 volume. |
 |  \$500   | Awarded to the trader with the highest total volume in Phase 2. |
 
