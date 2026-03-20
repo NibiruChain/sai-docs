@@ -18,7 +18,7 @@ coverY: 0
 
 To receive rewards, participants must meet **all** of the following criteria:
 
-1. Appeared on the Compete Leaderboard during the competition period
+1. Appeared on the [Compete Leaderboard](https://app.sai.fun/leaderboard/) during the competition period
 2. Met all minimum requirements (volume, PNL, and milestone thresholds) for their respective phase
 3. Did not engage in prohibited conduct, including:
    * Wash trading
