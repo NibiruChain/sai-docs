@@ -13,9 +13,11 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 
 > 📰 [**Introducing Sai: Nibiru's Perpetuals DEX**](intro-to-sai.md)\
 > Learn about oracle-settled pricing, flexible collateral, and our 2026 roadmap.
-
 > 🏆 [**Let's Go Saicho: $25,000 Prize Pool**](lets-go-saicho.md)\
 > Two-phase competition (Feb 18 - Mar 19, 2026) rewarding both skill and participation.
+
+> 🎁 [**Let's Go Saicho: Reward Distribution**](lets-go-saicho-rewards.md)\
+> Competition has concluded. See eligibility, prize breakdowns, and how rewards are distributed.
 
 > 🤝 [**The SaiClone Ambassador Program**](saiclone-ambassador.md)\
 > Earn rewards for participation and content creation across three tiers: Saicho, Saiborg, and Sage.
