@@ -25,7 +25,7 @@ To receive rewards, participants must meet **all** of the following criteria:
    * Sybil activity (multi-accounting)
    * Artificial volume manipulation
 4. Passed internal audit checks conducted by the Sai team
-5. Complied with Sai's Terms of Service throughout the competition
+5. Complied with Sai's [Terms of Service](/legal/terms-of-use.md)
 
 ## Reward Structure
 
