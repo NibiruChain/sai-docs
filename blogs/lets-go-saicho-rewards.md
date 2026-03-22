@@ -157,6 +157,7 @@ Follow us for reward distribution updates and announcements:
 
 * **X / Twitter:** [@SaiDotFun](https://x.com/SaiDotFun)
 * **Telegram:** [Join our community](https://t.me/saidotfun)
+* **Discord:** [Join our server](https://discord.com/invite/saidotfun)
 * **TikTok:** [@SaiDotFun](https://www.tiktok.com/@saidotfun)
 * **Instagram:** [@SaiDotFun](https://instagram.com/saidotfun)
 
