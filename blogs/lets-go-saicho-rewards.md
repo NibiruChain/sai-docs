@@ -123,7 +123,7 @@ No. Rewards are distributed automatically to your connected wallet. No manual cl
 
 **When will rewards be distributed?**
 
-Rewards will be distributed promptly after the competition (within approximately one week of each phase ending). Phase 1 payouts are targeted shortly after March 4th; Phase 2 payouts after March 20th. Exact timelines will be communicated via official Sai channels.
+Let's Go Saicho payouts will be made shortly after the competition end date. The team will validate and verify the trading activity to ensure fairness and legitimate behavior.
 
 **What currency are rewards paid in?**
 
