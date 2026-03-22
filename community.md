@@ -6,29 +6,42 @@ coverY: 0
 
 # Community
 
-<table data-header-hidden>
+Join the Sai community across our official channels.
+
+<table data-card-size="medium" data-view="cards">
   <thead>
     <tr>
-      <th width="244"></th>
       <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+      <th data-hidden data-card-cover data-type="files"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>X / Twitter</td>
-      <td><a href="https://x.com/SaiDotFun">@SaiDotFun</a></td>
+      <td><img src="https://cdn.simpleicons.org/discord/5865F2" width="24" style="vertical-align:middle; margin-right:8px"> <strong>Discord</strong></td>
+      <td>Chat, support, and announcements</td>
+      <td><a href="https://discord.com/invite/saidotfun">https://discord.com/invite/saidotfun</a></td>
     </tr>
     <tr>
-      <td>Telegram News Channel</td>
-      <td><a href="https://t.me/saidotfun">t.me/saidotfun</a></td>
+      <td><img src="https://cdn.simpleicons.org/x/000000" width="24" style="vertical-align:middle; margin-right:8px"> <strong>X / Twitter</strong></td>
+      <td>@SaiDotFun — news and updates</td>
+      <td><a href="https://x.com/SaiDotFun">https://x.com/SaiDotFun</a></td>
     </tr>
     <tr>
-      <td>Instagram</td>
-      <td><a href="https://instagram.com/saidotfun">instagram.com/saidotfun</a></td>
+      <td><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="24" style="vertical-align:middle; margin-right:8px"> <strong>Telegram</strong></td>
+      <td>News channel and alerts</td>
+      <td><a href="https://t.me/saidotfun">https://t.me/saidotfun</a></td>
     </tr>
     <tr>
-      <td>TikTok</td>
-      <td><a href="https://www.tiktok.com/@saidotfun">@saidotfun</a></td>
+      <td><img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" style="vertical-align:middle; margin-right:8px"> <strong>Instagram</strong></td>
+      <td>@saidotfun</td>
+      <td><a href="https://instagram.com/saidotfun">https://instagram.com/saidotfun</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/tiktok/000000" width="24" style="vertical-align:middle; margin-right:8px"> <strong>TikTok</strong></td>
+      <td>@saidotfun</td>
+      <td><a href="https://www.tiktok.com/@saidotfun">https://www.tiktok.com/@saidotfun</a></td>
     </tr>
   </tbody>
 </table>

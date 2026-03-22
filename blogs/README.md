@@ -20,6 +20,9 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 > 🤝 [**The SaiClone Ambassador Program**](saiclone-ambassador.md)\
 > Earn rewards for participation and content creation across three tiers: Saicho, Saiborg, and Sage.
 
+> 🎁 [**Let's Go Saicho: Reward Distribution**](lets-go-saicho-rewards.md)\
+> Competition has concluded. See eligibility, prize breakdowns, and how rewards are distributed.
+
 ***
 
 ## Subscribe to Updates
