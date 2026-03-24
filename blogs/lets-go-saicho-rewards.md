@@ -44,7 +44,7 @@ To receive rewards, participants must meet **all** of the following criteria:
 | Rank 2  | 3,125 USDC     | \$1M+              | \$100       |
 | Rank 3  | 1,250 USDC     | \$1M+              | \$100       |
 | Rank 4–10  | 625 USDC each  | \$50K+             | \$50        |
-| Rank 11–50 | 625 USDC each  | \$50K+             | \$25        |
+| Rank 11–25 | 250 USDC each  | \$50K+             | \None        |
 
 #### Phase 1 Rules
 
