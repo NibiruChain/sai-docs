@@ -11,7 +11,7 @@ coverY: 0
 **Let's Go Saicho has officially concluded.** Thank you to every trader who competed, built volume, and pushed the limits of what Sai's trading engine can handle. This document outlines how rewards are calculated, who is eligible, and how prizes will be distributed.
 
 **Competition Dates:** February 18 – March 19, 2026\
-**Total Prize Pool:** \$25,500\
+**Total Prize Pool:** \$25,000\
 **Distribution Method:** Automatic — no manual claim required
 
 ## Eligibility Requirements
@@ -29,14 +29,14 @@ To receive rewards, participants must meet **all** of the following criteria:
 
 ## Reward Structure
 
-| Phase   | Category                          | Prize Pool    | Winners | Distribution Type     |
-| ------- | --------------------------------- | ------------- | ------- | --------------------- |
-| Phase 1 | PNL (By % ROI and positive $ made) | 20,000 USDC   | 50      | Ranked                |
-| Phase 2 | Volume (Be Early)                 | 5,500 USDC    | 50+     | First Come First Serve & Proportional |
+| Phase   | Category                           | Prize Pool    | Winners | Distribution Type     |
+| ------- | ---------------------------------- | ------------- | ------- | --------------------- |
+| Phase 1 | PNL (By % ROI and positive $ made) | 18,750 USDC   | 25      | Ranked                |
+| Phase 2 | Volume (Be Early)                  | 6,250 USDC    | 50+     | First Come First Serve & Proportional |
 
 ### Phase 1: PNL Competition
 
-**Reward Pool:** $20,000 USDC | **Focus:** Percentage ROI across closed positions
+**Reward Pool:** $18,750 USDC | **Focus:** Percentage ROI across closed positions
 
 | Rank    | Prize          | Volume Requirement | Min PNL ($) |
 | ------- | -------------- | ------------------ | ----------- |
@@ -54,18 +54,18 @@ To receive rewards, participants must meet **all** of the following criteria:
 
 ### Phase 2: Volume-Based Rewards
 
-**Reward Pool:** $5,500 USDC | **Focus:** Volume-based rewards across three tracks
+**Reward Pool:** $6,250 USDC | **Focus:** Volume-based rewards across three tracks
 
 | Prize Pool  | How to Qualify                                                                                                                                       |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4,000 USDC  | Shared among all traders who cross \$50K in Phase 2 volume. The more volume you trade, the larger your share of this pool. All Phase 1 activity counts toward Phase 2. |
-| 1,000 USDC  | Split evenly among the **first 50 traders** to reach \$10K in Phase 2 volume.                                                                       |
+| 4,750 USDC  | Shared among all traders who cross \$50K in Phase 2 volume. The more volume you trade, the larger your share of this pool. All Phase 1 activity counts toward Phase 2. |
+| 1,000 USDC  | Split evenly among the **first 50 traders** to reach \$10K in Phase 2 volume.                                                                        |
 | 500 USDC    | Awarded to the **single trader** with the highest total volume in Phase 2.                                                                           |
 
 #### Phase 2 Rules
 
 * Reach **\$10K volume** → Eligible for the First Come First Serve pool (first 50 traders only)
-* Reach **\$50K+ volume** → Eligible for proportional share of the \$4,000 pool
+* Reach **\$50K+ volume** → Eligible for proportional share of the \$4,750 pool
 * Compete for **highest total volume** → Win the \$500 bonus (stackable with other Phase 2 rewards)
 
 ## How to Claim Rewards
@@ -131,7 +131,7 @@ All prizes are paid in **USDC on Nibiru Chain (ERC-20)**.
 
 **Can I earn from multiple Phase 2 tiers at once?**
 
-Yes. If you qualify for the early-volume pool and also cross the \$50,000 volume threshold for the \$4,000 shared pool, you earn from both. The top-volume bonus also stacks on top of any other Phase 2 rewards.
+Yes. If you qualify for the early-volume pool and also cross the \$50,000 volume threshold for the \$4,750 shared pool, you earn from both. The top-volume bonus also stacks on top of any other Phase 2 rewards.
 {% endtab %}
 
 {% tab title="Phase Rules" %}
@@ -145,7 +145,7 @@ Sai reserves the right to distribute remaining prizes to the next most qualified
 
 **What if I'm not in the top 50 for Phase 2's First Come First Serve pool?**
 
-If you crossed \$50K in volume, you're still eligible for a proportional share of the \$4,000 pool — and if you had the highest total volume overall, you're eligible for the \$500 top-volume bonus.
+If you crossed \$50K in volume, you're still eligible for a proportional share of the \$4,750 pool — and if you had the highest total volume overall, you're eligible for the \$500 top-volume bonus.
 {% endtab %}
 {% endtabs %}
 
