@@ -1,6 +1,6 @@
 ---
 published: 2026-03-20T00:00:00.000Z
-description: "Let's Go Saicho has officially concluded. Here's how rewards are calculated, who is eligible, and how to claim."
+description: "Let's Go Saicho has officially concluded. Here's how rewards were finalized, who was eligible, and where to verify distribution."
 icon: newspaper
 cover: ../.gitbook/assets/blog_4/sai_lets_go_saicho_rewards_banner.png
 coverY: 0
@@ -8,11 +8,29 @@ coverY: 0
 
 # Let's Go Saicho: Reward Distribution Guide
 
-**Let's Go Saicho has officially concluded.** Thank you to every trader who competed, built volume, and pushed the limits of what Sai's trading engine can handle. This document outlines how rewards are calculated, who is eligible, and how prizes will be distributed.
+**Let's Go Saicho has officially concluded.** Thank you to every trader who competed, built volume, and pushed the limits of what Sai's trading engine can handle. This document outlines how rewards were calculated, who was eligible, and how prizes were distributed.
 
-**Competition Dates:** February 18 – March 19, 2026\
+**Competition Dates:** February 18 to March 19, 2026\
 **Total Prize Pool:** \$25,000\
-**Distribution Method:** Automatic — no manual claim required
+**Distribution Method:** Automatic, no manual claim required
+
+The final public record of reward distribution is captured in the payout
+transactions below.
+
+## Final Reward Payouts
+
+Reward distribution was completed on **March 27, 2026** in two final
+transactions, one for each competition phase.
+
+- [Phase 1 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xdfb9bc786cb97bd4f358a07183f5c8ee711e2b358e18271b51438e1e855eb47d),
+  final Safe payout transaction for qualified Phase 1 recipients
+- [Phase 2 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xcc0108446ae59c6e96dbb51970ab6fda054c028db600288a4554ebc2830cfc3c),
+  final Safe payout transaction for qualified Phase 2 recipients
+
+Phase 1 paid 22 qualified recipients. Phase 2 paid 47 qualified recipients,
+including 34 traders in the shared pool for crossing $50K in volume and 13
+traders in the early-volume pool for being among the first to reach $10K in
+volume.
 
 ## Eligibility Requirements
 
@@ -29,6 +47,10 @@ To receive rewards, participants must meet **all** of the following criteria:
 
 ## Reward Structure
 
+The reward tables below describe the campaign rules and payout criteria. The
+final payout transactions reflect the results after integrity review and the set
+of actually qualified recipients.
+
 | Phase   | Category                           | Prize Pool    | Winners | Distribution Type     |
 | ------- | ---------------------------------- | ------------- | ------- | --------------------- |
 | Phase 1 | PNL (By % ROI and positive $ made) | 18,750 USDC   | 25      | Ranked                |
@@ -43,12 +65,12 @@ To receive rewards, participants must meet **all** of the following criteria:
 | Rank 1  | 6,250 USDC     | \$1M+              | \$100       |
 | Rank 2  | 3,125 USDC     | \$1M+              | \$100       |
 | Rank 3  | 1,250 USDC     | \$1M+              | \$100       |
-| Rank 4–10  | 625 USDC each  | \$50K+             | \$50        |
-| Rank 11–25 | 250 USDC each  | \$50K+             | None        |
+| Rank 4 to 10  | 625 USDC each  | \$50K+             | \$50        |
+| Rank 11 to 25 | 250 USDC each  | \$50K+             | None        |
 
 #### Phase 1 Rules
 
-* Rankings are determined by **percentage PNL (ROI)** — not absolute dollar profit
+* Rankings are determined by **percentage PNL (ROI)**, not absolute dollar profit
 * Only **closed positions** count toward PNL standings
 * Participants must meet **both** the volume and minimum PNL thresholds to qualify for their rank tier
 
@@ -68,22 +90,27 @@ To receive rewards, participants must meet **all** of the following criteria:
 * Reach **\$50K+ volume** → Eligible for proportional share of the \$4,750 pool
 * Compete for **highest total volume** → Win the \$500 bonus (stackable with other Phase 2 rewards)
 
-## How to Claim Rewards
+## How Rewards Were Delivered
 
-**No manual claim is required.** A final board with qualified recipients will be accessible on the Compete Leaderboard. Eligible users will:
+**No manual claim was required.** Rewards were distributed automatically in
+**USDC on Nibiru (ERC-20)**.
 
-1. Receive rewards **automatically** to their connected wallet
-2. Be able to verify distribution via:
-   * Onchain transaction history on Nibiru Chain
-   * Sai dashboard updates
+Payouts were completed on **March 27, 2026** in two final transactions, one for
+each phase. The payout transactions above are the definitive public record of
+reward distribution.
 
-Rewards will be distributed in **USDC on Nibiru Chain (ERC-20)**.
+Recipients can verify payout via:
 
-> **Note:** Winners will be announced after the competition concludes (sometime after March 20th). Payout instructions and timelines will be communicated via official Sai channels.
+1. The two Safe payout transactions listed above, which are the canonical
+   public payout record
+2. Onchain transaction history on Nibiru
+3. Sai dashboard records and leaderboard outcomes
+
+> **Finality Note:** Distribution is complete and final as of March 27, 2026.
 
 ## What the Competition Achieved
 
-Let's Go Saicho rewarded both performance and participation — from high-skill traders generating strong PNL to early users actively building volume on Sai.
+Let's Go Saicho rewarded both performance and participation, from high-skill traders generating strong PNL to early users actively building volume on Sai.
 
 Across both phases, traders competed on:
 
@@ -109,25 +136,33 @@ Stay ready. Trade like a pro.
 {% tab title="Eligibility & Disqualification" %}
 **How do I know if I qualified?**
 
-A final leaderboard of qualified recipients will be published on the Compete Leaderboard after the competition concludes. If you appear on it and have met all thresholds, you're eligible for rewards.
+Eligibility was finalized after the competition and internal review. If your
+account met the published thresholds, passed integrity checks, and was included
+in the final reward payouts linked above, you were eligible for rewards.
 
 **What could disqualify me?**
 
-Engaging in wash trading, sybil activity (multi-accounting), or any form of artificial volume manipulation will result in immediate disqualification and forfeiture of all rewards. The Sai team reserves the right to audit all trading activity.
+Engaging in wash trading, sybil activity (multi-accounting), or any form of
+artificial volume manipulation results in disqualification and forfeiture of all
+rewards. The Sai team audited activity and removed accounts that showed obvious
+gaming patterns, including ultra-short repetitive trades with unrealistically
+small P&L changes that appeared designed to manipulate competition metrics.
 {% endtab %}
 
 {% tab title="Rewards & Distribution" %}
 **Do I need to do anything to claim my rewards?**
 
-No. Rewards are distributed automatically to your connected wallet. No manual claim is required. Monitor your wallet and the Sai dashboard for confirmation.
+No. Rewards were distributed automatically. See **How Rewards Were Delivered**
+above for the payout details and verification methods.
 
-**When will rewards be distributed?**
+**When were rewards distributed?**
 
-Let's Go Saicho payouts will be made shortly after the competition end date. The team will validate and verify the trading activity to ensure fairness and legitimate behavior.
+See **Final Reward Payouts** above for the completed payout transactions from
+March 27, 2026.
 
 **What currency are rewards paid in?**
 
-All prizes are paid in **USDC on Nibiru Chain (ERC-20)**.
+All prizes are paid in **USDC on Nibiru (ERC-20)**.
 
 **Can I earn from multiple Phase 2 tiers at once?**
 
@@ -139,13 +174,15 @@ Yes. If you qualify for the early-volume pool and also cross the \$50,000 volume
 
 Yes. All trading activity from Phase 1 counts toward your Phase 2 volume total.
 
-**What if fewer than 50 traders reached \$10K in Phase 2?**
+**How many traders ultimately qualified for Phase 2 rewards?**
 
-Sai reserves the right to distribute remaining prizes to the next most qualified participants, or may choose not to distribute the unused portion of the prize pool.
+Phase 2 paid 47 qualified recipients. Of those, 34 traders qualified for the
+shared pool for crossing \$50K in volume, and 13 traders qualified for the
+early-volume pool for being among the first to reach \$10K in volume.
 
 **What if I'm not in the top 50 for Phase 2's First Come First Serve pool?**
 
-If you crossed \$50K in volume, you're still eligible for a proportional share of the \$4,750 pool — and if you had the highest total volume overall, you're eligible for the \$500 top-volume bonus.
+If you crossed \$50K in volume, you're still eligible for a proportional share of the \$4,750 pool, and if you had the highest total volume overall, you're eligible for the \$500 top-volume bonus.
 {% endtab %}
 {% endtabs %}
 
@@ -153,7 +190,7 @@ If you crossed \$50K in volume, you're still eligible for a proportional share o
 
 For more details on Sai's trading mechanics, collateral options, and market listings, explore the [Sai documentation](../).
 
-Follow us for reward distribution updates and announcements:
+Follow us for future competition announcements and updates:
 
 * **X / Twitter:** [@SaiDotFun](https://x.com/SaiDotFun)
 * **Telegram:** [Join our community](https://t.me/saidotfun)

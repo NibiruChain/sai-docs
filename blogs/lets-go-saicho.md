@@ -13,11 +13,11 @@ coverY: 0
 
 # Let's Go Saicho
 
-We're excited to announce **Sai's Trading Competition** — a one-month onchain trading competition, running from February 18 to March 19, 2026 designed to reward active traders on Sai. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
+We're excited to announce **Sai's Trading Competition**, a one-month onchain trading competition, running from February 18 to March 19, 2026 designed to reward active traders on Sai. Whether you're a seasoned perpetuals trader or new to the platform, this competition offers something for everyone.
 
 **Competition Dates:** February 18 - March 19, 2026\
 **Total Prize Pool:** \$25,500
-**Entry:** Automatic — just start trading on Sai!
+**Entry:** Automatic, just start trading on Sai!
 
 A prize pool of $25,500 will be split across two phases over the duration of the campaign. The competition is divided into two two-week segments: one phase rewards traders with the highest PNL, and the other rewards traders for building volume on the platform. This dual structure recognizes both skilled profitable trading and sustained participation. Both new and experienced traders are encouraged to compete, since every trade can contribute toward the volume phase while net profitable trading is recognized in the PNL phase.
 
@@ -58,7 +58,7 @@ active traders an extra way to earn.
 
 **Reward Pool:** $20,000 | **Winners:** Top 25 Traders by Profit
 
-Phase 1 rewards traders who demonstrate strong trading skill and strategy. Participants are ranked by **percentage profit-and-loss (ROI)** — measuring performance relative to starting capital, not absolute size. This means a 50% gain on a $500 account can outrank a 5% gain on a $50,000 account. Only closed positions count toward PNL (unrealized gains don't count until the trade is closed).
+Phase 1 rewards traders who demonstrate strong trading skill and strategy. Participants are ranked by **percentage profit-and-loss (ROI)**, which measures performance relative to starting capital, not absolute size. This means a 50% gain on a $500 account can outrank a 5% gain on a $50,000 account. Only closed positions count toward PNL (unrealized gains don't count until the trade is closed).
 
 #### Prize Distribution (Phase 1)
 
@@ -85,8 +85,7 @@ To qualify for Phase 1 rewards:
 
 **Why evaluate percentage profit (a.k.a. ROI) for the competition?** This metric
 rewards trading skill and strategy over capital size. It encourages thoughtful
-risk management and disciplined decision-making — exactly what sustainable
-trading is built on. The use of percentage PNL means that the focus is on trading
+risk management and disciplined decision-making, which is exactly what sustainable trading is built on. The use of percentage PNL means that the focus is on trading
 skill and strategy rather than sheer size of capital - a 50% gain on a small
 account (provided the small account achieves a minimum ROI of at least $100)
 ranks higher than a 5% gain on a large account. This phase encourages strategic
@@ -118,7 +117,7 @@ Sai's (Let's Go Saicho) competition will enforce rules against abusive practices
 
 ### What's Allowed
 
-* **Fair-use trading bots:** Algorithmic strategies are welcome — as long as they follow the spirit and letter of the rules.
+* **Fair-use trading bots:** Algorithmic strategies are welcome, as long as they follow the spirit and letter of the rules.
 * **Genuine volume:** All authentic, non-collusive trading counts toward your standings.
 
 ### Minimum Position Holding Time
@@ -127,11 +126,16 @@ For the volume phase (Phase 2), a minimum position holding time (e.g. at least 1
 
 ## Reward Distribution & Payouts
 
-* **Announcement:** Winners will be announced after the trading competition (sometime after March 20th). At that time, instructions will be provided on how to receive rewards.
-* **Payout Timeline:** Prize payouts will be distributed **promptly after the competition** (for instance, within one week of March 20 for the second phase, and similarly after March 4 for the first phase).
-* **Distribution Method:** Prize instructions will be provided after competition concludes
+Reward distribution is complete and final.
 
-Important Note: If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. For example, if only a small number of participants qualify, the full prize pool will not be distributed — prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
+* **Distribution Date:** March 27, 2026
+* **Distribution Method:** Automatic direct transfer to eligible traders' connected wallets (no manual claim required)
+* **Integrity Filtering:** Some accounts were removed for obvious wash trading or intentionally gamed low-activity behavior (for example, ultra short, repetitive trades with unrealistically small P&L changes)
+* **Onchain Transactions:**
+  * [Phase 1 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xdfb9bc786cb97bd4f358a07183f5c8ee711e2b358e18271b51438e1e855eb47d)
+  * [Phase 2 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xcc0108446ae59c6e96dbb51970ab6fda054c028db600288a4554ebc2830cfc3c)
+
+Important Note: If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. For example, if only a small number of participants qualify, the full prize pool will not be distributed. Prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
 
 ## Eligibility & Legal Requirements
 
@@ -215,7 +219,7 @@ All decisions made by Sai are final.
 4. **Start Trading:** Open positions on any market and begin accumulating volume or PNL
 5. **Monitor Progress:** Check the leaderboard dashboard to track your standing in real-time
 
-You're automatically entered once you make your first trade — no separate registration needed.
+You're automatically entered once you make your first trade, so no separate registration needed.
 
 ## FAQ
 
@@ -233,7 +237,7 @@ Absolutely not. One account per person. Multiple accounts by the same individual
 {% tab title="Trading & Participation" %}
 **Do I need to be profitable to earn rewards in Phase 2?**
 
-No. Phase 2 rewards are based on trading volume, not profitability. You can lose money on trades and still qualify for rewards if you meet the volume thresholds. Phase 2 has three reward tracks: a $4,000 shared pool for traders who cross $50k in volume, a $1,000 pool split among the first 50 traders to reach $10k in volume, and a $500 bonus for the single highest-volume trader. Only the $10k pool is first come, first serve; most of Phase 2 rewards are based on total volume. Additionally, the volume must be from genuine trading activity — wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
+No. Phase 2 rewards are based on trading volume, not profitability. You can lose money on trades and still qualify for rewards if you meet the volume thresholds. Phase 2 has three reward tracks: a $4,000 shared pool for traders who cross $50k in volume, a $1,000 pool split among the first 50 traders to reach $10k in volume, and a $500 bonus for the single highest-volume trader. Only the $10k pool is first come, first serve; most of Phase 2 rewards are based on total volume. Additionally, the volume must be from genuine trading activity, such as wash trading, self-dealing, or fake volume generation is strictly prohibited and will result in immediate disqualification.
 
 **Can I use a trading bot?**
 
@@ -241,14 +245,21 @@ Yes, fair-use algorithmic trading is permitted. Bots are welcome as long as they
 
 **Do all markets count toward my volume and PNL?**
 
-Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging assets — it all counts toward your standing.
+Yes. All markets on Sai are eligible for both phases. Trade BTC, ETH, emerging assets, and it all counts toward your standing.
 
 {% endtab %}
 
 {% tab title="Prizes & Payouts" %}
-**When will I receive my prizes?**
+**When were prizes distributed?**
 
-Payouts will be distributed sometime after the competition ends. Instructions on how eligible winners can claim prizes will be provided after the trading competition concludes.
+Payouts were distributed on **March 27, 2026** in two final transactions, one for
+each phase:
+
+- [Phase 1 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xdfb9bc786cb97bd4f358a07183f5c8ee711e2b358e18271b51438e1e855eb47d)
+- [Phase 2 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xcc0108446ae59c6e96dbb51970ab6fda054c028db600288a4554ebc2830cfc3c)
+
+Rewards were sent directly to eligible traders' connected wallets, and no manual
+claim was required.
 
 **What if not all 50 early-volume slots in Phase 2 are filled?**
 
@@ -262,7 +273,7 @@ Yes. If you qualify for the early-volume pool and also cross the $50,000 volume 
 {% tab title="Getting Started" %}
 **How do I enter the competition?**
 
-Just start trading! Visit [app.sai.fun](https://app.sai.fun), connect your wallet, deposit collateral, and make your first trade. You're automatically entered — no separate registration needed.
+Just start trading! Visit [app.sai.fun](https://app.sai.fun), connect your wallet, deposit collateral, and make your first trade. You're automatically entered, so no separate registration needed.
 
 **What collateral can I use?**
 
