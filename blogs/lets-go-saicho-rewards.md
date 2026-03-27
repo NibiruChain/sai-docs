@@ -27,10 +27,29 @@ transactions, one for each competition phase.
 - [Phase 2 Rewards](https://safe.nibiru.fi/transactions/tx?safe=cataclysm-1:0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2&id=multisig_0x22CBd7CbF3b33681abB3Ced4D64d71acB9a9dCd2_0xcc0108446ae59c6e96dbb51970ab6fda054c028db600288a4554ebc2830cfc3c),
   final Safe payout transaction for qualified Phase 2 recipients
 
-Phase 1 paid 22 qualified recipients. Phase 2 paid 47 qualified recipients,
-including 34 traders in the shared pool for crossing $50K in volume and 13
-traders in the early-volume pool for being among the first to reach $10K in
-volume.
+Phase 1 paid 22 qualified recipients and distributed 8,125 USDC. Phase 2
+paid 47 qualified recipients and distributed 5,510 USDC, including 34
+traders in the shared pool for crossing $50K in volume and 13 traders in the
+early-volume pool for being among the first to reach $10K in volume.
+
+No manual claim was required. Rewards were distributed automatically in **USDC
+on Nibiru (ERC-20)**.
+
+Final eligibility was determined after reviewing onchain payout data, trade-
+level records, how long positions were open, and competition source data from
+the CSV and JSON artifacts used to evaluate thresholds, trading activity, and
+integrity checks. This review included the underlying leaderboard and payout
+artifacts, plus trade-level fields used to confirm that rewarded activity was
+substantive and not artificial.
+
+Recipients can verify payout via:
+
+1. The two Safe payout transactions listed above, which are the canonical
+   public payout record
+2. Onchain transaction history on Nibiru
+3. Sai dashboard records and leaderboard outcomes
+
+> **Finality Note:** Distribution is complete and final as of March 27, 2026.
 
 ## Eligibility Requirements
 
@@ -90,24 +109,6 @@ of actually qualified recipients.
 * Reach **\$50K+ volume** → Eligible for proportional share of the \$4,750 pool
 * Compete for **highest total volume** → Win the \$500 bonus (stackable with other Phase 2 rewards)
 
-## How Rewards Were Delivered
-
-**No manual claim was required.** Rewards were distributed automatically in
-**USDC on Nibiru (ERC-20)**.
-
-Payouts were completed on **March 27, 2026** in two final transactions, one for
-each phase. The payout transactions above are the definitive public record of
-reward distribution.
-
-Recipients can verify payout via:
-
-1. The two Safe payout transactions listed above, which are the canonical
-   public payout record
-2. Onchain transaction history on Nibiru
-3. Sai dashboard records and leaderboard outcomes
-
-> **Finality Note:** Distribution is complete and final as of March 27, 2026.
-
 ## What the Competition Achieved
 
 Let's Go Saicho rewarded both performance and participation, from high-skill traders generating strong PNL to early users actively building volume on Sai.
@@ -146,14 +147,17 @@ Engaging in wash trading, sybil activity (multi-accounting), or any form of
 artificial volume manipulation results in disqualification and forfeiture of all
 rewards. The Sai team audited activity and removed accounts that showed obvious
 gaming patterns, including ultra-short repetitive trades with unrealistically
-small P&L changes that appeared designed to manipulate competition metrics.
+small P&L changes that appeared designed to manipulate competition metrics. That
+review was based on a broader analysis of onchain data, trade-level records,
+position duration, and the competition CSV and JSON source data used to verify
+thresholds and filter out low-substance or manipulative behavior.
 {% endtab %}
 
 {% tab title="Rewards & Distribution" %}
 **Do I need to do anything to claim my rewards?**
 
-No. Rewards were distributed automatically. See **How Rewards Were Delivered**
-above for the payout details and verification methods.
+No. Rewards were distributed automatically. See **Final Reward Payouts** above
+for payout details and verification methods.
 
 **When were rewards distributed?**
 
