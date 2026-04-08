@@ -49,6 +49,7 @@
   * [Let's Go Saicho](blogs/lets-go-saicho.md)
   * [SaiClone Ambassador Program](blogs/saiclone-ambassador.md)
   * [Let's Go Saicho: Rewards](/blogs/lets-go-saicho-rewards.md)
+  * [Sai Launches Stock Trading on Perps](/blogs/stock-perps-launch.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Sai Disclosures](legal/disclosures.md)

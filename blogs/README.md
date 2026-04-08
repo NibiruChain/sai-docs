@@ -23,11 +23,18 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 > 🎁 [**Let's Go Saicho: Reward Distribution**](lets-go-saicho-rewards.md)\
 > Competition has concluded. See eligibility, prize breakdowns, and how rewards are distributed.
 
+> 📈 [**Sai Launches Stock Trading on Perps**](stock-perps-launch.md)\
+> Trade popular stocks long or short through perpetual markets — fully onchain, no gas fees, no custody.
+
 ***
 
 ## Subscribe to Updates
 
 Don't miss new posts. Follow Sai for real-time announcements:
 
-* **X / Twitter:** [@SaiDotFun](https://x.com/SaiDotFun)
-* **Telegram:** [Join our community](https://t.me/saidotfun)
+* **X / Twitter:** [@SaiDotFun](__https://x.com/SaiDotFun__)
+* **YouTube:** [@saidotfun](__https://www.youtube.com/@saidotfun__)
+* **Telegram:** [Join our community](__https://t.me/saidotfun__)
+* **Discord:** [Join our server](__https://discord.com/invite/saidotfun__)
+* **TikTok:** [@SaiDotFun](__https://www.tiktok.com/@saidotfun__)
+* **Instagram:** [@SaiDotFun](__https://instagram.com/saidotfun__)
