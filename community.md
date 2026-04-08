@@ -43,5 +43,10 @@ Join the Sai community across our official channels.
       <td>@saidotfun</td>
       <td><a href="https://www.tiktok.com/@saidotfun">https://www.tiktok.com/@saidotfun</a></td>
     </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/youtube/FF0000" width="24" style="vertical-align:middle; margin-right:8px"> <strong>YouTube</strong></td>
+      <td>@saidotfun</td>
+      <td><a href="https://www.youtube.com/@saidotfun">https://www.youtube.com/@saidotfun</a></td>
+    </tr>
   </tbody>
 </table>

@@ -220,10 +220,11 @@ Practical integration examples and real-world applications built on Sai.
 
 **Need help or want to connect with other builders?**
 
-- 🐦 [X / Twitter](https://x.com/SaiDotFun) - @SaiDotFun
-- 📢 [Telegram News Channel](https://t.me/saidotfun) - t.me/saidotfun
-- 📸 [Instagram](https://instagram.com/saidotfun) - instagram.com/saidotfun
-- 🎵 [TikTok](https://www.tiktok.com/@saidotfun) - @saidotfun
+- 🐦 [X / Twitter](__https://x.com/SaiDotFun__) - @SaiDotFun
+- 📢 [Telegram News Channel](__https://t.me/saidotfun__) - t.me/saidotfun
+- 📸 [Instagram](__https://instagram.com/saidotfun__) - instagram.com/saidotfun
+- 🎵 [TikTok](__https://www.tiktok.com/@saidotfun__) - @saidotfun
+- ▶️ [YouTube](__https://www.youtube.com/@saidotfun__) - @saidotfun
 
 **Additional Resources:**
 
