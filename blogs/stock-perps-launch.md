@@ -39,7 +39,6 @@ No need to jump between apps for crypto and equities. One interface, every marke
 | -------------------------- | ---------------- | --------------- |
 | Crypto Perps               | ✅               | ✅              |
 | Stock Perps                | ❌               | ✅              |
-| Shared Collateral          | ❌               | ✅              |
 | Gasless Trading            | Varies           | ✅              |
 | Fully Onchain              | Varies           | ✅              |
 
