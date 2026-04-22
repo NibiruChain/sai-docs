@@ -26,6 +26,9 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 > 📈 [**Sai Launches Stock Trading on Perps**](stock-perps-launch.md)\
 > Trade popular stocks long or short through perpetual markets — fully onchain, no gas fees, no custody.
 
+> 🏆 [**Sai Cookout: $5,100 Prize Pool**](sai-cookout.md)\
+> Month-long competition (Apr 22 - May 20, 2026) with three ways to win across all Sai markets.
+
 ***
 
 ## Subscribe to Updates
