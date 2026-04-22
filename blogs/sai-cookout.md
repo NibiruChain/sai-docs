@@ -11,7 +11,7 @@ cover: ../.gitbook/assets/blog_6/sai_the_cookout_banner.png
 coverY: 0
 ---
 
-# Sai's The Cookout
+# Sai Cookout: Sai Trading Competition
 
 Sai is back with a new trading competition, now with more markets and more ways to win. This month-long competition rewards traders across all live perps markets on Sai, from crypto majors to newly launched stock and commodity markets. Whether you trade one asset or a wider basket, there are ways to climb the leaderboard.
 
