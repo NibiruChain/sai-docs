@@ -13,121 +13,123 @@ coverY: 0
 
 # Sai Cookout: Sai Trading Competition
 
-Sai is back with a new trading competition, now with more markets and more ways to win. This month-long competition rewards traders across all live perps markets on Sai, from crypto majors to newly launched stock and commodity markets. Whether you trade one asset or a wider basket, there are ways to climb the leaderboard.
+Sai is back with a new trading competition. More markets and ways to win.
 
-**Competition Dates:** April 22 - May 20, 2026\
-**Total Prize Pool:** \$5,100
-**Entry:** Automatic, just start trading on Sai!
+This month-long competition rewards traders across all live perps markets on Sai, from crypto majors to newly launched stock and commodity markets. Whether you trade one asset or a wider basket, there's ways to climb the leaderboard.
 
-A prize pool of $5,100 will be split across three tracks for the duration of the campaign. The Main Event rewards the top traders based on cumulative realized profits across every market on Sai, a parallel Side Pot rewards traders who generate profits specifically on perps for stocks, and a consolation prize goes to the trader with the largest realized loss. Both new and experienced traders are encouraged to compete, since every market counts toward the Main Event leaderboard.
+## Overview
 
-## The Competition Structure
+The Menu features a wide range of markets for users to choose from, spanning perps on blue-chip crypto assets, commodities, and equities. Additional markets will roll out throughout the competition.
 
-Sai's Cookout features a multi-track design that rewards different trader profiles: those who can generate strong profits across any market, those focused specifically on perps stock markets, and even those who take the biggest hit.
+* **Total Prize Pool:** $5,100
+* **Timeline:** April 22nd → May 20th (~4 weeks)
+* **Structure:** $4,000 Main Leaderboard + $1,000 Stock Side Pot + $100 Biggest Loser
 
-### Main Event - Cook Out (April 22 - May 20)
-
-**Reward Pool:** $4,000 | **Focus:** Top 25 traders by realized profit across all markets
+## Main Event - Cook Out
 
 Trade anything. Perps on crypto, stocks, commodities. All markets count.
 
-The Main Event rewards the top traders based on cumulative realized profits across every market on Sai. There are no restrictions, so focus on what you trade best and scale from there.
+The Main Event rewards the top traders based on cumulative realized profits across every market on Sai. There are no restrictions. Focus on what you trade best and scale from there.
 
-#### Prize Distribution (Main Event)
+**Prize Pool:** Up to $4,000
 
-| Rank       | Title          | Per Trader          | Tier Total | % of Pool |
-| ---------- | -------------- | ------------------- | ---------- | --------- |
-| 1st        | Head Chef      | $800                | $800       | 20.0%     |
-| 2nd        | Sous Chef      | $520                | $520       | 13.0%     |
-| 3rd        | Pastry Chef    | $360                | $360       | 9.0%      |
-| 4th        | Saucier        | $260                | $260       | 6.5%      |
-| 5th        | Grill Master   | $200                | $200       | 5.0%      |
-| 6th-10th   | Line Cooks     | $120 each           | $600       | 15.0%     |
-| 11th-15th  | Prep Cooks     | $80 each            | $400       | 10.0%     |
-| 16th-20th  | Dishwashers    | $60 each            | $300       | 7.5%      |
-| 21st-25th  | Taste Testers  | $112 each (incl. fees) | $560    | 14.0%     |
-| **Total**  |                |                     | **$4,000** | **100%**  |
+### Top 25 Distribution
 
-### The Side Pot - Perps Stock Markets (April 22 - May 20)
+| Rank       | Title         | Per Trader             | Tier Total | % of Pool |
+| ---------- | ------------- | ---------------------- | ---------- | --------- |
+| 1st        | Head Chef     | $800                   |            | 20.0%     |
+| 2nd        | Sous Chef     | $520                   |            | 13.0%     |
+| 3rd        | Pastry Chef   | $360                   |            | 9.0%      |
+| 4th        | Saucier       | $260                   |            | 6.5%      |
+| 5th        | Grill Master  | $200                   |            | 5.0%      |
+| **Top 5**  |               |                        | **$2,140** | **53.5%** |
+| 6th–10th   | Line Cooks    | $120 each              | $600       | 15.0%     |
+| 11th–15th  | Prep Cooks    | $80 each               | $400       | 10.0%     |
+| 16th–20th  | Dishwashers   | $60 each               | $300       | 7.5%      |
+| 21st–25th  | Taste Testers | $112 each (incl. fees) | $560       | 14.0%     |
+| **Total**  |               |                        | **$4,000** | **100%**  |
 
-**Reward Pool:** $1,000 | **Focus:** Top 20 traders by realized profit on perps stocks
+## The Side Pot - Perps Stock Markets
 
-The Side Pot runs in parallel to the main leaderboard and rewards traders who generate profits specifically on perps for stocks. Perps Stock PnL counts toward both leaderboards, so stock trading doubles up.
+The Side Pot runs in parallel to the main leaderboard and rewards traders who generate profits specifically on perps for stocks. Perps Stock PnL counts toward both leaderboards.
 
-#### Prize Distribution (Side Pot)
+**Timeline:** April 22nd → May 20th (~4 weeks)\
+**Prize Pool:** Up to $1,000
 
-| Rank       | Title          | Per Trader          | Tier Total | % of Pool |
-| ---------- | -------------- | ------------------- | ---------- | --------- |
-| 1st        | Iron Chef      | $250                | $250       | 25.0%     |
-| 2nd        | Wok Star       | $162                | $162       | 16.2%     |
-| 3rd        | Hibachi King   | $113                | $113       | 11.3%     |
-| 4th-5th    |                | $75 each            | $150       | 15.0%     |
-| 6th-10th   |                | $65 each (incl. fees) | $325     | 32.5%     |
-| **Total**  |                |                     | **$1,000** | **100%**  |
+### Top 20 Distribution
 
-### The Biggest Loser - Rekt
-
-**Prize:** $100 | **Focus:** Consolation prize for the largest realized loss
-
-At the end of the competition, the trader with the largest realized loss takes home a consolation prize and the title of rekt.
-
-#### Biggest Loser Rules
-
-* **Minimum realized loss:** $500
-* Must be the single largest realized loser across the competition
-* **Minimum 10 round-trip trades** required
-* No single trade blow-ups
-* Winner will be publicly named
+| Rank       | Title        | Per Trader            | Tier Total | % of Pool |
+| ---------- | ------------ | --------------------- | ---------- | --------- |
+| 1st        | Iron Chef    | $250                  |            | 25.0%     |
+| 2nd        | Wok Star     | $162                  |            | 16.2%     |
+| 3rd        | Hibachi King | $113                  |            | 11.3%     |
+| 4th–5th    |              | $75 each              | $150       | 15.0%     |
+| **Top 5**  |              |                       | **$675**   | **67.5%** |
+| 6th–10th   |              | $65 each (incl. fees) | $325       | 32.5%     |
+| **Total**  |              |                       | **$1,000** | **100%**  |
 
 ## How Scoring Works
 
-The competition is based on **realized profits**, not net PnL. This structure rewards traders who can generate strong upside without punishing continued participation. Your score can only go up over time.
+The competition is based on **realized profits**, not net PnL.
 
-* **Example 1:** If you make $1,000 and later lose $500, your score still references the $1,000 PnL.
-* **Example 2:** If another trader makes $500 total, they rank below you.
+* **(E.g):** If you make $1,000 and later lose $500, your score still references the $1,000 PnL
+* **(E.g):** If another trader makes $500 total, they rank below you
 
-**Why realized profits?** This metric rewards traders for their best performance windows rather than penalizing them for continuing to trade after a strong run. It encourages sustained engagement without forcing traders to "sit on" wins to protect their rank.
+This structure rewards traders who can generate strong upside without punishing continued participation.
+
+Your score can only go up over time.
 
 ## Qualification Requirements
 
-Traders must meet minimum activity thresholds to qualify for rewards:
+Traders must meet minimum activity thresholds to qualify:
 
-| Requirement                | Main Leaderboard  | Stock Side Pot    |
-| -------------------------- | ----------------- | ----------------- |
-| Minimum deposited margin   | $100              | $100              |
+| Requirement                | Main Leaderboard    | Stock Side Pot     |
+| -------------------------- | ------------------- | ------------------ |
+| Minimum deposited margin   | $100                | $100               |
 | Minimum notional volume    | $100K (all markets) | $50K (stocks only) |
-| Positive PnL required      | Yes               | Yes               |
+| Positive PnL required      | Yes                 | Yes                |
 
-Users can be eligible for prizes from each leaderboard. If you trade stock, RWAs, or commodity markets, that PnL will also count for the Cook Out leaderboard.
+Users can be eligible for prizes from each leaderboard. If you trade stock, RWAs/commodity markets, that PnL will also count for the Cook Out leaderboard.
 
 ### How Perps Markets Are Counted
 
-* **Stock PnL:** Counts toward both the main leaderboard and the stock side pot
-* **Crypto PnL:** Counts toward the main leaderboard only
-* **Main leaderboard score:** Total realized profits across all markets
+* **Stock PnL**
+  * Counts toward both the main leaderboard and the stock side pot
+* **Crypto PnL**
+  * Counts toward the main leaderboard only
+* **Main leaderboard score**
+  * Total realized profits across all markets
 
-## What You Can Trade
+## The Biggest Loser - Rekt.
 
-**Eligible Markets & Collateral:** The menu features a wide range of markets for users to choose from, spanning perps on blue-chip crypto assets, commodities, and equities. Additional markets will roll out throughout the competition.
+**Prize:** $100
 
-* **Go long or short** on any listed trading pair
-* **Use any supported collateral:** USDC, stNIBI, or other platform-supported assets
-* **All markets count:** Whether you're trading majors like BTC/USD and ETH/USD, equity perps, or commodity markets, all realized PnL contributes to competition standings
+At the end of the competition, the trader with the largest realized loss takes home a consolation prize and the title of rekt.
 
-## How Leaderboards Work
+### Rules
 
-Both the Main Event and Side Pot leaderboards update regularly (daily or in real-time on the platform dashboard) so you can track your standing throughout the competition. Check the **Leaderboard** tab in the Sai app to monitor your progress.
+* Minimum realized loss: $500
+* Must be the single largest realized loser
+* Minimum 10 round-trip trades
+* No single trade blow-ups
+* Winner will be publicly named
+
+## Trade on Sai
+
+Trade consistently. Scale what works. Crypto, stocks, or both. It all counts.
+
+Head to [app.sai.fun](https://app.sai.fun), connect your wallet, deposit collateral, and start trading. You're automatically entered once you make your first trade.
 
 ## Rules & Integrity
 
-Sai's Cookout competition will enforce rules against abusive practices and set minimum requirements for trades to qualify. To keep the competition fair and protect all participants, Sai enforces strict rules against abusive practices:
+To keep the competition fair and protect all participants, Sai enforces strict rules against abusive practices.
 
 ### What's Prohibited
 
 * **Sybil attacks:** One account per person. Multiple accounts by the same individual are strictly forbidden. Any form of sybil attack will result in immediate disqualification.
-* **Wash trading:** Self-dealing and coordinated trades between accounts to inflate volume or PnL will result in immediate disqualification. Trades must reflect authentic market activity.
+* **Wash trading:** Self-dealing and coordinated trades between accounts to inflate volume or PnL will result in immediate disqualification.
 * **Fake volume:** Trades must reflect authentic market activity. Coordinated volume inflation is prohibited.
-* **Malicious bots:** While algorithmic trading is permitted, bots that engage in prohibited tactics will have their trades voided. Fair-use trading bots are allowed, but malicious bot-driven manipulation of the competition is prohibited.
+* **Malicious bots:** While algorithmic trading is permitted, bots that engage in prohibited tactics will have their trades voided.
 * **Single trade blow-ups (Biggest Loser):** Losses must come from sustained trading activity, not a single outsized trade designed to game the consolation prize.
 
 ### What's Allowed
@@ -155,22 +157,9 @@ By entering the competition, you confirm that:
 
 **Participation is at User's Own Risk:** Trading, especially perps trading, is inherently risky. Your participation in this competition is at your own risk. You disclaim and release any claims from any legal action taken by or upon you through your use of the Sai platform. Sai is not responsible in any way for loss of assets or value. If you are not experienced with similar trading platforms, you should not participate. Even experienced users may lose all of their cryptocurrency assets or value.
 
-You acknowledge that:
-
-* Sai is not responsible for loss of assets or value
-* You may lose your entire cryptocurrency holdings
-* If you're inexperienced with perpetuals trading, you should not participate
-* Even experienced traders can lose all assets
-
 ### Tax & Legal Responsibility
 
 **You Are Responsible for Your Own Legal and Tax Situation:** You understand, acknowledge, and agree that you are responsible for any tax or legal issues that result in your participation in the competition. In participating, you represent that no jurisdiction with authority prohibits your participation.
-
-You are solely responsible for:
-
-* Any tax implications resulting from competition participation and prizes
-* Compliance with local regulations in your jurisdiction
-* Understanding the legal implications of receiving competition prizes
 
 ### Terms of Use and Privacy Policy
 
@@ -186,33 +175,7 @@ You are solely responsible for:
 
 **Integrity and Auditing:** Sai's team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness.
 
-Sai reserves the absolute right to:
-
-* Disqualify any participant for violating these rules or the spirit of fair competition
-* Audit trading activity and remove suspicious entries
-* Disqualify participants for any reason deemed appropriate at Sai's sole discretion
-* Adjust or void suspicious trades to maintain integrity
-
-All decisions made by Sai are final.
-
-Important Note: If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. Prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
-
-## Competition Timeline
-
-| Date              | Event                                          |
-| ----------------- | ---------------------------------------------- |
-| April 22, 2026    | Sai Cookout Begins (All tracks start)          |
-| May 20, 2026      | Sai Cookout Ends                               |
-
-## How to Get Started
-
-1. **Visit Sai:** Head to [app.sai.fun](https://app.sai.fun)
-2. **Connect Your Wallet:** Link your Web3 wallet (MetaMask, Phantom, or similar)
-3. **Deposit Collateral:** Fund your account with USDC, stNIBI, or supported assets
-4. **Start Trading:** Open positions on any market, crypto, stocks, or commodities, and begin accumulating realized profits
-5. **Monitor Progress:** Check the leaderboard dashboard to track your standing in real-time
-
-You're automatically entered once you make your first trade, so no separate registration needed.
+**Important Note:** If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. Prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
 
 ## FAQ
 
@@ -238,7 +201,7 @@ Yes, both the Main Event and the Side Pot require positive realized PnL to quali
 
 **Can I use a trading bot?**
 
-Yes, fair-use algorithmic trading is permitted. Bots are welcome as long as they don't engage in wash trading, sybil attacks, or other prohibited tactics. If your bot follows the rules, go ahead and automate your strategy.
+Yes, fair-use algorithmic trading is permitted. Bots are welcome as long as they don't engage in wash trading, sybil attacks, or other prohibited tactics.
 
 **Do all markets count toward the Main Event?**
 
