@@ -73,7 +73,7 @@ Referrers can earn an increasing share of referred traders' fees based on their 
 | Tier 3 | 50%             | Exclusive partners    |
 
 {% hint style="info" %}
-**\*Promotional rate:** The Tier 0 commission rate of 25% is a promotional rate available during the trading competition and will be adjusted after May 20, 2026.
+**Promotional rate:** The Tier 0 commission rate of 25% is a promotional rate available during the trading competition and will be adjusted after May 20, 2026.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -149,3 +149,4 @@ If you have questions about the referral program or need assistance getting star
 ---
 
 _Last updated: February 2026_
+
