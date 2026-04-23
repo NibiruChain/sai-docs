@@ -67,10 +67,14 @@ Referrers can earn an increasing share of referred traders' fees based on their 
 
 | Tier   | Commission Rate | Eligibility           |
 | ------ | --------------- | --------------------- |
-| Tier 0 | 25%             | Entry level           |
+| Tier 0 | 25%\*           | Entry level           |
 | Tier 1 | 35%             | Active referrers      |
 | Tier 2 | 40%             | High-volume referrers |
 | Tier 3 | 50%             | Exclusive partners    |
+
+{% hint style="info" %}
+**\*Promotional rate:** The Tier 0 commission rate of 25% is a promotional rate available during the trading competition and will be adjusted after May 20, 2026.
+{% endhint %}
 
 {% hint style="warning" %}
 **VIP Partnership:** To qualify for top-tier commissions, please contact the Sai team to discuss partnership opportunities.
