@@ -81,15 +81,25 @@ Your score can only go up over time.
 
 ## Qualification Requirements
 
-Traders must meet minimum activity thresholds to qualify:
+Traders must meet minimum activity and performance thresholds to qualify:
 
 | Requirement                | Main Leaderboard    | Stock Side Pot     |
 | -------------------------- | ------------------- | ------------------ |
 | Minimum deposited margin   | $100                | $100               |
 | Minimum notional volume    | $100K (all markets) | $50K (stocks only) |
-| Positive PnL required      | Yes                 | Yes                |
+| Minimum realized PnL       | > $50               | > $50              |
 
 Users can be eligible for prizes from each leaderboard. If you trade stock, RWAs/commodity markets, that PnL will also count for the Cook Out leaderboard.
+
+### Minimum PnL Threshold
+
+To qualify for any leaderboard prize, a trader must hit a **minimum of greater than $50 in realized PnL** (peak cumulative realized profit, as described above). Traders below this threshold will not appear on the leaderboards regardless of rank.
+
+**If there aren't enough qualified participants to fill every prize slot**, the distribution scales down and rewards are paid out based on the same percentage breakdown across the qualifying field. Sai's team reserves the right to distribute remaining prizes to the next most qualified participants, or not at all, as it sees fit. If an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
+
+### Minimum Holding Time
+
+To discourage instantaneous round-trip trades purely to inflate volume, a minimum position holding time may be required for a trade to count toward volume qualification. Trades that fail to meet this threshold will be excluded from the leaderboard volume calculation.
 
 ### How Perps Markets Are Counted
 
@@ -104,14 +114,20 @@ Users can be eligible for prizes from each leaderboard. If you trade stock, RWAs
 
 **Prize:** $100
 
-At the end of the competition, the trader with the largest realized loss takes home a consolation prize and the title of rekt.
+At the end of the competition, the trader with the largest **net realized loss** takes home a consolation prize and the title of rekt.
+
+### Scoring
+
+The Biggest Loser is scored **separately** from the Main Event and Side Pot. Unlike the profit leaderboards (which reference peak cumulative realized profit), the Biggest Loser is based on **net negative realized PnL** over the full competition window. A trader who profited $1,000 early and then lost $2,000 has a net PnL of -$1,000 for this track.
+
+This means Biggest Loser eligibility is entirely independent of whether a trader scored on the main leaderboards. If you posted a profit high at some point but finished net negative, only your final net loss counts here.
 
 ### Rules
 
-* Minimum realized loss: $500
-* Must be the single largest realized loser
+* Minimum net realized loss: $500
+* Must be the single largest net realized loser
 * Minimum 10 round-trip trades
-* No single trade blow-ups
+* No single trade blow-ups — losses must come from sustained trading activity, not a single outsized trade designed to game the consolation prize
 * Winner will be publicly named
 
 ## Trade on Sai
@@ -126,10 +142,9 @@ To keep the competition fair and protect all participants, Sai enforces strict r
 
 ### What's Prohibited
 
-* **Sybil attacks:** One account per person. Multiple accounts by the same individual are strictly forbidden. Any form of sybil attack will result in immediate disqualification.
-* **Wash trading:** Self-dealing and coordinated trades between accounts to inflate volume or PnL will result in immediate disqualification.
-* **Fake volume:** Trades must reflect authentic market activity. Coordinated volume inflation is prohibited.
-* **Malicious bots:** While algorithmic trading is permitted, bots that engage in prohibited tactics will have their trades voided.
+* **Sybil attacks:** Each individual may participate with one account. Any form of sybil attack (using multiple accounts by the same person) is strictly prohibited. Only genuine, unique user accounts will be eligible for prizes.
+* **Wash trading & fake volume:** Wash trading, self-dealing, or any fake volume generation is forbidden. Trades must reflect authentic market activity. Self-trades or coordinated trades between colluding accounts to inflate volume or PnL will result in immediate disqualification. The platform will monitor trade patterns and reserves the right to disqualify and/or ban any accounts showing abusive behavior.
+* **Bot manipulation:** While algorithmic trading isn't outright banned, any malicious bot-driven manipulation of the competition is prohibited. Fair-use trading bots are allowed, but if they are detected to engage in any forbidden tactics, those trades will be voided.
 * **Single trade blow-ups (Biggest Loser):** Losses must come from sustained trading activity, not a single outsized trade designed to game the consolation prize.
 
 ### What's Allowed
@@ -137,13 +152,21 @@ To keep the competition fair and protect all participants, Sai enforces strict r
 * **Fair-use trading bots:** Algorithmic strategies are welcome, as long as they follow the spirit and letter of the rules.
 * **Genuine trading activity:** All authentic, non-collusive trading counts toward your standings across both leaderboards.
 
+### Leaderboard Updates
+
+The competition leaderboards will be updated regularly (in real-time on the platform's dashboard) so participants can track their standings throughout the competition.
+
+### Reward Distribution
+
+Winners will be announced after the trading competition closes. At that time, instructions will be provided on how to receive rewards. Prize payouts will be distributed within a reasonable timeframe after the competition closes. If there are less qualified participants than prizes available as determined in Sai's team's sole discretion, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
+
 ## Eligibility & Legal Requirements
 
 ### Who Can Participate?
 
 **How to Enter:** Any user of the Sai platform is automatically entered into the competition.
 
-**Participant Eligibility:** The competition is open to all traders who are at least **18 years of age** and not residents of restricted jurisdictions. **US residents and those in sanctioned regions are NOT eligible** to participate. By entering, participants confirm they are abiding by all local laws and the platform's terms of use.
+**Participant Eligibility:** The competition is open to all traders who are at least **18 years of age** and not residents of restricted jurisdictions (as set forth in Sai's [Terms of Use](https://docs.sai.fun/resources/legal/terms-of-use)). Traders from the **United States or other sanctioned regions are NOT eligible** to participate. By entering, participants confirm they are abiding by all local laws and the platform's terms of use.
 
 **Competition Duration:** The competition will start at 00:00 UTC on April 22, 2026 and end at 23:59 UTC on May 20, 2026.
 
@@ -173,7 +196,7 @@ By entering the competition, you confirm that:
 
 **Sai is Sole Decision Maker:** Sai reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. Sai reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of Sai, and any other conduct that Sai considers inappropriate or unacceptable. All decisions of Sai shall be final.
 
-**Integrity and Auditing:** Sai's team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness.
+**Integrity and Auditing:** Sai's team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness. This policy is essential to maintain a level playing field and uphold the integrity of the competition.
 
 **Important Note:** If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. Prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
 
@@ -195,9 +218,13 @@ Absolutely not. One account per person. Multiple accounts by the same individual
 
 Yes. Perps Stock PnL counts toward both the Main Event leaderboard and the Stock Side Pot. If you focus on stocks, you're automatically competing on both tracks.
 
-**Do I need to be profitable to earn rewards?**
+**What's the minimum PnL to earn rewards?**
 
-Yes, both the Main Event and the Side Pot require positive realized PnL to qualify. The only track that rewards losses is the Biggest Loser consolation prize, which requires a minimum realized loss of $500 and at least 10 round-trip trades.
+You need **more than $50 in realized PnL** (peak cumulative realized profit) to qualify for either the Main Event or the Stock Side Pot. Traders at or below that threshold won't appear on the leaderboards. The Biggest Loser track is the only one that rewards losses, and it requires a minimum net realized loss of $500 and at least 10 round-trip trades.
+
+**How is the Biggest Loser scored differently from the main leaderboards?**
+
+The profit leaderboards use peak cumulative realized profit — your score references your highest high and never goes down. The Biggest Loser track is completely separate and uses **net negative realized PnL** over the full competition window. So a trader who profited $1,000 and then lost $2,000 would have a Main Event score frozen at $1,000 (if they qualified) and a Biggest Loser score of -$1,000.
 
 **Can I use a trading bot?**
 
@@ -215,7 +242,7 @@ Your score only references your peak cumulative realized profit. If you make $1,
 {% tab title="Prizes & Payouts" %}
 **When will prizes be distributed?**
 
-Prize distribution details will be announced at the close of the competition. Rewards will be sent directly to eligible traders' connected wallets, with no manual claim required.
+Winners will be announced after the competition closes, and instructions for receiving rewards will be provided at that time. Payouts will be distributed within a reasonable timeframe after the competition closes.
 
 **Can I earn from multiple tracks at once?**
 
@@ -223,11 +250,11 @@ Yes. If you qualify for the Main Event and the Stock Side Pot, you earn from bot
 
 **What if not all prize slots are filled?**
 
-Sai reserves the right to distribute remaining prizes to the next most qualified participants, or may choose not to distribute unused portions of the prize pool.
+If there aren't enough qualified participants, the distribution scales down and rewards pay out based on the same percentage breakdown across the qualifying field. Sai reserves the right to distribute remaining prizes to the next most qualified participants, or not at all, as it sees fit. It is possible that the entirety of the planned prize pools are not distributed if turnout is insufficient.
 
 **What are the minimum qualification thresholds?**
 
-For the Main Event: $100 minimum deposited margin, $100K minimum notional volume across all markets, and positive realized PnL. For the Stock Side Pot: $100 minimum deposited margin, $50K minimum notional volume on stocks only, and positive realized PnL.
+For the Main Event: $100 minimum deposited margin, $100K minimum notional volume across all markets, and more than $50 in realized PnL. For the Stock Side Pot: $100 minimum deposited margin, $50K minimum notional volume on stocks only, and more than $50 in realized PnL.
 {% endtab %}
 
 {% tab title="Getting Started" %}
