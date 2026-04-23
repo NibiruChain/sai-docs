@@ -87,13 +87,13 @@ Traders must meet minimum activity and performance thresholds to qualify:
 | -------------------------- | ------------------- | ------------------ |
 | Minimum deposited margin   | $100                | $100               |
 | Minimum notional volume    | $100K (all markets) | $50K (stocks only) |
-| Minimum realized PnL       | $100                | $100               |
+| Minimum realized PnL       | > $50               | > $50              |
 
 Users can be eligible for prizes from each leaderboard. If you trade stock, RWAs/commodity markets, that PnL will also count for the Cook Out leaderboard.
 
 ### Minimum PnL Threshold
 
-To qualify for any leaderboard prize, a trader must hit a **minimum of $100 in realized PnL** (peak cumulative realized profit, as described above). Traders below this threshold will not appear on the leaderboards regardless of rank.
+To qualify for any leaderboard prize, a trader must hit a **minimum of greater than $50 in realized PnL** (peak cumulative realized profit, as described above). Traders below this threshold will not appear on the leaderboards regardless of rank.
 
 **If there aren't enough qualified participants to fill every prize slot**, the distribution scales down and rewards are paid out based on the same percentage breakdown across the qualifying field. Sai's team reserves the right to distribute remaining prizes to the next most qualified participants, or not at all, as it sees fit. If an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
 
@@ -220,7 +220,7 @@ Yes. Perps Stock PnL counts toward both the Main Event leaderboard and the Stock
 
 **What's the minimum PnL to earn rewards?**
 
-You need at least **$100 in realized PnL** (peak cumulative realized profit) to qualify for either the Main Event or the Stock Side Pot. Traders below that threshold won't appear on the leaderboards. The Biggest Loser track is the only one that rewards losses, and it requires a minimum net realized loss of $500 and at least 10 round-trip trades.
+You need **more than $50 in realized PnL** (peak cumulative realized profit) to qualify for either the Main Event or the Stock Side Pot. Traders at or below that threshold won't appear on the leaderboards. The Biggest Loser track is the only one that rewards losses, and it requires a minimum net realized loss of $500 and at least 10 round-trip trades.
 
 **How is the Biggest Loser scored differently from the main leaderboards?**
 
@@ -254,7 +254,7 @@ If there aren't enough qualified participants, the distribution scales down and 
 
 **What are the minimum qualification thresholds?**
 
-For the Main Event: $100 minimum deposited margin, $100K minimum notional volume across all markets, and $100 minimum realized PnL. For the Stock Side Pot: $100 minimum deposited margin, $50K minimum notional volume on stocks only, and $100 minimum realized PnL.
+For the Main Event: $100 minimum deposited margin, $100K minimum notional volume across all markets, and more than $50 in realized PnL. For the Stock Side Pot: $100 minimum deposited margin, $50K minimum notional volume on stocks only, and more than $50 in realized PnL.
 {% endtab %}
 
 {% tab title="Getting Started" %}
