@@ -46,7 +46,7 @@ The Main Event rewards the top traders based on cumulative realized profits acro
 | 6th–10th   | Line Cooks    | $140 each              | $700       | 17.5%     |
 | 11th–15th  | Prep Cooks    | $100 each              | $500       | 12.5%     |
 | 16th–20th  | Dishwashers   | $80 each               | $400       | 10.0%     |
-| 21st–25th  | Taste Testers | $60 each (incl. fees)  | $300       | 7.5%      |
+| 21st–25th  | Taste Testers | $60 each               | $300       | 7.5%      |
 | **Total**  |               |                        | **$4,000** | **100%**  |
 
 ## The Side Pot - Perps Stock Markets
@@ -65,7 +65,7 @@ The Side Pot runs in parallel to the main leaderboard and rewards traders who ge
 | 3rd        | Hibachi King | $113                  |            | 11.3%     |
 | 4th–5th    |              | $75 each              | $150       | 15.0%     |
 | **Top 5**  |              |                       | **$675**   | **67.5%** |
-| 6th–10th   |              | $65 each (incl. fees) | $325       | 32.5%     |
+| 6th–10th   |              | $65 each              | $325       | 32.5%     |
 | **Total**  |              |                       | **$1,000** | **100%**  |
 
 ## How Scoring Works
