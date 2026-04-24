@@ -110,7 +110,7 @@ To discourage instantaneous round-trip trades purely to inflate volume, a minimu
 * **Main leaderboard score**
   * Total realized profits across all markets
 
-## The Biggest Loser - Rekt.
+## The Biggest Loser - Rekt
 
 **Prize:** $100
 
@@ -136,69 +136,26 @@ Trade consistently. Scale what works. Crypto, stocks, or both. It all counts.
 
 Head to [app.sai.fun](https://app.sai.fun), connect your wallet, deposit collateral, and start trading. You're automatically entered once you make your first trade.
 
-## Rules & Integrity
+## Rules and Eligibility Criteria
 
-To keep the competition fair and protect all participants, Sai enforces strict rules against abusive practices.
+Sai’s Cookout competition will enforce rules against abusive practices and set minimum requirements for trades to qualify:
 
-### What's Prohibited
-
-* **Sybil attacks:** Each individual may participate with one account. Any form of sybil attack (using multiple accounts by the same person) is strictly prohibited. Only genuine, unique user accounts will be eligible for prizes.
-* **Wash trading & fake volume:** Wash trading, self-dealing, or any fake volume generation is forbidden. Trades must reflect authentic market activity. Self-trades or coordinated trades between colluding accounts to inflate volume or PnL will result in immediate disqualification. The platform will monitor trade patterns and reserves the right to disqualify and/or ban any accounts showing abusive behavior.
-* **Bot manipulation:** While algorithmic trading isn't outright banned, any malicious bot-driven manipulation of the competition is prohibited. Fair-use trading bots are allowed, but if they are detected to engage in any forbidden tactics, those trades will be voided.
-* **Single trade blow-ups (Biggest Loser):** Losses must come from sustained trading activity, not a single outsized trade designed to game the consolation prize.
-
-### What's Allowed
-
-* **Fair-use trading bots:** Algorithmic strategies are welcome, as long as they follow the spirit and letter of the rules.
-* **Genuine trading activity:** All authentic, non-collusive trading counts toward your standings across both leaderboards.
-
-### Leaderboard Updates
-
-The competition leaderboards will be updated regularly (in real-time on the platform's dashboard) so participants can track their standings throughout the competition.
-
-### Reward Distribution
-
-Winners will be announced after the trading competition closes. At that time, instructions will be provided on how to receive rewards. Prize payouts will be distributed within a reasonable timeframe after the competition closes. If there are less qualified participants than prizes available as determined in Sai's team's sole discretion, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
-
-## Eligibility & Legal Requirements
-
-### Who Can Participate?
-
-**How to Enter:** Any user of the Sai platform is automatically entered into the competition.
-
-**Participant Eligibility:** The competition is open to all traders who are at least **18 years of age** and not residents of restricted jurisdictions (as set forth in Sai's [Terms of Use](https://docs.sai.fun/resources/legal/terms-of-use)). Traders from the **United States or other sanctioned regions are NOT eligible** to participate. By entering, participants confirm they are abiding by all local laws and the platform's terms of use.
-
-**Competition Duration:** The competition will start at 00:00 UTC on April 22, 2026 and end at 23:59 UTC on May 20, 2026.
-
-By entering the competition, you confirm that:
-
-* You are of legal age to participate
-* No jurisdiction with authority over you prohibits your participation
-* You understand and accept Sai's Terms of Use and Privacy Policy
-
-### Risk Acknowledgment
-
-**Participation is at User's Own Risk:** Trading, especially perps trading, is inherently risky. Your participation in this competition is at your own risk. You disclaim and release any claims from any legal action taken by or upon you through your use of the Sai platform. Sai is not responsible in any way for loss of assets or value. If you are not experienced with similar trading platforms, you should not participate. Even experienced users may lose all of their cryptocurrency assets or value.
-
-### Tax & Legal Responsibility
-
-**You Are Responsible for Your Own Legal and Tax Situation:** You understand, acknowledge, and agree that you are responsible for any tax or legal issues that result in your participation in the competition. In participating, you represent that no jurisdiction with authority prohibits your participation.
-
-### Terms of Use and Privacy Policy
-
-**Sai's Terms of Use and Privacy Policy Apply:** If you do not agree to Sai's Terms of Use and Privacy Policy, then you must not participate in the competition. Sections 21 to 25 of Sai's Terms of Use (INDEMNIFICATION, GOVERNING LAW & JURISDICTION, ARBITRATION; CLASS ARBITRATION WAIVER, LIMITATION ON TIME TO FILE CLAIMS, AND WAIVER & SEVERABILITY) specifically are incorporated by reference herein and apply to this competition.
-
-### Agreement Supersession
-
-**These Terms Supersede Promotional Statements:** These terms, along with the Sai Terms of Use and Privacy Policy, are the only agreement between us and you. Promotional statements by any party do not constitute an agreement.
-
-## Sai's Authority
-
-**Sai is Sole Decision Maker:** Sai reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. Sai reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of Sai, and any other conduct that Sai considers inappropriate or unacceptable. All decisions of Sai shall be final.
-
-**Integrity and Auditing:** Sai's team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness. This policy is essential to maintain a level playing field and uphold the integrity of the competition.
-
-**Important Note:** If there are less qualified participants than prizes available, then all qualifying participants shall earn a prize, and Sai's team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed. Prizes are intended to reward competitive participation, not guaranteed regardless of turnout.
+* **How to Enter**: Any user of the SAI platform is automatically entered into the competition.
+* **Participant Eligibility:** The competition is open to all traders who are at least 18 years of age and not residents of restricted jurisdictions (as set forth in Sai’s Terms of Use:  <https://docs.sai.fun/resources/legal/terms-of-use>. Traders from the United States or other sanctioned regions are NOT eligible to participate. By entering, participants confirm they are abiding by all local laws and the platform’s terms of use.
+* **Competition Duration**: The competition will start on 00:00 UTC and ends at 23:59 UTC on the dates prescribed.
+* **Unique Accounts Only:** Each individual may participate with one account. Any form of sybil attack (using multiple accounts by the same person) is strictly prohibited. Only genuine, unique user accounts will be eligible for prizes.
+* **No Wash Trading or Fake Volume:** Wash trading, self-dealing, or any fake volume generation is forbidden. Trades must reflect authentic market activity. Self-trades or coordinated trades between colluding accounts to inflate volume or PNL will result in immediate disqualification. The platform will monitor trade patterns and reserves the right to disqualify and/or ban any accounts showing abusive behavior.
+* **No Bot Manipulation:** While algorithmic trading isn’t outright banned, any malicious bot-driven manipulation of the competition is prohibited. Fair-use trading bots are allowed, but if they are detected to engage in the above forbidden tactics, those trades will be void.
+* **Minimum Holding Time:** For the volume minimum, a minimum position holding time (e.g. at least 10-20 minutes) may be required for a trade to qualify. This discourages instantaneous round-trip trades purely to inflate volume.
+* **Minimum PNL**:  For PNL competitions, the minimum profit that must be achieved to qualify to be a winner is $100.
+* **Leaderboard Updates:** The competition leaderboards will be updated regularly (e.g., daily or in real-time on the platform’s dashboard) so participants can track their standings.
+* **Reward Distribution:** Winners will be announced after the trading competition closes. At that time, instructions will be provided on how to receive rewards. Prize payouts will be distributed within a reasonable timeframe **after the competition closes.** If there are less qualified participants than prizes available as determined in the Sai’s team’s sole discretion, then all qualifying participants shall earn a prize, and Sai’s team reserves the right to distribute the prizes to the next most qualified participants, or not at all, as it sees fit. Thus, if an insufficient number of qualified people participate, it is possible that the entirety of the planned prize pools are not distributed.
+* **Integrity and Auditing**: Sai’s team will closely monitor the competition. Any participant found engaging in prohibited behavior (sybil attacks, wash trading, etc.) will be immediately disqualified and forfeit any rewards. The organizers reserve the right to audit trading activity and adjust or remove suspicious entries to ensure fairness. This policy is essential to maintain a level playing field and uphold the integrity of the competition.
+* **Participation is at User’s Own Risk**: Trading, especially perps trading, is inherently risky. Your participation in this competition is at your own risk. You disclaim and release any claims from any legal action taken by or upon you through your use of the Sai platform. Sai is not responsible in any way for loss of assets or value. If you are not experienced with similar trading platforms, you should not participate. Even experienced users may lose all of their cryptocurrency assets or value.
+* **Sai is Sole Decision Maker**:  Sai reserves the right to disqualify any participant for not following the spirit or the letter of the rules of this competition. Sai reserves the sole and absolute right to disqualify any participant that it deems ineligible for participation for any reason at its sole discretion. This includes, but is not limited to, violating these rules, the terms and conditions of Sai and any other conduct that Sai consideres inappropriate or unacceptable. All decisions of Sai shall be final.
+* **You Are Responsible for Your Own Legal and Tax Situation:**  You understand, acknowledge, and agree that you are responsible for any tax or legal issues that result in your participation in the competition. In participating, you represent that no jurisdiction with authority prohibits your participation.
+* **Sai’s Terms of Use and Privacy Policy Apply**:  If you do not agree to Sai’s Terms of Use and Privacy Policy, then you must not participate in the competition. Sections 21 to 25 of SAI’s Terms of Use (INDEMNIFICATION, GOVERNING LAW & JURISDICTION, ARBITRATION; CLASS ARBITRATION WAIVER, LIMITATION ON TIME TO FILE CLAIMS, AND WAIVER & SEVERABILITY) specifically are incorporated by reference herein and apply to this competition.
+* **These Terms Supersede Promotional Statements:** These terms, along with the Sai Terms of Use and Privacy Policy, are the only agreement between us and you. Promotional statements by any party do not constitute an agreement.
 
 ## FAQ
 
