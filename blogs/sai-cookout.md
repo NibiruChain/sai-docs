@@ -38,15 +38,15 @@ The Main Event rewards the top traders based on cumulative realized profits acro
 | Rank       | Title         | Per Trader             | Tier Total | % of Pool |
 | ---------- | ------------- | ---------------------- | ---------- | --------- |
 | 1st        | Head Chef     | $800                   |            | 20.0%     |
-| 2nd        | Sous Chef     | $520                   |            | 13.0%     |
-| 3rd        | Pastry Chef   | $360                   |            | 9.0%      |
-| 4th        | Saucier       | $260                   |            | 6.5%      |
+| 2nd        | Sous Chef     | $500                   |            | 12.5%     |
+| 3rd        | Pastry Chef   | $350                   |            | 8.75%     |
+| 4th        | Saucier       | $250                   |            | 6.25%     |
 | 5th        | Grill Master  | $200                   |            | 5.0%      |
-| **Top 5**  |               |                        | **$2,140** | **53.5%** |
-| 6th–10th   | Line Cooks    | $120 each              | $600       | 15.0%     |
-| 11th–15th  | Prep Cooks    | $80 each               | $400       | 10.0%     |
-| 16th–20th  | Dishwashers   | $60 each               | $300       | 7.5%      |
-| 21st–25th  | Taste Testers | $112 each (incl. fees) | $560       | 14.0%     |
+| **Top 5**  |               |                        | **$2,100** | **52.5%** |
+| 6th–10th   | Line Cooks    | $140 each              | $700       | 17.5%     |
+| 11th–15th  | Prep Cooks    | $100 each              | $500       | 12.5%     |
+| 16th–20th  | Dishwashers   | $80 each               | $400       | 10.0%     |
+| 21st–25th  | Taste Testers | $60 each (incl. fees)  | $300       | 7.5%      |
 | **Total**  |               |                        | **$4,000** | **100%**  |
 
 ## The Side Pot - Perps Stock Markets
