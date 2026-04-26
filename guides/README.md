@@ -62,7 +62,7 @@ In the meantime, please [follow Sai on X](https://x.com/saidotfun) to help suppo
     </tr>
     <tr>
       <td><strong>Sai Referral</strong></td>
-      <td>Earn rewards and save on fees with Sai's referral program - invite traders and receive commissions</td>
+      <td>Earn rewards and save on fees with Sai's referral program - invite traders and receive rewards</td>
       <td><a href="referral.md">referral.md</a></td>
     </tr>
   </tbody>
