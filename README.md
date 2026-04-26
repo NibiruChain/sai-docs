@@ -48,21 +48,6 @@ Master the fundamentals of trading on Sai and understand how the platform works.
   </tbody>
 </table>
 
-## SKILL: Gitbook Preview
-
-Use this when editing Markdown docs and you need a quick local preview without adding package scripts or dependency files to the repo.
-
-**Command**
-
-- Run `bunx --bun docsify-cli@4.4.4 serve . -p 4000 -i README.md` from the repo root.
-- Open `http://localhost:4000/`.
-
-**Notes**
-
-- `docsify-cli@4.4.4` is the version confirmed to serve this repo's `README.md` preview.
-- The `-i README.md` flag is required because this repo does not have a checked-in `index.html`.
-- This is a lightweight preview for Markdown editing. GitBook-specific blocks and production rendering are still handled by GitBook.
-
 ### Trading Fundamentals
 
 <table data-view="cards">
