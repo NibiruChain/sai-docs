@@ -1,34 +1,54 @@
 ---
 icon: comment-dollar
 ---
-# Fees Module
+# Fees on Sai
 
-The **Fees Module** is a core component of the perpetual futures trading system. It calculates fees for opening and closing trades, manages fee tiers, implements a referral system, and distributes fees to various parties.
+Sai charges some of the lowest trading fees in the perpetual futures market.
+Taker fees start at a 0.05% base rate, and no fee is taken out for
+deposits or withdrawals. When factoring in zero gas costs and available
+discounts, Sai is one of the most competitive exchanges for active futures
+traders.
+
+<!-- The **Fees Module** is a core component of the perpetual futures trading system. It calculates fees for opening and closing trades, manages fee tiers, implements a referral system, and distributes fees to various parties. -->
+
+## Trading Fee Reference
+
+| Fee Type | Rate | Description |
+|----------|------|-------------|
+| Taker Fee | 0.05% (Base Rate) | Charged on the total position size for taker orders. |
+| Taker Fee with Referall | 0.0425%  | The default and minimum referral code discount on Sai is 15% of of trading fees. |
+| Gas Fees for Trading | 0 (Free) | Always zero on Sai's L1, Nibiru. |
+| Trigger Fee | 0.01%  | Charged only on automated orders (Limit, Stop Loss, Take Profit) to pay for the execution cost. |
+| Deposits & Withdrawals | 0 (*) | Always zero on Sai's L1, Nibiru. However, gas is required to bridge before depositing.  |
+| Maker Fee | 0 (Free) | No fee is charged for maker orders. |
+
+Standard trading fees are calculated based on your total **position size** (leverage × collateral), not just your wallet balance.
+
+#### Contents
+- [Fees on Sai](#fees-on-sai)
+- [Trading Fee Reference](#trading-fee-reference)
+- [Key Concepts](#key-concepts)
+- [Where Fees are Distributed](#where-fees-are-distributed)
+- [Fee Lifecycle](#fee-lifecycle)
+  - [1. Opening a Trade](#1-opening-a-trade)
+  - [2. Closing a Trade](#2-closing-a-trade)
+- [Liquidation Mechanics](#liquidation-mechanics)
+  - [Key Difference: Collateral vs. Position](#key-difference-collateral-vs-position)
+  - [The Liquidation Penalty](#the-liquidation-penalty)
+  - [Priority of Payments (The "Waterfall")](#priority-of-payments-the-waterfall)
+  - [Liquidation Example](#liquidation-example)
+- [Insufficient Collateral](#insufficient-collateral)
 
 ## Key Concepts
 
-### Fee Structure
-
-* **Base Fees:** Every trade has base percentages for opening, closing, and conditional (trigger) orders.
+* **Base Fees:** Every trade has base percentages for taker, maker, and conditional (trigger) orders.
 * **Fee Multipliers:** The base fees are adjusted by two multipliers:
   1. **Tier-based:** High-volume traders earn points, which unlock a lower fee multiplier.
   2. **Referral:** Referred traders receive a discount multiplier.
 * **Effective Multiplier:** The lowest of the applicable multipliers is used to calculate the final fee.
 * **Liquidation Fees:** These are a fixed percentage of the collateral and are not subject to the multipliers.
 
-## Trading Fee Schedule
-
-### Standard Trading Fees
-
-Standard trading fees are calculated based on your total **Position Size** (Leverage × Collateral), not just your wallet balance.
-
-| Fee Type | Rate | Description |
-|----------|------|-------------|
-| Open Fee | 0.10% (10 bps) | Charged on the total position size when you enter a trade. |
-| Close Fee | 0.10% (10 bps) | Charged on the total position size when you exit a trade. |
-| Trigger Fee | 0.01% (1 bp) | Charged only on automated orders (Limit, Stop Loss, Take Profit) to pay for the execution cost. |
-
-### Fee Distribution
+## Where Fees are Distributed
 
 * **The Vault (LPs):** Receives 25% of all Closing Fees to support platform stability and reward Liquidity Providers for their risk.
 * **The Protocol (Gov):** Receives the remaining 75% of Closing Fees and 100% of Open Fees. A portion of these fees is allocated to a pool for governance stakers.
@@ -54,22 +74,27 @@ When a user closes a trade, fees are handled differently depending on whether it
 
 ## Liquidation Mechanics
 
-Liquidation occurs when your collateral drops too low to support your position size. The protocol must force-close the trade to prevent bad debt.
+Liquidation occurs when your remaining collateral can no longer safely support
+your open position. At that point, the protocol force-closes the trade to
+protect the vault from bad debt.
 
 ### Key Difference: Collateral vs. Position
 
-Unlike standard trading fees (which are based on position size), Liquidation Fees are calculated based on your **Remaining Collateral**.
+Standard trading fees are based on position size. Liquidation fees are different:
+they are calculated from your **remaining collateral** at the time the position is
+liquidated. Fee-tier and referral discounts do not apply.
 
 ### The Liquidation Penalty
 
-If you are liquidated, the protocol seizes your remaining collateral. From this collateral, a **10% penalty** is deducted and distributed as follows:
+When a position is liquidated, a **10% liquidation penalty** is applied to the
+remaining collateral. The penalty is split into two equal components:
 
 1. **Closing Component (5% of Collateral):**
-   * Covers the cost of the vault closing the position.
+   * Compensates the system for closing the position.
    * Split: 20% goes to the Vault; 80% goes to the Protocol.
 
 2. **Trigger Component (5% of Collateral):**
-   * Rewards the entity that flagged and executed the liquidation.
+   * Rewards the liquidator or keeper that triggered the liquidation.
    * Split: 20% goes to the Liquidator; 80% goes to the Protocol.
 
 ### Priority of Payments (The "Waterfall")
@@ -89,8 +114,49 @@ You are liquidated while you have $100 of collateral remaining.
   * $1.00 goes to the Vault (20% of the Closing portion).
   * $1.00 goes to the Liquidator (20% of the Trigger portion).
   * $8.00 goes to the Protocol.
-* **Outcome:** The fees are paid, and the remaining collateral ($90) is seized by the protocol (added to government fees/insurance). Your collateral is zeroed.
+* **Outcome:** The liquidation fee is paid from your remaining collateral. The
+  rest of your collateral is used to settle the forced closure, and your position
+  collateral is zeroed.
 
 ## Insufficient Collateral
 
-If a trader's collateral is not sufficient to cover fees and losses, the fees are still accounted for in the internal ledgers (e.g., for governance and referrers) but are not physically transferred from the trader's collateral. The losses are absorbed by the Protocol Vault.
+If a trader's collateral is not sufficient to cover fees and losses, the fees are
+still accounted for in the internal ledgers (e.g., for governance and referrers)
+but are not physically transferred from the trader's collateral. The losses are
+absorbed by the Protocol Vault.
+
+## Verifying Info Onchain
+
+### Claim: Default referral code discount on trading is 15%.
+
+Query the perp contract's raw state for the storage key,
+"referree_base_fee_multiplier": 
+```
+# Sai Mainnet Perp Smart Contract
+PERP='nibi1ntmw2dfvd0qnw5fnwdu9pev2hsnqfdj9ny9n0nzh2a5u8v0scflq930mph'
+NODE='https://rpc.nibiru.fi:443'
+
+KEY_HEX="$(printf referree_base_fee_multiplier | xxd -p -c 256)"
+
+nibid query wasm contract-state raw "$PERP" "$KEY_HEX" \
+  --node "$NODE" \
+  --output json
+```
+
+Result:
+```js
+{"data":"IjAuMTUi"}
+```
+
+Then decode the base64 value:
+```bash
+printf 'IjAuMTUi' | base64 -d
+```
+
+Output:
+```
+"0.15"
+```
+
+The storage item is the referral discount amount. Here "0.15" means a 15%
+discount.
