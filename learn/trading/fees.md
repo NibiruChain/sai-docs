@@ -16,7 +16,7 @@ traders.
 | Fee Type | Rate | Description |
 |----------|------|-------------|
 | Taker Fee | 0.05% (Base Rate) | Charged on the total position size for taker orders. |
-| Taker Fee with Referall | 0.0425%  | The default and minimum referral code discount on Sai is 15% of of trading fees. |
+| Taker Fee with Referral | 0.0425%  | The default and minimum referral code discount on Sai is 15% of trading fees. |
 | Gas Fees for Trading | 0 (Free) | Always zero on Sai's L1, Nibiru. |
 | Trigger Fee | 0.01%  | Charged only on automated orders (Limit, Stop Loss, Take Profit) to pay for the execution cost. |
 | Deposits & Withdrawals | 0 (*) | Always zero on Sai's L1, Nibiru. However, gas is required to bridge before depositing.  |
@@ -129,8 +129,8 @@ absorbed by the Protocol Vault.
 
 ### Claim: Default referral code discount on trading is 15%.
 
-Query the perp contract's raw state for the storage key,
-"referree_base_fee_multiplier": 
+Query the perp contract's raw state for the storage key
+`referree_base_fee_multiplier`:
 ```
 # Sai Mainnet Perp Smart Contract
 PERP='nibi1ntmw2dfvd0qnw5fnwdu9pev2hsnqfdj9ny9n0nzh2a5u8v0scflq930mph'
