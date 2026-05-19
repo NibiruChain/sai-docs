@@ -56,17 +56,17 @@ The Side Pot runs in parallel to the main leaderboard and rewards traders who ge
 **Timeline:** April 22nd → May 20th (~4 weeks)\
 **Prize Pool:** Up to $1,000
 
-### Top 20 Distribution
+### Top 10 Distribution
 
-| Rank       | Title        | Per Trader            | Tier Total | % of Pool |
-| ---------- | ------------ | --------------------- | ---------- | --------- |
-| 1st        | Iron Chef    | $250                  |            | 25.0%     |
-| 2nd        | Wok Star     | $162                  |            | 16.2%     |
-| 3rd        | Hibachi King | $113                  |            | 11.3%     |
-| 4th–5th    |              | $75 each              | $150       | 15.0%     |
-| **Top 5**  |              |                       | **$675**   | **67.5%** |
-| 6th–10th   |              | $65 each              | $325       | 32.5%     |
-| **Total**  |              |                       | **$1,000** | **100%**  |
+| Rank       | Title             | Per Trader            | Tier Total | % of Pool |
+| ---------- | ----------------- | --------------------- | ---------- | --------- |
+| 1st        | Iron Chef         | $250                  |            | 25.0%     |
+| 2nd        | Wok Star          | $162                  |            | 16.2%     |
+| 3rd        | Hibachi King      | $113                  |            | 11.3%     |
+| 4th–5th    | Stock Cook        | $75 each              | $150       | 15.0%     |
+| **Top 5**  |                   |                       | **$675**   | **67.5%** |
+| 6th–10th   | Short Order Cooks | $65 each              | $325       | 32.5%     |
+| **Total**  |                   |                       | **$1,000** | **100%**  |
 
 ## How Scoring Works
 
