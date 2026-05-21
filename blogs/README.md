@@ -29,6 +29,9 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 > 🏆 [**Sai Cookout: $5,100 Prize Pool**](sai-cookout.md)\
 > Month-long competition (Apr 22 - May 20, 2026) with three ways to win across all Sai markets.
 
+> 🗺️ [**Sai Roadmap Q2 - Q3 '26**](sai-roadmap-q2-q3-26.md)\
+> Mobile app, fiat on-ramp, expanded trading tools, and growth initiatives for Q2–Q3 2026.
+
 ***
 
 ## Subscribe to Updates
