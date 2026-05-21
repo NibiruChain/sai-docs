@@ -124,7 +124,6 @@ This means Biggest Loser eligibility is entirely independent of whether a trader
 
 ### Rules
 
-* Minimum net realized loss: $500
 * Must be the single largest net realized loser
 * Minimum 10 round-trip trades
 * No single trade blow-ups — losses must come from sustained trading activity, not a single outsized trade designed to game the consolation prize
@@ -177,11 +176,11 @@ Yes. Perps Stock PnL counts toward both the Main Event leaderboard and the Stock
 
 **What's the minimum PnL to earn rewards?**
 
-You need **more than $50 in realized PnL** (peak cumulative realized profit) to qualify for either the Main Event or the Stock Side Pot. Traders at or below that threshold won't appear on the leaderboards. The Biggest Loser track is the only one that rewards losses, and it requires a minimum net realized loss of $500 and at least 10 round-trip trades.
+You need **more than $50 in realized PnL** (peak cumulative realized profit) to qualify for either the Main Event or the Stock Side Pot. Traders at or below that threshold won't appear on the leaderboards. The Biggest Loser track is the only one that rewards losses — it goes to the trader with the most net negative realized PnL, and requires at least 10 round-trip trades.
 
 **How is the Biggest Loser scored differently from the main leaderboards?**
 
-The profit leaderboards use peak cumulative realized profit — your score references your highest high and never goes down. The Biggest Loser track is completely separate and uses **net negative realized PnL** over the full competition window. So a trader who profited $1,000 and then lost $2,000 would have a Main Event score frozen at $1,000 (if they qualified) and a Biggest Loser score of -$1,000.
+The profit leaderboards use peak cumulative realized profit — your score references your highest high and never goes down. The Biggest Loser track is completely separate and uses **net negative realized PnL** over the full competition window. So a trader who profited $1,000 and then lost $2,000 would have a Main Event score frozen at $1,000 (if they qualified) and a Biggest Loser score of -$1,000. The prize goes to the single user with the largest net realized losses, provided they completed at least 10 round-trip trades.
 
 **Can I use a trading bot?**
 
