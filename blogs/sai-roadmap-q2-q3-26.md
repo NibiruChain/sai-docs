@@ -19,12 +19,12 @@ The priorities cluster around three themes: (1) shipping a native mobile app tha
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802040.jpg
+        ../.gitbook/assets/blog_7/0000_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802040.jpg"
+      src="../.gitbook/assets/blog_7/0000_roadmap.jpg"
       alt="Mobile App"
     />
   </picture>
@@ -42,12 +42,12 @@ A native iOS and Android app. Most retail perp volume happens on mobile. The app
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802038.jpg
+        ../.gitbook/assets/blog_7/0001_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802038.jpg"
+      src="../.gitbook/assets/blog_7/0001_roadmap.jpg"
       alt="Fiat On-ramp"
     />
   </picture>
@@ -65,12 +65,12 @@ Getting capital into Sai requires existing crypto, that typically lives onchain 
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802065.jpg
+        ../.gitbook/assets/blog_7/0002_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802065.jpg"
+      src="../.gitbook/assets/blog_7/0002_roadmap.jpg"
       alt="Platform Feature Expansion"
     />
   </picture>
@@ -82,12 +82,12 @@ Sai gains four high-impact trading features and a developer-facing surface. Toge
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802039.jpg
+        ../.gitbook/assets/blog_7/0003_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802039.jpg"
+      src="../.gitbook/assets/blog_7/0003_roadmap.jpg"
       alt="Platform Features"
     />
   </picture>
@@ -111,12 +111,12 @@ Distribution and retention initiatives that compound the product launches above.
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802036.jpg
+        ../.gitbook/assets/blog_7/0004_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802036.jpg"
+      src="../.gitbook/assets/blog_7/0004_roadmap.jpg"
       alt="Nibiru NFT"
     />
   </picture>
@@ -128,12 +128,12 @@ Distribution and retention initiatives that compound the product launches above.
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802066.jpg
+        ../.gitbook/assets/blog_7/0005_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-document-1-4911404525857802066.jpg"
+      src="../.gitbook/assets/blog_7/0005_roadmap.jpg"
       alt="Points Program"
     />
   </picture>
@@ -145,12 +145,12 @@ Distribution and retention initiatives that compound the product launches above.
   <picture>
     <source
       srcset="
-        ../.gitbook/assets/blog_7/telegram-cloud-photo-size-1-4911404526317800479-y.jpg
+        ../.gitbook/assets/blog_7/0006_roadmap.jpg
       "
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="../.gitbook/assets/blog_7/telegram-cloud-photo-size-1-4911404526317800479-y.jpg"
+      src="../.gitbook/assets/blog_7/0006_roadmap.jpg"
       alt="Trading Competitions"
     />
   </picture>
