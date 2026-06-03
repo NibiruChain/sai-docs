@@ -13,17 +13,17 @@ The priorities cluster around three themes: (1) bringing Sai to mobile with full
 
 ### **Strategic Priorities**
 
-### **1. Mobile Experience**
+### **1 - Mobile Experience**
 
 The first priority is making Sai fully accessible on mobile. Starting with wallet browser support, traders will be able to access Sai through popular wallet browsers like Base Wallet, MetaMask, and Trust Wallet. This means you can trade directly from your wallet without needing to open a separate browser.
 
 Following that, a native iOS and Android app is in development. The native app will include a shared design system across iOS and Android, the full trading flow including markets, position management, deposits and withdrawals, and push notifications for fills, liquidations, funding, and price alerts.
 
-### 2. Multichain Trades
+### 2 - Multichain Trades
 
 Deposit and trade directly from Base, Ethereum, and other EVM-compatible chains using a single account, with no bridging required. You sign a transaction from the chain where your capital already lives, and Sai handles the rest behind the scenes.
 
-### **3. Platform Feature Expansion**
+### **3 - Platform Feature Expansion**
 
 <figure><img src="../../.gitbook/assets/Slide 3 Platform Expansion (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Sai gains several high-impact trading features and a developer-facing surface. T
 * Sai MCP: A Model Context Protocol server so Claude and other agents can read markets, manage positions, and place orders on Sai programmatically
 * Sai Trading Bot: Easy integration with third-party applications like Telegram, Discord, and X to allow users to access to Sai’s engine with an application’s dedicated interface.
 
-### **4. Fiat On-ramp & Card Funding**
+### **4 - Fiat On-ramp & Card Funding**
 
 <figure><img src="../../.gitbook/assets/Slide 2 Fiat Ramp (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@ Getting capital into Sai requires existing crypto, that typically lives onchain 
 * Credit and debit card funding directly into a user's Sai account. To also explore services that will enable Apple and Google Pay
 * Embedded in both web and mobile app for a single funding experience
 
-### **5. Growth & Marketing**
+### **5 - Growth & Marketing**
 
 <figure><img src="../../.gitbook/assets/Slide 6 Points Program v2.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ Distribution and retention initiatives that compound the product launches above.
 
 NFT holders may earn boosted points, reduced fees, and more benefits. Top points earners and competition winners get whitelist access to future drops.
 
-### Forward-Facing Initiatives
+### 6 - Forward-Facing Initiatives
 
 The items above are the current priority. The initiatives below may be incorporated into scope depending on bandwidth and capacity. The team continues to evaluate market conditions, and AI-based solutions are a growing focus that will keep moving up this list.
 
