@@ -51,7 +51,7 @@
   * [Let's Go Saicho: Rewards](/blogs/lets-go-saicho-rewards.md)
   * [Sai Launches Stock Trading on Perps](/blogs/stock-perps-launch.md)
   * [Sai Cookout](/blogs/sai-cookout.md)
-  * [Sai Roadmap Q2 - Q3 '26](/blogs/sai-roadmap-q2-q3-26.md)
+  * [Sai 2026 Roadmap](/blogs/sai-2026-roadmap.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Sai Disclosures](legal/disclosures.md)
