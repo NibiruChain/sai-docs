@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to Sai](./README.md)
+* [Intro to Sai](README.md)
 * [Learn | About Sai](learn/README.md)
   * [Trading on Sai](learn/trading/README.md)
     * [Executing Trades](learn/trading/executing-trades.md)
@@ -14,7 +14,7 @@
   * [Wallet Setup](guides/wallet-setup.md)
   * [Acquiring Collateral](guides/acquiring-collateral.md)
   * [Choosing a Market](guides/choosing-market.md)
-  * [Sai Referral Program](/guides/referral.md)
+  * [Sai Referral Program](guides/referral.md)
 
 ## For Devs
 
@@ -46,11 +46,12 @@
 * [Community](community.md)
 * [Blog](blogs/README.md)
   * [Intro to Sai](blogs/intro-to-sai.md)
+  * [Sai 2026 Roadmap](resources/blogs/sai-roadmap.md)
   * [Let's Go Saicho](blogs/lets-go-saicho.md)
   * [SaiClone Ambassador Program](blogs/saiclone-ambassador.md)
-  * [Let's Go Saicho: Rewards](/blogs/lets-go-saicho-rewards.md)
-  * [Sai Launches Stock Trading on Perps](/blogs/stock-perps-launch.md)
-  * [Sai Cookout](/blogs/sai-cookout.md)
+  * [Let's Go Saicho: Rewards](blogs/lets-go-saicho-rewards.md)
+  * [Sai Launches Stock Trading on Perps](blogs/stock-perps-launch.md)
+  * [Sai Cookout](blogs/sai-cookout.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Sai Disclosures](legal/disclosures.md)
