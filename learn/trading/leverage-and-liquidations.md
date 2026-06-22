@@ -24,12 +24,25 @@ Leverage is the ratio of your _position size_ to the _collateral_ you deposit.
 
 **How to Set Leverage**
 
-1. **Open a Trade**: Select your desired leverage (e.g., 3x, 5x, 100x) in the Sai UI.
+1. **Open a Trade**: Select your desired leverage (e.g., 3x, 5x, or another value allowed by that market) in the Sai UI.
 2. **Review Position Size**: Confirm the total notional value of your trade.
 3. **Check Liquidation Price**: The UI estimates your liquidation price; higher leverage brings the liquidation price closer to the current market price.
 4. **Update Leverage Later**: By adding or removing collateral, you can increase or decrease your effective leverage.
 
 > **Note**: Every increase in leverage comes with greater exposure to market swings and potentially higher borrowing fees.
+
+### Market-Specific and After-Hours Limits
+
+Each market has its own minimum and maximum leverage. The UI shows the available
+range for the market and collateral you are trading.
+
+Some scheduled markets also have an **after-hours effective leverage cap**. If a
+live position is carried through a scheduled market close, Sai can reduce the
+position's effective leverage to that lower cap. This reduces the position size
+used for risk, PnL, and liquidation checks. It does not add collateral to the
+trade.
+
+Read [After-Hours Leverage](after-hours-leverage.md) for the full behavior.
 
 ### Leverage Examples
 
@@ -93,7 +106,7 @@ Sai uses a *maintenance margin* requirement, typically a small portion of your i
 ### 5. FAQ
 
 **Q: What is the maximum leverage I can use in Sai?**\
-A: Each market (e.g., BTC-PERP, ETH-PERP) has its own max leverage, displayed in the UI. Values like 10x, 20x, or 50x depend on that market’s risk parameters.
+A: Each market (e.g., BTC-PERP, ETH-PERP) has its own max leverage, displayed in the UI. Values like 10x, 20x, or 50x depend on that market's risk parameters. Scheduled markets can also have a lower after-hours effective leverage cap for positions carried through a market close.
 
 **Q: How do I know if I’m near liquidation?**\
 A: Check your margin ratio and the displayed liquidation price in the position details. If the market price is near or past the liquidation price, a forced close can happen any moment.

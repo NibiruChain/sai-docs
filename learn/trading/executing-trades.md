@@ -26,7 +26,8 @@ icon: up-right-from-square
 2. **Select a side**
    * E.g., long/short
 3. **Select Leverage**
-   * Type your desired multiple (1x–100x, subject to max).
+   * Type your desired multiple. The allowed range depends on the market.
+   * For scheduled markets, high leverage can be reduced later by the after-hours effective leverage cap if the position is carried through a market close.
 4. **Enter Order Type**
    * Market or set a limit/stop price.
 5. **Confirm**

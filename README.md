@@ -66,8 +66,13 @@ Master the fundamentals of trading on Sai and understand how the platform works.
     </tr>
     <tr>
       <td><strong>Leverage and Liquidations</strong></td>
-      <td>Understand how leverage works and how to manage liquidation risks effectively</td>
+      <td>Understand leverage, after-hours caps, and liquidation risk management</td>
       <td><a href="learn/trading/leverage-and-liquidations.md">leverage-and-liquidations.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>After-Hours Leverage</strong></td>
+      <td>Learn how Sai reduces carried leverage on scheduled markets after a market close</td>
+      <td><a href="learn/trading/after-hours-leverage.md">after-hours-leverage.md</a></td>
     </tr>
     <tr>
       <td><strong>Fees</strong></td>
@@ -213,7 +218,7 @@ Build on Sai with comprehensive technical documentation, API references, and int
 
 - **Oracle settlement**: Simple and easy price behavior so there's no internal surprises. We rely on a combination of Nibiru's Oracle, which aggregates prices from leading exchanges like Binance, Bybit, and OKX through Nibiru's decentralized validator network, and custom feeds for certain markets.
 
-- **Leverage**: Amplify your exposure with up to 100x leverage (exact max set by each market and pairs).
+- **Leverage**: Amplify your exposure with market-specific leverage limits. Scheduled markets can apply a lower after-hours effective cap to positions carried across a market close.
 
 - **Simple On-Chain Experience**: Manage everything in one intuitive UI, leveraging one click trading, automated order triggering, etc.
 

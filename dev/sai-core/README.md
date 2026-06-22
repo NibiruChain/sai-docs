@@ -14,7 +14,7 @@ description: >-
 * **`perp` (Perpetuals trading core)**:
   * Maintains markets, positions, margin, and liquidations.
   * Calculates execution price with price impact, applies trading/borrowing/funding fees, and updates PnL.
-  * Enforces risk constraints (maintenance margin, max leverage, funding payments).
+  * Enforces risk constraints (maintenance margin, max leverage, after-hours leverage controls, funding payments).
   * Entry points (conceptually): open/close position, modify collateral, place/execute orders, liquidate under-margined positions.
   * Reads prices from `oracle`, collects/streams fees, and settles PnL against `vault`.
 * **EVM interface (`PerpVaultEvmInterface.sol`)**:
@@ -58,7 +58,7 @@ description: >-
 #### **Access and safety**
 
 1. Ownership/roles restrict sensitive ops: oracle price updates, mint permissions, parameter changes.
-2. `perp` enforces invariants (max leverage, min maintenance, fee bounds).
+2. `perp` enforces invariants (max leverage, after-hours effective leverage, min maintenance, fee bounds).
 3. `vault` enforces epoch rules and share/accounting correctness.
 4. Cross-VM calls are designed to avoid re-entrancy and maintain atomic accounting on state-changing operations.
 

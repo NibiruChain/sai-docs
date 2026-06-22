@@ -8,6 +8,7 @@ description: An in-depth look at the Sai Perp (perpetual futures) contract imple
 * **Borrowing logic** is described thoroughly here in the [Perp: Borrowing Module](perp-borrowing.md) specification.
 * **Fees logic** is described thoroughly in [./fees/README.md](../../sai-core/smart-contracts/src/fees/).
 * **Price impact** logic is described thoroughly in [Perp: Price Impact Module](perp-price-impact.md).
+* **After-hours leverage** controls are described in [Perp: After-Hours Leverage](after-hours-leverage.md).
 
 ***
 
@@ -43,6 +44,7 @@ This contract implements **perpetual futures** trading features in CosmWasm. It 
 * **Limit** and **stop** orders for trade entry.
 * Dynamic **stop-loss (SL)** and **take-profit (TP)** updates.
 * **Partial** position modifications (increase or decrease collateral/leverage).
+* Scheduled-market **after-hours leverage** controls for live positions carried through a market close.
 * Automatic **borrowing fee** accrual (see [Borrowing Reference](perp-contract.md#borrowing-reference)).
 * Dynamic **fee** calculations (see [Fees Reference](perp-contract.md#fees-reference)).
 * **Price impact** adjustments based on open interest (see [Price Impact Reference](perp-contract.md#price-impact-reference)).
@@ -60,7 +62,7 @@ Key files and folders relevant to this contract:
   * Defines public `ExecuteMsg` messages for external users.
   * Defines admin messages (`AdminExecuteMsg`) for privileged ops.
 * **`./trade.rs`**, **`./update_position_size.rs`**, **`./exec_update_leverage.rs`**
-  * Main **trade** management logic: open/close trades, partial close, update SL/TP, etc.
+  * Main **trade** management logic: open/close trades, partial close, update SL/TP, leverage updates, and after-hours risk normalization.
 * **`./borrowing/`**
   * [**Reference** here](../../sai-core/smart-contracts/src/borrowing/).
   * Borrowing data structures, open-interest tracking, and fee accrual.
@@ -145,7 +147,7 @@ User commands are in [`./msgs.rs`](../../sai-core/smart-contracts/src/msgs.rs). 
 * **`UpdateOpenLimitOrder { trade_index, price, tp, sl, slippage_p }`**\
   Edits the price or SL/TP for a limit order that hasn't become a live position yet.
 * **`TriggerTrade { trader: String, trade_index: UserTradeIndex, order_type: PendingOrderType }`**\
-  Activates a limit/stop/TP/SL/liq order if conditions are met.
+  Activates a limit/stop/TP/SL/liq order if conditions are met. The contract can also route this into after-hours leverage normalization for eligible carried positions.
 * **`UpdateLeverage { trade_index, new_leverage }`**\
   Adjusts leverage on an existing position (increasing or decreasing collateral).
 * **`IncreasePositionSize`** / **`DecreasePositionSize`**\
@@ -156,6 +158,7 @@ User commands are in [`./msgs.rs`](../../sai-core/smart-contracts/src/msgs.rs). 
 * Setting markets (`SetMarkets`)
 * Updating Oracle or Vault addresses
 * Configuring fees or borrowing groups
+* Configuring after-hours leverage controls through `UpdateAfterHours`
 * Withdrawing protocol funds
 * Pausing/trading activation toggles
 
@@ -208,7 +211,7 @@ These admin messages **reference** logic from:
 Several helper messages exist to alter the trade during its lifetime:
 
 * **`TriggerTrade { order_type: PendingOrderType }`**\
-  Usually invoked by keepers. This makes a limit/stop order active or triggers SL/TP closure.
+  Usually invoked by keepers. This makes a limit/stop order active, triggers SL/TP or liquidation closure, or normalizes after-hours leverage when the contract determines that risk action is needed.
 * **`UpdateOpenLimitOrder`**\
   Edits a not-yet-triggered limit or stop order's parameters (price, SL, TP, etc.).
 * **`UpdateTp` / `UpdateSl`**\
@@ -219,6 +222,10 @@ Several helper messages exist to alter the trade during its lifetime:
   If you increase leverage, the system returns collateral to you.
 
 > Under the hood, these modifications recalculate fees, re-check liquidation price, update Borrowing open interest if necessary, and more.
+
+For scheduled markets with after-hours controls, leverage updates, SL/TP
+updates, and position-size increases first materialize any required after-hours
+normalization. See [Perp: After-Hours Leverage](after-hours-leverage.md).
 
 ***
 

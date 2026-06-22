@@ -18,6 +18,10 @@ coverY: 0
 [leverage-and-liquidations.md](leverage-and-liquidations.md)
 {% endcontent-ref %}
 
+{% content-ref url="after-hours-leverage.md" %}
+[after-hours-leverage.md](after-hours-leverage.md)
+{% endcontent-ref %}
+
 {% content-ref url="price-impact.md" %}
 [price-impact.md](price-impact.md)
 {% endcontent-ref %}
