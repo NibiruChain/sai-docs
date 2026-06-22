@@ -68,12 +68,6 @@ that is removed. If fees consume the remaining collateral, the position can be
 closed by the contract.
 {% endhint %}
 
-This is different from a normal user leverage reduction. A normal leverage
-reduction adds collateral so the position size stays the same. After-hours
-normalization reduces position size without adding collateral, so the current
-contract accounts for the removed exposure through the same fee processor used
-for close-side risk actions.
-
 ## What should I watch in the UI?
 
 Check the market's displayed leverage limits before opening a trade. For

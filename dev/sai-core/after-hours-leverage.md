@@ -73,13 +73,6 @@ after-hours path:
    type `after_hours_risk_trigger`.
 6. Updates open interest and emits `sai/perp/trigger_trade/after_hours`.
 
-This is intentionally not the same as `UpdateLeverage` for a user reducing
-leverage. `UpdateLeverage` lowers leverage by requiring additional collateral,
-so total position size is preserved and no closing fee is charged. After-hours
-normalization lowers leverage by reducing position size, so the current
-implementation accounts for the removed exposure through the closing-fee
-processor.
-
 No catalyst reward is paid on normalization. The caller is helping synchronize
 risk, not executing a trader's TP/SL order.
 
