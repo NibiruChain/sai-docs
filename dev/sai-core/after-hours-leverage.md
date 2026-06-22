@@ -69,11 +69,18 @@ after-hours path:
 2. Checks liquidation first at the stored-leverage liquidation price.
 3. If liquidation is required, follows the liquidation close path.
 4. If liquidation is not required, reduces stored leverage to the effective cap.
-5. Charges close-side fees on the removed position-size delta with order type
-   `after_hours_risk_trigger`.
+5. Calls `process_closing_fees` on the removed position-size delta with order
+   type `after_hours_risk_trigger`.
 6. Updates open interest and emits `sai/perp/trigger_trade/after_hours`.
 
-No trigger reward is paid on normalization. The caller is helping synchronize
+This is intentionally not the same as `UpdateLeverage` for a user reducing
+leverage. `UpdateLeverage` lowers leverage by requiring additional collateral,
+so total position size is preserved and no closing fee is charged. After-hours
+normalization lowers leverage by reducing position size, so the current
+implementation accounts for the removed exposure through the closing-fee
+processor.
+
+No catalyst reward is paid on normalization. The caller is helping synchronize
 risk, not executing a trader's TP/SL order.
 
 If the normalization fee consumes the remaining collateral, the contract closes

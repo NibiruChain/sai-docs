@@ -55,7 +55,8 @@ When normalization runs, the contract:
 
 1. Checks whether the trade should be liquidated at the returned oracle price.
 2. If liquidation is not needed, reduces stored leverage to the after-hours cap.
-3. Charges closing-side fees on the reduced position-size delta.
+3. Applies the after-hours risk-trigger fee path to the position size that is
+   removed.
 4. Updates open interest so the market reflects the smaller exposure.
 
 This action does not reopen the market and does not let traders voluntarily exit
@@ -66,6 +67,12 @@ Normalization can reduce collateral because fees are charged on the exposure
 that is removed. If fees consume the remaining collateral, the position can be
 closed by the contract.
 {% endhint %}
+
+This is different from a normal user leverage reduction. A normal leverage
+reduction adds collateral so the position size stays the same. After-hours
+normalization reduces position size without adding collateral, so the current
+contract accounts for the removed exposure through the same fee processor used
+for close-side risk actions.
 
 ## What should I watch in the UI?
 
