@@ -309,8 +309,15 @@ query GetMarketInfo {
 - `oiMax`: Maximum allowed open interest
 - `feesPerHourLong` / `feesPerHourShort`: Borrowing rate (per hour)
 - `openFeePct` / `closeFeePct`: Opening/closing fee percentages
-- `maxLeverage` / `minLeverage`: Leverage limits
+- `maxLeverage` / `minLeverage`: Standard market leverage limits
 - `minPositionSizeUSD`: Minimum position size in USD
+
+{% hint style="info" %}
+For scheduled markets, `maxLeverage` is not the same as the after-hours
+effective leverage cap. If your integration needs to detect carried positions
+that require after-hours normalization, use the perp contract's after-hours
+queries and `get_trade_data.needs_after_hours_trigger`.
+{% endhint %}
 
 **Use Cases:**
 

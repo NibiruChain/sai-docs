@@ -70,6 +70,8 @@ The referral system rewards users for platform growth through a comprehensive af
 | `GROUPS`                   | `Map<GroupIndex, Group>`    | Stores information about trading groups  |
 | `FEES`                     | `Map<FeeIndex, Fee>`        | Stores fee information for trading pairs |
 | `PAIR_CUSTOM_MAX_LEVERAGE` | `Map<MarketIndex, Decimal>` | Stores custom maximum leverage for pairs |
+| `AFTER_HOURS_LEVERAGE`     | `Item<Decimal>`             | Stores the global after-hours effective leverage cap |
+| `AFTER_HOURS_MARKETS`      | `Map<MarketIndex, bool>`    | Marks markets where after-hours leverage controls apply |
 | `ORACLE_ADDRESS`           | `Item<Addr>`                | Stores the address of the oracle contract |
 | `VAULT_ADDRESSES`          | `Map<(GroupIndex, TokenIndex), Addr>` | Stores vault addresses for each group/token combination |
 
@@ -79,8 +81,14 @@ This module defines the core trading infrastructure:
 - **`GROUPS`**: Defines leverage limits and group-wide parameters for categorizing pairs with similar risk profiles. Note: This differs from the borrowing `GROUPS` which contains `BorrowingData`.
 - **`FEES`**: Contains fee structures (open/close/trigger fees) for each pair, enabling market-specific fee adjustments.
 - **`PAIR_CUSTOM_MAX_LEVERAGE`**: Provides pair-specific leverage limits that override group settings for volatile or illiquid markets.
+- **`AFTER_HOURS_LEVERAGE` and `AFTER_HOURS_MARKETS`**: Apply a lower effective leverage cap to live positions carried through a scheduled market close on configured markets.
 - **`ORACLE_ADDRESS`**: Points to the oracle contract for price feeds used in trade execution and liquidations.
 - **`VAULT_ADDRESSES`**: Maps vault contract addresses to group/token combinations for multi-vault asset management.
+
+`MarketInfo` also records scheduled-session metadata: `block_last_closed`,
+`block_last_opened`, and `last_close_price`. The after-hours leverage guard uses
+the block fields to decide whether a live trade was carried through the latest
+close. It does not use `last_close_price` as the after-hours settlement price.
 
 ## Price Impact and Open Interest
 

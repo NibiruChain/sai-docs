@@ -55,7 +55,7 @@ The platform consists of 5 interconnected smart contracts:
 
 - **SLP (Sai Liquidity Positions)**: Single-collateral vault model where LPs provide counterparty liquidity
 - **Multi-VM Architecture**: Platform supports both Cosmos (Wasm) and EVM interactions
-- **Perpetual Futures**: Leveraged trading up to 150x with oracle settlement
+- **Perpetual Futures**: Market-specific leverage with oracle settlement and scheduled-market after-hours caps
 - **Price Impact**: Dynamic execution pricing based on market depth and open interest
 
 ### Related Repositories
