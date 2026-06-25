@@ -54,6 +54,7 @@
   * [Let's Go Saicho: Rewards](blogs/lets-go-saicho-rewards.md)
   * [Sai Launches Stock Trading on Perps](blogs/stock-perps-launch.md)
   * [Sai Cookout](blogs/sai-cookout.md)
+  * [Sai Grand Cup 2026: Trade for Your Region](resources/blogs/sai-grand-cup-2026-trade-for-your-region.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Sai Disclosures](legal/disclosures.md)
