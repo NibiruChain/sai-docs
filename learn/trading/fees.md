@@ -21,6 +21,7 @@ traders.
 | Trigger Fee | 0.01%  | Charged only on automated orders (Limit, Stop Loss, Take Profit) to pay for the execution cost. |
 | Deposits & Withdrawals | 0 (*) | Always zero on Sai's L1, Nibiru. However, gas is required to bridge before depositing.  |
 | Maker Fee | 0 (Free) | No fee is charged for maker orders. |
+| Rapid-Close Fee | Up to ~1.15% of position size on most markets, decaying to 0 by ~12 min | Extra closing fee on positions held only briefly; paid to LPs. Some protected markets use a higher peak rate. See [Rapid-Close Fee](#rapid-close-fee). |
 
 Standard trading fees are calculated based on your total **position size** (leverage × collateral), not just your wallet balance.
 
@@ -32,6 +33,7 @@ Standard trading fees are calculated based on your total **position size** (leve
 - [Fee Lifecycle](#fee-lifecycle)
   - [1. Opening a Trade](#1-opening-a-trade)
   - [2. Closing a Trade](#2-closing-a-trade)
+- [Rapid-Close Fee](#rapid-close-fee)
 - [Liquidation Mechanics](#liquidation-mechanics)
   - [Key Difference: Collateral vs. Position](#key-difference-collateral-vs-position)
   - [The Liquidation Penalty](#the-liquidation-penalty)
@@ -71,6 +73,71 @@ When a user closes a trade, fees are handled differently depending on whether it
 
 * **Normal Closure:** The system determines the effective multiplier, calculates adjusted close fees, and distributes them.
 * **Liquidation:** The fee is a fixed percentage of the trader's collateral, bypassing any fee tier or referral discounts. This fee is then split between the vault and governance stakers.
+
+## Rapid-Close Fee
+
+Sai adds an extra fee when a position is closed very soon after it opens. The fee
+is largest in the first seconds of a trade and decays smoothly to zero the longer
+the position is held. It reaches zero after about 12 minutes, so it never touches
+positions held past that window.
+
+The fee protects Liquidity Providers. Very short holds can capture the brief
+difference between the on-chain oracle price and the live market price at the
+Vault's expense; a higher fee on the fastest closes removes that edge while
+leaving ordinary trading untouched.
+
+### How it is calculated
+
+The fee is a percentage of your **position size** (leverage × collateral). The
+rate decays exponentially with the time the position is held:
+
+```text
+fee_rate(hold) = F0 × e^(−hold / τ)
+```
+
+* `F0` is the peak rate at the moment of opening (1.15% on the global curve).
+* `τ` (tau) sets how fast the rate decays (about 76 seconds).
+* The rate is forced to zero once a position is held past 300 blocks, or about
+  12 minutes.
+* The charge is capped at 50% of the collateral being closed.
+
+With the global curve the fee is approximately:
+
+| Hold time | Fee (of position size) | Example at 10× | Example at 50× |
+|-----------|------------------------|----------------|----------------|
+| 0 seconds | 1.15% | 11.5% of collateral | capped at 50% |
+| ~1 minute | ~0.51% | ~5.1% of collateral | ~25.7% of collateral |
+| ~2 minutes | ~0.23% | ~2.3% of collateral | ~11.5% of collateral |
+| ~3 minutes | ~0.10% | ~1.0% of collateral | ~5.1% of collateral |
+| ~5 minutes | ~0.02% | ~0.2% of collateral | ~1.0% of collateral |
+| ~7 minutes | ~0.004% | ~0.04% of collateral | ~0.2% of collateral |
+| ~12 minutes or longer | 0 | 0 | 0 |
+
+Because the rate applies to position size, higher leverage makes the same short
+hold cost a larger share of your collateral. The fee is added to the standard
+closing fee and is paid entirely to the Vault (LPs). Fee-tier and referral
+discounts do not reduce it.
+
+### When it applies
+
+The fee applies to voluntary closes and to Take-Profit / Stop-Loss closes,
+including partial closes and leverage reductions. Liquidations and after-hours
+risk reductions are exempt.
+
+Most markets share the global curve. A few protected markets carry a higher peak
+rate `F0` of 2.117%, because a larger per-update price move gives a larger
+short-hold edge. The protected markets are SUI, ADA, DOGE, HYPE, and ZEC. They
+use the same decay speed, 300-block window, and 50% collateral cap as the global
+curve. The live rate for any market is queryable on-chain (see [Verifying Info
+Onchain](#verifying-info-onchain)).
+
+### What this means for traders
+
+Holding a position for a few minutes or longer makes this fee negligible or zero.
+Opening and closing within the same minute incurs a meaningful extra fee on close
+that is largest in the first seconds and falls quickly as the hold grows. In
+on-chain queries and trade events this fee is labelled the *short-lived-trade
+penalty*.
 
 ## Liquidation Mechanics
 
@@ -160,3 +227,41 @@ Output:
 
 The storage item is the referral discount amount. Here "0.15" means a 15%
 discount.
+
+### Claim: The rapid-close fee curve is configured on-chain.
+
+Query the perp contract for the live curve:
+```bash
+# Sai Mainnet Perp Smart Contract
+PERP='nibi1ntmw2dfvd0qnw5fnwdu9pev2hsnqfdj9ny9n0nzh2a5u8v0scflq930mph'
+NODE='https://rpc.nibiru.fi:443'
+
+nibid query wasm contract-state smart "$PERP" \
+  '{"get_short_lived_penalty_curve":{}}' \
+  --node "$NODE" --output json
+```
+
+Result:
+```json
+{"data":{"f0":"0.0115","tau_blocks":"31","max_window_blocks":300,"cap_pct":"0.5"}}
+```
+
+`f0` is the global peak rate (`0.0115` = 1.15%), `tau_blocks` the decay
+constant in blocks, `max_window_blocks` the hold past which the fee is zero (300
+blocks ≈ 12 minutes at ~2.44s/block), and `cap_pct` the cap as a fraction of
+collateral (`0.5` = 50%). To preview the rate for a specific market and hold
+time, query `get_short_lived_penalty_rate` with a `market_index` and
+`hold_blocks`.
+
+Protected markets can override the global peak rate. To verify the effective
+`F0` for a market:
+```bash
+nibid query wasm contract-state smart "$PERP" \
+  '{"get_short_lived_penalty_f0_for_market":{"market_index":43}}' \
+  --node "$NODE" --output json
+```
+
+Market 43 (HYPE) currently returns:
+```json
+{"data":"0.02117"}
+```
