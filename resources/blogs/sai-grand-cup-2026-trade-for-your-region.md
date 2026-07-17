@@ -5,13 +5,15 @@ cover: ../../.gitbook/assets/Sai Grand Cup Competition Banner Light (1).png
 coverY: 0
 ---
 
-# Sai Grand Cup 2026: Trade for Your Region
+# 08 - Sai Grand Cup 2026: Trade for Your Region
 
 Sai Grand Cup is a month-long, team-based trading competition running alongside this summer's biggest football tournament. Instead of trading solo, you're assigned a region based on your trading history, and your activity contributes to that continent's position on the leaderboard. Traders are assigned to a country automatically. When the competition ends, the top continents split a team prize pool, and the best individual traders earn separate rewards.
 
 If you already trade on Sai, this is a way to put your trading to work. If you're new, it's the easiest time to start: every qualifying trade also earns Sai Points.
 
 ### Timeline
+
+<figure><img src="../../.gitbook/assets/photo_5040025027167849455_y.jpg" alt=""><figcaption></figcaption></figure>
 
 The competition runs June 25 – July 19, 2026. Each day starts at 00:00 UTC and ends at 23:59 UTC on the dates prescribed. Winners are announced after the leaderboard closes, sometime after July 19th. Your continent is assigned based on your historical trading volume and is locked for the duration of the competition.
 
@@ -38,20 +40,12 @@ Rewards split into a region and an individual pool.
 **Region prizes: $3,500**\
 Split among a continent's qualifying traders, weighted by each trader's contribution to the region’s final score.
 
-| **Continent placement** | **Prize** |
-| ----------------------- | --------- |
-| Champion Region         | $2,000    |
-| Runner-Up Region        | $1,000    |
-| Third-Place Region      | $500      |
+<figure><img src="../../.gitbook/assets/photo_5040025027167849458_y.jpg" alt=""><figcaption></figcaption></figure>
 
 **Individual prizes: $1,500**\
 Awarded to the top individual traders across the full competition, regardless of region.
 
-| **Finish**    | **Prize** |
-| ------------- | --------- |
-| Season MVP    | $1,000    |
-| MVP Runner-Up | $350      |
-| Third Place   | $150      |
+<figure><img src="../../.gitbook/assets/photo_5040025027167849457_y.jpg" alt=""><figcaption></figcaption></figure>
 
 Rewards are paid in USDC credits on the Sai platform (non-withdrawable until a certain trading-activity threshold is reached). Final rewards may be adjusted based on eligibility, wash-trading checks, and competition rules.
 
