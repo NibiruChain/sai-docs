@@ -6,7 +6,7 @@ description: An in-depth look at the Sai Perp (perpetual futures) contract imple
 
 * **Events** are not covered in this guide.
 * **Borrowing logic** is described thoroughly here in the [Perp: Borrowing Module](perp-borrowing.md) specification.
-* **Fees logic** is described thoroughly in [./fees/README.md](../../sai-core/smart-contracts/src/fees/).
+* **Fees logic** is described thoroughly in [./fees/README.md](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/fees/README.md).
 * **Price impact** logic is described thoroughly in [Perp: Price Impact Module](perp-price-impact.md).
 * **After-hours leverage** controls are described in [Perp: After-Hours Leverage](after-hours-leverage.md).
 
@@ -64,13 +64,13 @@ Key files and folders relevant to this contract:
 * **`./trade.rs`**, **`./update_position_size.rs`**, **`./exec_update_leverage.rs`**
   * Main **trade** management logic: open/close trades, partial close, update SL/TP, leverage updates, and after-hours risk normalization.
 * **`./borrowing/`**
-  * [**Reference** here](../../sai-core/smart-contracts/src/borrowing/).
+  * [**Reference** here](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/borrowing/README.md).
   * Borrowing data structures, open-interest tracking, and fee accrual.
 * **`./fees/`**
-  * [**Reference** here](../../sai-core/smart-contracts/src/fees/).
+  * [**Reference** here](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/fees/README.md).
   * Fee calculations, tier logic, distribution of fees to vaults.
 * **`./price_impact/`**
-  * [**Reference** here](../../sai-core/smart-contracts/src/price_impact/).
+  * [**Reference** here](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/price_impact/README.md).
   * Logic to handle large trades moving the market price (slippage).
 * **`./trading/state.rs`**, **`./trading/utils.rs`**
   * Core state definitions for trades (like `Trade`, `TradeInfo`, `TradingActivated`).
@@ -138,7 +138,7 @@ No direct "execute calls" are done to other modules like borrowing/fees; these m
 
 ## Messages (`ExecuteMsg` and `AdminExecuteMsg`)
 
-User commands are in [`./msgs.rs`](../../sai-core/smart-contracts/src/msgs.rs). Notable fields (you can see the file for all arguments):
+User commands are in [`./msgs.rs`](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/msgs.rs). Notable fields (you can see the file for all arguments):
 
 * **`OpenTrade { market_index: MarketIndex, leverage: Decimal, long: bool, ... }`**\
   Opens a brand new position with specific parameters.
@@ -164,9 +164,9 @@ User commands are in [`./msgs.rs`](../../sai-core/smart-contracts/src/msgs.rs). 
 
 These admin messages **reference** logic from:
 
-* [Borrowing Admin Ops](../../sai-core/smart-contracts/src/borrowing/#key-components)
-* [Fees Admin Ops](../../sai-core/smart-contracts/src/fees/#key-components)
-* [Price Impact Admin Ops](../../sai-core/smart-contracts/src/price_impact/#open-interest-management)
+* [Borrowing Admin Ops](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/borrowing/README.md#key-components)
+* [Fees Admin Ops](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/fees/README.md#key-components)
+* [Price Impact Admin Ops](https://github.com/NibiruChain/sai-docs/blob/main/sai-core/smart-contracts/src/price_impact/README.md#open-interest-management)
 
 ***
 
@@ -223,9 +223,7 @@ Several helper messages exist to alter the trade during its lifetime:
 
 > Under the hood, these modifications recalculate fees, re-check liquidation price, update Borrowing open interest if necessary, and more.
 
-For scheduled markets with after-hours controls, leverage updates, SL/TP
-updates, and position-size increases first materialize any required after-hours
-normalization. See [Perp: After-Hours Leverage](after-hours-leverage.md).
+For scheduled markets with after-hours controls, leverage updates, SL/TP updates, and position-size increases first materialize any required after-hours normalization. See [Perp: After-Hours Leverage](after-hours-leverage.md).
 
 ***
 

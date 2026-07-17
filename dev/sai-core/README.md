@@ -1,13 +1,14 @@
 ---
-icon: fire
-cover: ../../.gitbook/assets/sai-twitter-banner-1500x500.jpg
 description: >-
   Sai's perpetual exchange app is implemented in Rust, a powerful language for
   secure, sandboxed programming, that compiles into Wasm bytecode. 5 key
   contracts manage everything on Sai, fully onchain.
+icon: fire
+cover: ../../.gitbook/assets/sai-twitter-banner-1500x500.jpg
+coverY: 0
 ---
 
-# Smart Contracts
+# Sai Core
 
 ### How Sai the Sai Smart Contracts Work
 
@@ -21,7 +22,7 @@ description: >-
   * Lets MetaMask/EVM users interact with the Wasm contracts.
   * Handles token conversion and cross-VM calls to `perp` and `vault`.
   * Mirrors the essential user flows (deposit, withdraw, open/close) for EVM wallets.
-* **`vault` (Liquidity provider pool)**: [Implements SLP Vaults](../learn/slp.md).
+* **`vault` (Liquidity provider pool)**: [Implements SLP Vaults](https://github.com/NibiruChain/sai-docs/blob/main/dev/learn/slp.md).
   * Aggregates LP liquidity to underwrite trader PnL.
   * Issues and accounts for shares against total assets; supports deposits and epoch-based withdrawals.
   * Absorbs trader PnL: when traders win, the vault pays out; when traders lose, the vault accrues profits.
@@ -81,4 +82,4 @@ description: >-
 
 ### Sai and the EVM
 
-Sai is written as a Multi VM app with contracts written in both Rust and Solidity. This lets the application benefit from the security benefits of working with Wasm while remaining fully capable of tapping into the flexibility and familiarity that comes with the Ethereum Virtual Machine (EVM).&#x20;
+Sai is written as a Multi VM app with contracts written in both Rust and Solidity. This lets the application benefit from the security benefits of working with Wasm while remaining fully capable of tapping into the flexibility and familiarity that comes with the Ethereum Virtual Machine (EVM).

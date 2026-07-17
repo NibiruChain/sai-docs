@@ -35,9 +35,9 @@ Stay updated with the latest news, feature releases, and insights from the Sai p
 
 Don't miss new posts. Follow Sai for real-time announcements:
 
-* **X / Twitter:** [@SaiDotFun](__https://x.com/SaiDotFun__)
-* **YouTube:** [@saidotfun](__https://www.youtube.com/@saidotfun__)
-* **Telegram:** [Join our community](__https://t.me/saidotfun__)
-* **Discord:** [Join our server](__https://discord.com/invite/saidotfun__)
-* **TikTok:** [@SaiDotFun](__https://www.tiktok.com/@saidotfun__)
-* **Instagram:** [@SaiDotFun](__https://instagram.com/saidotfun__)
+* **X / Twitter:** [@SaiDotFun](https://github.com/NibiruChain/sai-docs/blob/main/blogs/__https:/x.com/SaiDotFun__/README.md)
+* **YouTube:** [@saidotfun](https://github.com/NibiruChain/sai-docs/blob/main/blogs/__https:/www.youtube.com/@saidotfun__/README.md)
+* **Telegram:** [Join our community](https://github.com/NibiruChain/sai-docs/blob/main/blogs/__https:/t.me/saidotfun__/README.md)
+* **Discord:** [Join our server](https://github.com/NibiruChain/sai-docs/blob/main/blogs/__https:/discord.com/invite/saidotfun__/README.md)
+* **TikTok:** [@SaiDotFun](https://github.com/NibiruChain/sai-docs/blob/main/blogs/__https:/www.tiktok.com/@saidotfun__/README.md)
+* **Instagram:** [@SaiDotFun](https://github.com/NibiruChain/sai-docs/blob/main/blogs/__https:/instagram.com/saidotfun__/README.md)
