@@ -157,7 +157,7 @@ query GetBTCTrades($trader: String!) {
     trades(
       where: {
         trader: $trader
-        perpMarketId: 1  # BTC market
+        perpMarketId: 0  # BTC market
       }
       limit: 20
     ) {
