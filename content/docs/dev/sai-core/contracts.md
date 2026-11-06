@@ -75,7 +75,7 @@ Quick reference for all Sai Protocol contract addresses on Testnet and Mainnet.
 
 | Network | Address |
 |---------|---------|
-| **Testnet** | `0x282F097930E24e4fba97EE8687d15Ed1f298ad19` |
+| **Testnet** | `0x25589C8071fa10B7a8c62CdCA7035c539242A774` |
 
 ---
 
@@ -85,14 +85,15 @@ Quick reference for all Sai Protocol contract addresses on Testnet and Mainnet.
 
 | Token | Symbol | EVM Address | Bank Denom | Decimals | Logo |
 |-------|--------|-------------|------------|----------|------|
-| **USDC** | USDC | `0x0829F361A05D993d5CEb035cA6DF3446b060970b` | `erc20/0x0829F361A05D993d5CEb035cA6DF3446b060970b` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/002_usdc.png) |
+| **USDC** | USDC | `0x357c97796aA8e2A6b5A64b1Fc19d5baB9668E190` | `erc20/0x357c97796aA8e2A6b5A64b1Fc19d5baB9668E190` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/002_usdc.png) |
+| **USDC (LayerZero, legacy)** | USDC | `0x0829F361A05D993d5CEb035cA6DF3446b060970b` | `erc20/0x0829F361A05D993d5CEb035cA6DF3446b060970b` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/002_usdc.png) |
 | **Liquid Staked NIBI** | stNIBI | `0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b` | `tf/nibi1udqqx30cw8nwjxtl4l28ym9hhrp933zlq8dqxfjzcdhvl8y24zcqpzmh8m/ampNIBI` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/001_stnibi-evm.png) |
 
 ### Testnet Payment Tokens
 
 | Token | Symbol | EVM Address | Bank Denom | Decimals | Logo |
 |-------|--------|-------------|------------|----------|------|
-| **USDC** | USDC | `0xAb68f1D1d91854383fd4Df9016E3040D03e8191a` | `tf/nibi1pc2mmwcqhvzn9vsm0umpu40yzl6gfy6nucwn7g/usdc` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/002_usdc.png) |
+| **USDC** | USDC | `0x1d2eD546C1b5e142d568cab5a4A438f3B2f561E3` | `erc20/0x1d2eD546C1b5e142d568cab5a4A438f3B2f561E3` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/002_usdc.png) |
 | **Liquid Staked NIBI** | stNIBI | `0xCae3d404AFB50016154a4B18091351065154E9bD` | `tf/nibi1pc2mmwcqhvzn9vsm0umpu40yzl6gfy6nucwn7g/stnibi` | 6 | [🔗](https://raw.githubusercontent.com/NibiruChain/nibiru/main/token-registry/img/001_stnibi-evm.png) |
 
 ---
@@ -133,10 +134,10 @@ Quick reference for all Sai Protocol contract addresses on Testnet and Mainnet.
 # Core Contracts
 PERP_MANAGER="nibi1qtkcns647w959cj9x2yytateu6dgscfnfkraywwa443pr2erak0s5ux7e5"
 ORACLE="nibi1mqlrsvfhm5vzsz0wxr6mh8pzxzpz6dd4g7nuyycjf6gy5zc53fvq3lq2fz"
-EVM_INTERFACE="0x282F097930E24e4fba97EE8687d15Ed1f298ad19"
+EVM_INTERFACE="0x25589C8071fa10B7a8c62CdCA7035c539242A774"
 
 # Payment Tokens
-USDC_EVM="0xAb68f1D1d91854383fd4Df9016E3040D03e8191a"
+USDC_EVM="0x1d2eD546C1b5e142d568cab5a4A438f3B2f561E3"
 STNIBI_EVM="0xCae3d404AFB50016154a4B18091351065154E9bD"
 ```
 
@@ -149,6 +150,7 @@ ORACLE="nibi1xfwyfwtdame6645lgcs4xvf4u0hpsuvxrcelfwtztu0pv7n4l6hqw5a8gj"
 EVM_INTERFACE="0x25589C8071fa10B7a8c62CdCA7035c539242A774"
 
 # Payment Tokens
-USDC_EVM="0x0829F361A05D993d5CEb035cA6DF3446b060970b"
+USDC_EVM="0x357c97796aA8e2A6b5A64b1Fc19d5baB9668E190"
+LAYERZERO_USDC_EVM="0x0829F361A05D993d5CEb035cA6DF3446b060970b" # legacy
 STNIBI_EVM="0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b"
 ```
