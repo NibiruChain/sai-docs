@@ -50,7 +50,7 @@ Quick reference for all Sai Protocol contract addresses on Testnet and Mainnet.
 
 | Network | Address |
 |---------|---------|
-| **Mainnet** | `0x9F48A925Dda8528b3A5c2A6717Df0F03c8b167c0` |
+| **Mainnet** | `0x25589C8071fa10B7a8c62CdCA7035c539242A774` |
 
 
 ---
@@ -146,7 +146,7 @@ STNIBI_EVM="0xCae3d404AFB50016154a4B18091351065154E9bD"
 # Core Contracts
 PERP_MANAGER="nibi1ntmw2dfvd0qnw5fnwdu9pev2hsnqfdj9ny9n0nzh2a5u8v0scflq930mph"
 ORACLE="nibi1xfwyfwtdame6645lgcs4xvf4u0hpsuvxrcelfwtztu0pv7n4l6hqw5a8gj"
-EVM_INTERFACE="0x9F48A925Dda8528b3A5c2A6717Df0F03c8b167c0"
+EVM_INTERFACE="0x25589C8071fa10B7a8c62CdCA7035c539242A774"
 
 # Payment Tokens
 USDC_EVM="0x0829F361A05D993d5CEb035cA6DF3446b060970b"
